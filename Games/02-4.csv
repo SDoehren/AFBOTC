@@ -1,0 +1,25 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+27/02/2022,2,4,Trouble Brewing,Good,7,,2,4,Alejo,ST,,,,2,4,N1,Jon,Poison,Lycan,,,2,4,1,Lycan,Lycan,5,TRUE,TRUE,,2,4,1,Simon,FALSE,FALSE,FALSE
+,,,,,,,2,4,Simon,Empath,,FALSE,,2,4,N1,Lycan,Role Information,1,,,2,4,2,Jon,Simon,0,FALSE,FALSE,,2,4,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,2,4,Jordan,Virgin,,FALSE,,2,4,N1,Simon,Role Information,0,,,2,4,3,Jordan,Jon,4,TRUE,TRUE,,2,4,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,2,4,Jon,Poisoner,,FALSE,,2,4,D1,Lycan,Nomination,Lycan,V1,,,,,,,,,,,2,4,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,2,4,Piranha,Monk,,FALSE,,2,4,D1,Lycan,Executed,,,,,,,,,,,,,2,4,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,2,4,Sam,Slayer,,FALSE,,2,4,N2,Jon,Poison,Sam,,,,,,,,,,,,2,4,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,2,4,Weaver,Imp,,FALSE,,2,4,N2,Piranha,Monk Protect,Simon,,,,,,,,,,,,2,4,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,2,4,Lycan,Chef,,FALSE,,2,4,N2,Weaver,Demon Kill,Simon,Protected,,,,,,,,,,,2,4,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,2,4,Bluff,Washerwoman,,,,2,4,N2,Simon,Role Information,1,,,,,,,,,,,,2,4,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,2,4,Bluff,Undertaker,,,,2,4,D2,Sam,Slayer Shot,Weaver,Poisoned,,,,,,,,,,,2,4,2,Piranha,FALSE,TRUE,FALSE
+,,,,,,,2,4,Bluff,Mayor,,,,2,4,D2,Sam,Nomination,Jordan,No Vote,,,,,,,,,,,2,4,2,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,4,D2,Jordan,Virgin Kill,Sam,,,,,,,,,,,,2,4,2,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,4,N3,Jon,Poison,Piranha,,,,,,,,,,,,2,4,2,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,4,N3,Piranha,Monk Protect,Jordan,,,,,,,,,,,,2,4,2,Simon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,4,N3,Weaver,Demon Kill,Weaver,Star Pass,,,,,,,,,,,2,4,3,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,2,4,N3,Jon,Role Change,Imp,,,,,,,,,,,,2,4,3,Sam,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,2,4,N3,Simon,Role Information,0,,,,,,,,,,,,2,4,3,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,4,N4,Piranha,Monk Protect,Jordan,,,,,,,,,,,,2,4,3,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,2,4,N4,Jon,Demon Kill,Piranha,,,,,,,,,,,,2,4,3,Simon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,4,N4,Simon,Role Information,1,,,,,,,,,,,,2,4,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,4,D4,Jon,Nomination,Simon,V2,,,,,,,,,,,2,4,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,4,D4,Jordan,Nomination,Jon,V3,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,2,4,D4,Jon,Executed,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,2,4,D4,,Game End,,Demon Executed,,,,,,,,,,,,,,,,,

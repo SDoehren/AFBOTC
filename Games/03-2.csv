@@ -1,0 +1,73 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+07/03/2022,3,2,Trouble Brewing,Evil,8,,3,2,Alejo,ST,,,,3,2,N1,Piranha,Picks Master,Tim,,,3,2,1,Piranha,Lycan,5,TRUE,FALSE,,3,2,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,3,2,Tim,Saint,,FALSE,,3,2,N1,Amy,Role Information,0,,,3,2,2,Lycan,Piranha,5,FALSE,FALSE,,3,2,1,Frosty,TRUE,FALSE,FALSE
+,,,,,,,3,2,Piranha,Butler,,FALSE,,3,2,N1,Sam,Role Information,Lycan,,,3,2,3,Lycan,Piranha,4,TRUE,TRUE,,3,2,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,3,2,Georgia,Baron,,FALSE,,3,2,N1,Sam,Role Information,Frosty,,,3,2,4,Tim,Lycan,3,FALSE,FALSE,,3,2,1,Piranha,TRUE,FALSE,FALSE
+,,,,,,,3,2,Amy,Drunk,Empath,FALSE,,3,2,N1,Sam,Role Information,No,,,3,2,5,Lycan,Tim,1,FALSE,FALSE,,3,2,1,Georgia,FALSE,FALSE,FALSE
+,,,,,,,3,2,Weaver,Imp,,FALSE,,3,2,N1,Lycan,Role Information,Ravenkeeper,,,3,2,6,Tim,Frosty,1,FALSE,FALSE,,3,2,1,Amy,FALSE,FALSE,FALSE
+,,,,,,,3,2,Lycan,Washerwoman,,FALSE,,3,2,N1,Lycan,Role Information,Frosty,,,3,2,7,Weaver,Tim,3,TRUE,TRUE,,3,2,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,3,2,Sam,Fortune Teller,,FALSE,,3,2,N1,Lycan,Role Information,Amy,,,3,2,8,Frosty,Weaver,2,FALSE,FALSE,,3,2,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,3,2,Frosty,Ravenkeeper,,FALSE,,3,2,D1,Piranha,Nomination,Lycan,V1,,3,2,9,Tim,Frosty,1,FALSE,FALSE,,3,2,2,Georgia,TRUE,FALSE,FALSE
+,,,,,,,3,2,Bluff,Undertaker,,,,3,2,D1,Lycan,Nomination,Piranha,V2,,,,,,,,,,,3,2,2,Amy,TRUE,FALSE,FALSE
+,,,,,,,3,2,Bluff,Investigator,,,,3,2,N2,Weaver,Demon Kill,Sam,,,,,,,,,,,,3,2,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,3,2,Bluff,Slayer,,,,3,2,N2,Amy,Role Information,0,,,,,,,,,,,,3,2,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,N2,Piranha,Picks Master,Tim,,,,,,,,,,,,3,2,2,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D2,Lycan,Nomination,Piranha,V3,,,,,,,,,,,3,2,2,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D2,Tim,Nomination,Lycan,V4,,,,,,,,,,,3,2,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D2,Piranha,Executed,,,,,,,,,,,,,3,2,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,N3,Weaver,Demon Kill,Amy,,,,,,,,,,,,3,2,3,Georgia,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D3,Georgia,Slayer Shot,Lycan,Miss,,,,,,,,,,,3,2,3,Amy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D3,Lycan,Nomination,Tim,V5,,,,,,,,,,,3,2,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D3,Tim,Nomination,Frosty,V6,,,,,,,,,,,3,2,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,N4,Weaver,Demon Kill,Georgia,,,,,,,,,,,,3,2,3,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,3,2,N5,Weaver,Demon Kill,Lycan,,,,,,,,,,,,3,2,3,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D5,Weaver,Nomination,Tim,V7,,,,,,,,,,,3,2,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D5,Frosty,Nomination,Weaver,V8,,,,,,,,,,,3,2,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D5,Tim,Nomination,Frosty,V9,,,,,,,,,,,3,2,4,Sam,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,3,2,D5,Tim,Executed,,,,,,,,,,,,,3,2,4,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,3,2,D5,,Game End,,Saint Executed,,,,,,,,,,,3,2,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,Georgia,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,Amy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Georgia,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Amy,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Georgia,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Amy,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Georgia,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Amy,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,7,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Georgia,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Amy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,8,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Piranha,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Georgia,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Amy,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,9,Frosty,FALSE,FALSE,FALSE

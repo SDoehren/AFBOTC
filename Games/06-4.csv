@@ -1,0 +1,50 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+27/03/2022,6,4,Trouble Brewing,Good,7,,6,4,Alejo,ST,,,,6,4,N1,Jordan,Investigator Information,No Minion In Play,,,6,4,1,Jordan,Jordan,6,TRUE,TRUE,,6,4,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,6,4,Lycan,Imp,,FALSE,,6,4,N1,Tim,Chef Number,0,,,6,4,2,Weaver,Tim,3,TRUE,TRUE,,6,4,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,6,4,Piranha,Virgin,,FALSE,,6,4,N1,Sam,Fortune Teller Information,Jordan|Tim|No,,,6,4,3,Tim,Dice,2,FALSE,FALSE,,6,4,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,6,4,Tim,Chef,,FALSE,,6,4,D1,Jordan,Nomination,Jordan,V1,,6,4,4,Jordan,Sam,2,FALSE,FALSE,,6,4,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,6,4,Sam,Fortune Teller,,FALSE,,6,4,D1,Piranha,Nomination,Piranha,No Vote,,6,4,5,Sam,Lycan,1,FALSE,FALSE,,6,4,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,6,4,Jordan,Investigator,,FALSE,,6,4,D1,Piranha,Virgin Kill,Piranha,,,6,4,6,Dice,Weaver,2,FALSE,FALSE,,6,4,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,6,4,Dice,Spy,,FALSE,,6,4,N2,Lycan,Demon Kill,Lycan,Star Pass,,6,4,7,Dice,Jordan,1,FALSE,FALSE,,6,4,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,6,4,Weaver,Mayor,,FALSE,,6,4,N2,Dice,Role Change,Imp,,,,,,,,,,,,6,4,2,Sam,TRUE,FALSE,FALSE
+,,,,,,,6,4,Bluff,Librarian,,,,6,4,N2,Sam,Fortune Teller Information,Weaver|Lycan|Yes,,,,,,,,,,,,6,4,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,6,4,Bluff,Empath,,,,6,4,D2,Weaver,Nomination,Tim,V2,,,,,,,,,,,6,4,2,Dice,TRUE,FALSE,FALSE
+,,,,,,,6,4,Bluff,Undertaker,,,,6,4,D2,Tim,Nomination,Dice,V3,,,,,,,,,,,6,4,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,4,D2,Jordan,Nomination,Sam,V4,,,,,,,,,,,6,4,2,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,6,4,D2,Sam,Nomination,Lycan,V5,,,,,,,,,,,6,4,2,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,6,4,D2,Dice,Nomination,Weaver,V6,,,,,,,,,,,6,4,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,4,D2,Tim,Executed,,,,,,,,,,,,,6,4,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,4,N3,Dice,Demon Kill,Sam,,,,,,,,,,,,6,4,3,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,6,4,D3,Dice,Nomination,Jordan,V7,,,,,,,,,,,6,4,3,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,6,4,D3,,Game End,,Mayor Win,,,,,,,,,,,6,4,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,Jordan,FALSE,FALSE,FALSE

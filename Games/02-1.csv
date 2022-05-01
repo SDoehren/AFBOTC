@@ -1,0 +1,50 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+27/02/2022,2,1,Trouble Brewing,Evil,7,,2,1,Alejo,ST,,,,2,1,N1,Lycan,Poison,Piranha,,,2,1,1,Piranha,Weaver,4,TRUE,TRUE,,2,1,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,2,1,Sam,Investigator,,FALSE,,2,1,N1,Tim,Role Information,Fortune Teller,,,2,1,2,Weaver,Sam,1,FALSE,FALSE,,2,1,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,2,1,Weaver,Fortune Teller,,FALSE,,2,1,N1,Tim,Role Information,Sam,,,2,1,3,Jon,Tim,3,FALSE,FALSE,,2,1,1,Piranha,TRUE,FALSE,FALSE
+,,,,,,,2,1,Lycan,Poisoner,,FALSE,,2,1,N1,Tim,Role Information,Weaver,,,2,1,4,Jon,Sam,3,TRUE,TRUE,,2,1,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,2,1,Tim,Washerwoman,,FALSE,,2,1,N1,Sam,Role Information,Poisoner,,,2,1,5,Lycan,Jon,2,TRUE,FALSE,,2,1,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,2,1,Piranha,Chef,,FALSE,,2,1,N1,Sam,Role Information,Lycan,,,2,1,6,Jon,Jordan,3,TRUE,FALSE,,2,1,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,2,1,Jon,Undertaker,,FALSE,,2,1,N1,Sam,Role Information,Piranha,,,2,1,7,Jordan,Lycan,3,FALSE,FALSE,,2,1,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,2,1,Jordan,Imp,,FALSE,,2,1,N1,Piranha,Role Information,1,,,,,,,,,,,,2,1,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,2,1,Bluff,Empath,,,,2,1,N1,Weaver,Role Information,Sam,,,,,,,,,,,,2,1,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,2,1,Bluff,Slayer,,,,2,1,N1,Weaver,Role Information,Lycan,,,,,,,,,,,,2,1,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,2,1,Bluff,Soldier,,,,2,1,N1,Weaver,Role Information,No,,,,,,,,,,,,2,1,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D1,Piranha,Nomination,Weaver,V1,,,,,,,,,,,2,1,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D1,Weaver,Nomination,Sam,V2,,,,,,,,,,,2,1,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D1,Jon,Nomination,Tim,V3,,,,,,,,,,,2,1,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D1,Weaver,Executed,,,,,,,,,,,,,2,1,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,N2,Lycan,Poison,Tim,,,,,,,,,,,,2,1,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,N2,Jordan,Demon Kill,Piranha,,,,,,,,,,,,2,1,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,N2,Jon,Role Information,Fortune Teller,,,,,,,,,,,,2,1,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D2,Jon,Nomination,Sam,V4,,,,,,,,,,,2,1,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D2,Sam,Executed,,,,,,,,,,,,,2,1,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,N3,Lycan,Poison,Tim,,,,,,,,,,,,2,1,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,N3,Jordan,Demon Kill,Tim,,,,,,,,,,,,2,1,4,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,1,N3,Jon,Role Information,Investigator,,,,,,,,,,,,2,1,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D3,Lycan,Nomination,Jon,V5,,,,,,,,,,,2,1,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D3,Jon,Nomination,Jordan,V6,,,,,,,,,,,2,1,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D3,Jordan,Nomination,Lycan,V7,,,,,,,,,,,2,1,4,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,1,D3,,Game End,,Two Living Players,,,,,,,,,,,2,1,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,5,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,5,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,5,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,5,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,5,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,6,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,6,Weaver,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,6,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,6,Tim,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,6,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,6,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,7,Tim,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,7,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,7,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,7,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,7,Weaver,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,7,Lycan,TRUE,FALSE,FALSE

@@ -1,0 +1,43 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+20/03/2022,5,4,Sects and Violets,Evil,7,,5,4,Alejo,ST,,,,5,4,N1,Sam,Cerenovus Madness,Lycan|Philosopher,,,5,4,1,Jordan,Jon,3,FALSE,FALSE,,5,4,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,5,4,Jon,Vortox,,FALSE,,5,4,N1,Lycan,Dreamer Check,Jordan|Philosopher|Cerenovus,,,5,4,2,Jon,Weaver,3,FALSE,FALSE,,5,4,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,5,4,Jordan,Artist,,FALSE,,5,4,D1,Jordan,Nomination,Jon,V1,,5,4,3,Jordan,Jordan,3,TRUE,FALSE,,5,4,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,5,4,Lycan,Dreamer,,FALSE,,5,4,D1,Jon,Nomination,Weaver,V2,,5,4,4,Dice,Tim,2,TRUE,FALSE,,5,4,1,Sam,FALSE,FALSE,FALSE
+,,,,,,,5,4,Weaver,Sage,,FALSE,,5,4,D1,Weaver,Nomination,Lycan,No Vote,,5,4,5,Jordan,Jon,1,FALSE,FALSE,,5,4,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,5,4,Sam,Cerenovus,,FALSE,,5,4,D1,Lycan,Cerenovus Execution,,,,5,4,6,Sam,Jordan,4,TRUE,TRUE,,5,4,1,Dice,FALSE,FALSE,FALSE
+,,,,,,,5,4,Tim,Flowergirl,,FALSE,,5,4,N2,Sam,Cerenovus Madness,Weaver|Klutz,,,,,,,,,,,,5,4,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,5,4,Dice,Oracle,,FALSE,,5,4,N2,Jon,Demon Kill,Weaver,,,,,,,,,,,,5,4,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,5,4,Bluff,Philosopher,,,,5,4,N2,Weaver,Sage Information,Sam|Tim,,,,,,,,,,,,5,4,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,5,4,Bluff,Snake Charmer,,,,5,4,N2,Tim,Flowergirl Information,No,,,,,,,,,,,,5,4,2,Dice,TRUE,FALSE,FALSE
+,,,,,,,5,4,Bluff,Juggler,,,,5,4,N2,Dice,Oracle Number,1,,,,,,,,,,,,5,4,2,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D2,Jordan,Artist Question,"Is Demon Myself, Jon or Tim?|No",,,,,,,,,,,,5,4,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D2,Jordan,Nomination,Jordan,V3,,,,,,,,,,,5,4,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D2,Weaver,Cerenovus Execution,,,,,,,,,,,,,5,4,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,N3,Sam,Cerenovus Madness,Weaver|Klutz,,,,,,,,,,,,5,4,3,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,5,4,N3,Jon,Demon Kill,Tim,,,,,,,,,,,,5,4,3,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,5,4,N3,Dice,Oracle Number,1,,,,,,,,,,,,5,4,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D3,Dice,Nomination,Tim,V4,,,,,,,,,,,5,4,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D3,Jordan,Nomination,Jon,V5,,,,,,,,,,,5,4,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D3,Sam,Nomination,Jordan,V6,,,,,,,,,,,5,4,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D3,Jordan,Executed,,,,,,,,,,,,,5,4,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,4,D3,,Game End,,Two Living Players,,,,,,,,,,,5,4,4,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,Jordan,TRUE,FALSE,FALSE
