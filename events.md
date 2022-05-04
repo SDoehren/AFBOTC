@@ -18,17 +18,17 @@
 | Butler           | Executed                   | Piranha  |                                                                                                    |                     |
 | Butler           | Nomination                 | Piranha  | Lycan                                                                                              | V#                  |
 | Butler           | Picks Master               | Piranha  | Tim                                                                                                |                     |
-| Cerenovus        | Cerenovus Madness          | Jordan   | Charli|Klutz                                                                                       |                     |
-| Cerenovus        | Cerenovus Madness          | Jordan   | Lycan|Mutant                                                                                       |                     |
-| Cerenovus        | Cerenovus Madness          | Jordan   | Sam|Snake Charmer                                                                                  |                     |
+| Cerenovus        | Cerenovus Madness          | Jordan   | Charli&#124;Klutz                                                                                       |                     |
+| Cerenovus        | Cerenovus Madness          | Jordan   | Lycan&#124;Mutant                                                                                       |                     |
+| Cerenovus        | Cerenovus Madness          | Jordan   | Sam&#124;Snake Charmer                                                                                  |                     |
 | Cerenovus        | Nomination                 | Jordan   | Piranha                                                                                            | V#                  |
-| Cerenovus        | Cerenovus Madness          | Sam      | Lycan|Philosopher                                                                                  |                     |
-| Cerenovus        | Cerenovus Madness          | Sam      | Weaver|Klutz                                                                                       |                     |
+| Cerenovus        | Cerenovus Madness          | Sam      | Lycan&#124;Philosopher                                                                                  |                     |
+| Cerenovus        | Cerenovus Madness          | Sam      | Weaver&#124;Klutz                                                                                       |                     |
 | Cerenovus        | Nomination                 | Sam      | Jordan                                                                                             | V#                  |
-| Chambermaid      | Chambermaid Choice         | Weaver   | Dice|Sam|1                                                                                         |                     |
-| Chambermaid      | Chambermaid Choice         | Weaver   | Jordan|Lycan|0                                                                                     |                     |
-| Chambermaid      | Chambermaid Choice         | Weaver   | Lycan|Dice|1                                                                                       |                     |
-| Chambermaid      | Chambermaid Choice         | Weaver   | Sam|Tim|1                                                                                          |                     |
+| Chambermaid      | Chambermaid Choice         | Weaver   | Dice&#124;Sam&#124;1                                                                                         |                     |
+| Chambermaid      | Chambermaid Choice         | Weaver   | Jordan&#124;Lycan&#124;0                                                                                     |                     |
+| Chambermaid      | Chambermaid Choice         | Weaver   | Lycan&#124;Dice&#124;1                                                                                       |                     |
+| Chambermaid      | Chambermaid Choice         | Weaver   | Sam&#124;Tim&#124;1                                                                                          |                     |
 | Chambermaid      | Drunk                      | Weaver   |                                                                                                    |                     |
 | Chambermaid      | Executed                   | Weaver   |                                                                                                    | Protected           |
 | Chambermaid      | Nomination                 | Weaver   | Lycan                                                                                              | V#                  |
@@ -50,11 +50,11 @@
 | Devil's Advocate | DA Protection              | Weaver   | Lycan                                                                                              |                     |
 | Devil's Advocate | DA Protection              | Weaver   | Sam                                                                                                |                     |
 | Devil's Advocate | DA Protection              | Weaver   | Tim                                                                                                |                     |
-| Dreamer          | Dreamer Check              | Dice     | Charli|Klutz|Pit-Hag                                                                               |                     |
-| Dreamer          | Dreamer Check              | Dice     | Sam|Sweetheart|Pit-Hag                                                                             |                     |
-| Dreamer          | Dreamer Check              | Dice     | Tim|Sage|Witch                                                                                     |                     |
+| Dreamer          | Dreamer Check              | Dice     | Charli&#124;Klutz&#124;Pit-Hag                                                                               |                     |
+| Dreamer          | Dreamer Check              | Dice     | Sam&#124;Sweetheart&#124;Pit-Hag                                                                             |                     |
+| Dreamer          | Dreamer Check              | Dice     | Tim&#124;Sage&#124;Witch                                                                                     |                     |
 | Dreamer          | Cerenovus Execution        | Lycan    |                                                                                                    |                     |
-| Dreamer          | Dreamer Check              | Lycan    | Jordan|Philosopher|Cerenovus                                                                       |                     |
+| Dreamer          | Dreamer Check              | Lycan    | Jordan&#124;Philosopher&#124;Cerenovus                                                                       |                     |
 | Dreamer          | Role Information           | Tim      | Empath                                                                                             |                     |
 | Dreamer          | Role Information           | Tim      | Sam                                                                                                |                     |
 | Dreamer          | Role Information           | Tim      | Spy                                                                                                |                     |
@@ -94,16 +94,16 @@
 | Fortune Teller   | Nomination                 | Piranha  | Weaver                                                                                             | V#                  |
 | Fortune Teller   | Role Information           | Piranha  | Amy                                                                                                |                     |
 | Fortune Teller   | Role Information           | Piranha  | Tim                                                                                                |                     |
-| Fortune Teller   | Fortune Teller Information | Sam      | Dice|Jordan|Yes                                                                                    |                     |
-| Fortune Teller   | Fortune Teller Information | Sam      | Jordan|Tim|No                                                                                      |                     |
-| Fortune Teller   | Fortune Teller Information | Sam      | Weaver|Lycan|Yes                                                                                   |                     |
+| Fortune Teller   | Fortune Teller Information | Sam      | Dice&#124;Jordan&#124;Yes                                                                                    |                     |
+| Fortune Teller   | Fortune Teller Information | Sam      | Jordan&#124;Tim&#124;No                                                                                      |                     |
+| Fortune Teller   | Fortune Teller Information | Sam      | Weaver&#124;Lycan&#124;Yes                                                                                   |                     |
 | Fortune Teller   | Role Information           | Sam      | Frosty                                                                                             |                     |
 | Fortune Teller   | Executed                   | Weaver   |                                                                                                    |                     |
 | Fortune Teller   | Nomination                 | Weaver   | Sam                                                                                                | V#                  |
 | Fortune Teller   | Role Information           | Weaver   | No                                                                                                 |                     |
 | Fortune Teller   | Role Information           | Weaver   | Sam                                                                                                |                     |
 | Gambler          | Failed Gamble              | Dice     |                                                                                                    |                     |
-| Gambler          | Gambler Choice             | Dice     | Piranha|Fool                                                                                       |                     |
+| Gambler          | Gambler Choice             | Dice     | Piranha&#124;Fool                                                                                       |                     |
 | Godfather        | Executed                   | Piranha  |                                                                                                    |                     |
 | Godfather        | Godfather Information      | Piranha  | Goon                                                                                               |                     |
 | Godfather        | Nomination                 | Piranha  | Jordan                                                                                             | V#                  |
@@ -159,18 +159,18 @@
 | Investigator     | Role Information           | Sam      | Piranha                                                                                            |                     |
 | Investigator     | Role Information           | Sam      | Scarlet Woman                                                                                      |                     |
 | Investigator     | Role Information           | Sam      | Weaver                                                                                             |                     |
-| Investigator     | Investigator Information   | Tim      | Poisoner|Lyra|Georgia                                                                              |                     |
+| Investigator     | Investigator Information   | Tim      | Poisoner&#124;Lyra&#124;Georgia                                                                              |                     |
 | Investigator     | Nomination                 | Tim      | Georgia                                                                                            | V#                  |
 | Juggler          | Executed                   | Jon      |                                                                                                    |                     |
-| Juggler          | Juggle                     | Jon      | Jordan|Philosopher                                                                                 |                     |
-| Juggler          | Juggle                     | Jon      | Lycan|Savant                                                                                       |                     |
-| Juggler          | Juggle                     | Jon      | Weaver|Seamstress                                                                                  |                     |
+| Juggler          | Juggle                     | Jon      | Jordan&#124;Philosopher                                                                                 |                     |
+| Juggler          | Juggle                     | Jon      | Lycan&#124;Savant                                                                                       |                     |
+| Juggler          | Juggle                     | Jon      | Weaver&#124;Seamstress                                                                                  |                     |
 | Juggler          | Nomination                 | Jon      | Jon                                                                                                | V#                  |
 | Juggler          | Role Information           | Jon      | 1                                                                                                  |                     |
-| Juggler          | Juggle                     | Sam      | Sam|Juggler                                                                                        |                     |
+| Juggler          | Juggle                     | Sam      | Sam&#124;Juggler                                                                                        |                     |
 | Juggler          | Juggler Information        | Sam      | 1                                                                                                  |                     |
 | Librarian        | Executed                   | Jon      |                                                                                                    |                     |
-| Librarian        | Librarian Information      | Jon      | Saint|Sam|Weaver                                                                                   |                     |
+| Librarian        | Librarian Information      | Jon      | Saint&#124;Sam&#124;Weaver                                                                                   |                     |
 | Librarian        | Nomination                 | Jon      | Jon                                                                                                | V#                  |
 | Librarian        | Nomination                 | Jon      | Jordan                                                                                             | V#                  |
 | Librarian        | Nomination                 | Jon      | Tim                                                                                                | V#                  |
@@ -275,8 +275,8 @@
 | Saint            | Nomination                 | Tim      | Lycan                                                                                              | V#                  |
 | Savant           | Nomination                 | Sam      | Frosty                                                                                             | V#                  |
 | Savant           | Role Change                | Sam      | Sweetheart                                                                                         |                     |
-| Savant           | Savant Info                | Sam      | A chef would get a 1|Sam was selected by the witch                                                 |                     |
-| Savant           | Savant Info                | Sam      | There is exactly one dead evil player|All three evils player are on the right (Lycan through Dice) |                     |
+| Savant           | Savant Info                | Sam      | A chef would get a 1&#124;Sam was selected by the witch                                                 |                     |
+| Savant           | Savant Info                | Sam      | There is exactly one dead evil player&#124;All three evils player are on the right (Lycan through Dice) |                     |
 | Scarlet Woman    | Nomination                 | Jon      | Lycan                                                                                              | V#                  |
 | Scarlet Woman    | Demon Kill                 | Lycan    | Jordan                                                                                             |                     |
 | Scarlet Woman    | Demon Kill                 | Lycan    | Jordan                                                                                             | Mayor Bounce        |
@@ -365,13 +365,13 @@
 | Vortox           | Killed                     | Jon      |                                                                                                    | Slayer Kill         |
 | Vortox           | Nomination                 | Jon      | Sam                                                                                                | V#                  |
 | Vortox           | Nomination                 | Jon      | Weaver                                                                                             | V#                  |
-| Vortox           | Select Barber Swap         | Jon      | Weaver|Amy                                                                                         |                     |
+| Vortox           | Select Barber Swap         | Jon      | Weaver&#124;Amy                                                                                         |                     |
 | Washerwoman      | Executed                   | Amelia   |                                                                                                    |                     |
 | Washerwoman      | Role Information           | Amelia   | Euan                                                                                               |                     |
 | Washerwoman      | Role Information           | Amelia   | Jordan                                                                                             |                     |
 | Washerwoman      | Role Information           | Amelia   | Mayor                                                                                              |                     |
 | Washerwoman      | Nomination                 | Dice     | Dice                                                                                               | V#                  |
-| Washerwoman      | Washerwoman Information    | Dice     | Weaver|Jordan|Ravenkeeper                                                                          |                     |
+| Washerwoman      | Washerwoman Information    | Dice     | Weaver&#124;Jordan&#124;Ravenkeeper                                                                          |                     |
 | Washerwoman      | Nomination                 | Lycan    | Jon                                                                                                | V#                  |
 | Washerwoman      | Nomination                 | Lycan    | Piranha                                                                                            | V#                  |
 | Washerwoman      | Nomination                 | Lycan    | Tim                                                                                                | V#                  |

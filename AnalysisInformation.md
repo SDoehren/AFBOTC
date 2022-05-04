@@ -8,10 +8,10 @@
 |    4    |   2   |       2        |    Complete    |
 |    5    |   5   |       5        |    Complete    |
 |    6    |   4   |       4        |    Complete    |
-|    7    |  4   |       1        |  G2 claimsed   |
-|    8    |  Unk  |       0        |  Not Started   |
-|    9    |  Unk  |       0        |  Not Started   |
-|    10   |  Unk  |       0        |  Not Started   |
+|    7    |   4   |       2        |    Ongoing     |
+|    8    |   5   |       0        |  Not Started   |
+|    9    |   5   |       0        |  Not Started   |
+|    10   |       |                |    Unplayed    |
 |    11   |       |                |    Unplayed    |
 |    12   |       |                |    Unplayed    |
 |    13   |       |                |    Unplayed    |
@@ -27,5 +27,5 @@
 
 | Session | Game | Claimed By | Date Claimed |
 |:-------:|:----:|:----------:|:------------:|
-|    7    |  2   |    Perm    |   04/05/22   |
+|         |      |            |              |
 |         |      |            |              |
