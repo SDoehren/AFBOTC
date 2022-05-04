@@ -1,0 +1,49 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+03/04/2022,7,1,Trouble Brewing,Evil,8,,8,1,Alejo,ST,,,,8,1,N1,Permzilla,Poison,Tim,,,8,1,1,Permzilla,Electra,0,FALSE,FALSE,,8,1,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,8,1,Weaver,Empath,,FALSE,,8,1,N1,Weaver,Empath Number,0,,,8,1,2,Electra,Electra,4,TRUE,TRUE,,8,1,1,Dice,FALSE,FALSE,FALSE
+,,,,,,,8,1,Tim,Undertaker,,FALSE,,8,1,N1,Dice,Fortune Teller Information,Tim|Lycan|No,,,8,1,3,Piranha,Permzilla,3,FALSE,FALSE,,8,1,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,8,1,Electra,Mayor,,FALSE,,8,1,D1,Permzilla,Nomination,Electra,V1,,8,1,4,Permzilla,Weaver,1,FALSE,FALSE,,8,1,1,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,8,1,Jordan,Imp,,FALSE,,8,1,D1,Tim,Nomination,Piranha,No Vote,,8,1,5,Weaver,Jordan,3,TRUE,FALSE,,8,1,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,8,1,Dice,Fortune Teller,,FALSE,,8,1,D1,Piranha,Virgin Kill,Tim,,,8,1,6,Jordan,Permzilla,5,TRUE,TRUE,,8,1,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,8,1,Lycan,Drunk,Slayer,FALSE,,8,1,N2,Permzilla,Poison,Weaver,,,,,,,,,,,,8,1,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,8,1,Permzilla,Poisoner,,FALSE,,8,1,N2,Jordan,Demon Kill,Dice,,,,,,,,,,,,8,1,1,Electra,FALSE,FALSE,FALSE
+,,,,,,,8,1,Piranha,Virgin,,FALSE,,8,1,N2,Weaver,Empath Number,1,,,,,,,,,,,,8,1,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,8,1,Bluff,Investigator,,,,8,1,D2,Electra,Nomination,Electra,V2,,,,,,,,,,,8,1,2,Dice,TRUE,TRUE,FALSE
+,,,,,,,8,1,Bluff,Ravenkeeper,,,,8,1,D2,Piranha,Nomination,Permzilla,V3,,,,,,,,,,,8,1,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,8,1,Bluff,Recluse,,,,8,1,D2,Electra,Executed,,,,,,,,,,,,,8,1,2,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,N3,Permzilla,Poison,Weaver,,,,,,,,,,,,8,1,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,N3,Jordan,Demon Kill,Lycan,,,,,,,,,,,,8,1,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,N3,Weaver,Empath Number,2,,,,,,,,,,,,8,1,2,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,8,1,N3,Permzilla,Poison,Weaver,,,,,,,,,,,,8,1,2,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,N3,Jordan,Demon Kill,Piranha,,,,,,,,,,,,8,1,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,N3,Weaver,Empath Number,69,,,,,,,,,,,,8,1,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,D4,Permzilla,Nomination,Weaver,V4,,,,,,,,,,,8,1,3,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,8,1,D4,Weaver,Nomination,Jordan,V5,,,,,,,,,,,8,1,3,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,D4,Jordan,Nomination,Permzilla,V6,,,,,,,,,,,8,1,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,8,1,D4,Permzilla,Executed,,,,,,,,,,,,,8,1,3,Dice,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,8,1,D4,,Game End,,Two Living Players,,,,,,,,,,,8,1,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,3,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Dice,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Dice,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Tim,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Tim,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Electra,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Dice,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,6,Permzilla,TRUE,FALSE,FALSE
