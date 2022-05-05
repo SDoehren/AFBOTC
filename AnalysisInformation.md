@@ -8,7 +8,7 @@
 |    4    |   2   |       2        |    Complete    |
 |    5    |   5   |       5        |    Complete    |
 |    6    |   4   |       4        |    Complete    |
-|    7    |   4   |       2        |    Ongoing     |
+|    7    |   4   |       3        |    Ongoing     |
 |    8    |   5   |       0        |  Not Started   |
 |    9    |   5   |       0        |  Not Started   |
 |    10   |       |                |    Unplayed    |
