@@ -1,0 +1,91 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+10/04/2022,9,1,Think You Can Clocktower?,Good,9,,9,1,Alejo,ST,,,,9,1,N1,Frosty,Drinking Buddy,Sam,,,9,1,1,Frosty,Frosty,9,TRUE,TRUE,,9,1,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,9,1,Jordan,Ravenkeeper,,FALSE,,9,1,N1,Frosty,Drunk,Sam,,,9,1,2,Tim,Tim,0,FALSE,FALSE,,9,1,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,9,1,Dice,Pit-Hag,,FALSE,,9,1,N1,Sam,Empath Number,1,,,9,1,3,Sam,Sam,1,FALSE,FALSE,,9,1,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,9,1,Permzilla,Oracle,,FALSE,,9,1,N1,Lycan,Grandmother Information,Sam|Empath,,,9,1,4,Lycan,Lycan,2,FALSE,FALSE,,9,1,1,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,9,1,Electra,Vigormortis,,FALSE,,9,1,D1,Weaver,Gossip,"Between Weaver, Sam, Permzilla and Tim, there is an outsider.",,,9,1,5,Tim,Tim,5,TRUE,TRUE,,9,1,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,9,1,Tim,Recluse,,FALSE,,9,1,D1,Frosty,Nomination,Frosty,V1,,9,1,6,Jordan,Electra,2,FALSE,FALSE,,9,1,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,9,1,Lycan,Grandmother,,FALSE,,9,1,D1,Tim,Nomination,Tim,V2,,9,1,7,Permzilla,Frosty,2,FALSE,FALSE,,9,1,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,9,1,Sam,Empath,,FALSE,,9,1,D1,Sam,Nomination,Sam,V3,,9,1,8,Jordan,Frosty,6,TRUE,TRUE,,9,1,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,9,1,Frosty,Sailor,,FALSE,,9,1,D1,Lycan,Nomination,Lycan,V4,,9,1,9,Jordan,Electra,4,TRUE,TRUE,,9,1,1,Frosty,TRUE,FALSE,FALSE
+,,,,,,,9,1,Weaver,Gossip,,FALSE,,9,1,D1,Frosty,Executed,,Protected,,9,1,10,Electra,Jordan,1,FALSE,FALSE,,9,1,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,9,1,Bluff,Clockmaker,,,,9,1,N2,Frosty,Drinking Buddy,Tim,,,,,,,,,,,,9,1,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,9,1,Bluff,Innkeeper,,,,9,1,N2,Frosty,Drunk,Frosty,,,,,,,,,,,,9,1,2,Frosty,FALSE,FALSE,FALSE
+,,,,,,,9,1,Bluff,Philosopher,,,,9,1,N2,Dice,Pit-Hag Pick,Frosty,Lunatic,,,,,,,,,,,9,1,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N2,Frosty,Lunatic Pick,Lycan,,,,,,,,,,,,9,1,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N2,Electra,Demon Kill,Dice,,,,,,,,,,,,9,1,2,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N2,Electra,Vigormortis Poison,Permzilla,,,,,,,,,,,,9,1,2,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N2,Lycan,Gossip Kill,,,,,,,,,,,,,9,1,2,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N2,Sam,Empath Number,1,,,,,,,,,,,,9,1,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N2,Permzilla,Oracle Number,0,,,,,,,,,,,,9,1,3,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D2,Tim,Nomination,Tim,V5,,,,,,,,,,,9,1,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D2,Weaver,Gossip,Frosty is the good Imp.,,,,,,,,,,,,9,1,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D2,Jordan,Nomination,Electra,V6,,,,,,,,,,,9,1,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D2,Permzilla,Nomination,Frosty,V7,,,,,,,,,,,9,1,3,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D2,Tim,Executed,,,,,,,,,,,,,9,1,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N3,Dice,Pit-Hag Pick,Jordan,Minstrel,,,,,,,,,,,9,1,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N3,Frosty,Lunatic Pick,Dice,,,,,,,,,,,,9,1,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N3,Electra,Demon Kill,Dice,,,,,,,,,,,,9,1,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N3,Sam,Empath Number,1,,,,,,,,,,,,9,1,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N3,Permzilla,Oracle Number,1,,,,,,,,,,,,9,1,4,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D3,Jordan,Nomination,Frosty,V8,,,,,,,,,,,9,1,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D3,Frosty,Executed,,,,,,,,,,,,,9,1,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N4,Dice,Pit-Hag Pick,Sam,Mutant,,,,,,,,,,,9,1,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N4,Electra,Demon Kill,Weaver,,,,,,,,,,,,9,1,4,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N4,Permzilla,Oracle Number,1,,,,,,,,,,,,9,1,4,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N5,Dice,Pit-Hag Pick,Jordan,Witch,,,,,,,,,,,9,1,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,N5,Electra,Demon Kill,Permzilla,,,,,,,,,,,,9,1,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D5,Jordan,Nomination,Electra,V9,,,,,,,,,,,9,1,5,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,1,D5,Electra,Nomination,Jordan,V10,,,,,,,,,,,9,1,5,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D5,Electra,Executed,,,,,,,,,,,,,9,1,5,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,1,D5,,Game End,,Demon Executed,,,,,,,,,,,9,1,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,5,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,5,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,5,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,5,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,6,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,7,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,8,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Tim,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Frosty,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,9,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Tim,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Frosty,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,1,10,Jordan,FALSE,FALSE,FALSE
