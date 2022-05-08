@@ -23,7 +23,7 @@
 |    19   ||       |       |    Unplayed    |
 |    20   ||       |       |    Unplayed    |
 
-# Games Claimed
+# Games Claimed 
 
 | Session | Game | Claimed By | Date Claimed |
 |:-------:|:----:|:----------:|:------------:|
