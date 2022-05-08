@@ -25,7 +25,6 @@
 
 # Games Claimed
 
-
 | Session | Game | Claimed By | Date Claimed |
 |:-------:|:----:|:----------:|:------------:|
 |         |      |            |              |
