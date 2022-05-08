@@ -1,17 +1,17 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-10/04/2022,8,4,Catfishing,Good,9,,8,4,Alejo,ST,,,,8,4,N1,Jordan,Amnesiac Ability,Choose a player. You learn how many of their 2 alive neighbours are evil.,,,8,4,1,DubT,DubT,6,TRUE,TRUE,,8,4,1,Lycan,TRUE,FALSE,FALSE
+10/04/2022,8,4,Catfishing,Good,9,,8,4,Alejo,ST,,,,8,4,N1,Jordan,Amnesiac Ability,Choose a player. You learn how many of their 2 alive neighbours are evil.,,,8,4,1,Dubt,Dubt,6,TRUE,TRUE,,8,4,1,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,8,4,Dice,Recluse,,FALSE,,8,4,N1,Jordan,Amnesiac Action - Select 1 player with response,Lycan|0,,,8,4,2,Dice,Electra,4,TRUE,TRUE,,8,4,1,Jordan,TRUE,FALSE,FALSE
-,,,,,,,8,4,Electra,Imp,,FALSE,,8,4,N1,DubT,Investigator Information,Cerenovus|Dice|Jordan,,,8,4,3,Piranha,Weaver,3,FALSE,FALSE,,8,4,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,8,4,Electra,Imp,,FALSE,,8,4,N1,Dubt,Investigator Information,Cerenovus|Dice|Jordan,,,8,4,3,Piranha,Weaver,3,FALSE,FALSE,,8,4,1,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,8,4,Jon,Dreamer,,FALSE,,8,4,N1,Jon,Dreamer Check,Jordan|Amnesiac|Pit-Hag,,,8,4,4,Jon,Dice,3,FALSE,FALSE,,8,4,1,Dice,FALSE,FALSE,FALSE
 ,,,,,,,8,4,Billy,Cannibal,,FALSE,,8,4,D1,Jordan,Amnesiac Question,Is my role related to the person I pick waking up?,Cold,,8,4,5,Electra,Jon,1,FALSE,FALSE,,8,4,1,Electra,TRUE,FALSE,FALSE
-,,,,,,,8,4,Piranha,Pit-Hag,,FALSE,,8,4,D1,DubT,Nomination,DubT,V1,,,,,,,,,,,8,4,1,Jon,TRUE,FALSE,FALSE
-,,,,,,,8,4,DubT,Investigator,,FALSE,,8,4,D1,DubT,Executed,,,,,,,,,,,,,8,4,1,Billy,TRUE,FALSE,FALSE
+,,,,,,,8,4,Piranha,Pit-Hag,,FALSE,,8,4,D1,Dubt,Nomination,Dubt,V1,,,,,,,,,,,8,4,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,8,4,Dubt,Investigator,,FALSE,,8,4,D1,Dubt,Executed,,,,,,,,,,,,,8,4,1,Billy,TRUE,FALSE,FALSE
 ,,,,,,,8,4,Lycan,Gambler,,FALSE,,8,4,N2,Lycan,Gambler Choice,Jordan|Amnesiac,,,,,,,,,,,,8,4,1,Piranha,FALSE,FALSE,FALSE
-,,,,,,,8,4,Jordan,Amnesiac,,FALSE,,8,4,N2,Piranha,Pit-Hag Pick,Jordan,Mutant,,,,,,,,,,,8,4,1,DubT,TRUE,FALSE,FALSE
+,,,,,,,8,4,Jordan,Amnesiac,,FALSE,,8,4,N2,Piranha,Pit-Hag Pick,Jordan,Mutant,,,,,,,,,,,8,4,1,Dubt,TRUE,FALSE,FALSE
 ,,,,,,,8,4,Weaver,Lunatic,Fang Gu,FALSE,,8,4,N2,Weaver,Lunatic Pick,Lycan,,,,,,,,,,,,8,4,2,Jon,TRUE,FALSE,FALSE
 ,,,,,,,8,4,Bluff,Chef,,,,8,4,N2,Electra,Demon Kill,Lycan,,,,,,,,,,,,8,4,2,Billy,TRUE,FALSE,FALSE
 ,,,,,,,8,4,Bluff,Philosopher,,,,8,4,N2,Billy,Cannibal Ability,Investigator,,,,,,,,,,,,8,4,2,Piranha,FALSE,FALSE,FALSE
-,,,,,,,8,4,Bluff,Ravenkeeper,,,,8,4,N2,Billy,Investigator Information,Pit-Hag|Piranha|Dice,,,,,,,,,,,,8,4,2,DubT,FALSE,TRUE,FALSE
+,,,,,,,8,4,Bluff,Ravenkeeper,,,,8,4,N2,Billy,Investigator Information,Pit-Hag|Piranha|Dice,,,,,,,,,,,,8,4,2,Dubt,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,8,4,N2,Jon,Dreamer Check,Dice|Philosopher|Pit-Hag,,,,,,,,,,,,8,4,2,Lycan,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,8,4,D2,Dice,Nomination,Electra,V2,,,,,,,,,,,8,4,2,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,8,4,D2,Piranha,Nomination,Weaver,V3,,,,,,,,,,,8,4,2,Weaver,TRUE,FALSE,FALSE
@@ -22,7 +22,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,Jon,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,Billy,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,DubT,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,Dubt,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,Lycan,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,3,Weaver,FALSE,FALSE,FALSE
@@ -30,14 +30,14 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Jon,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Billy,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,DubT,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Dubt,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Lycan,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,4,Dice,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,5,Billy,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,5,Piranha,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,5,DubT,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,5,Dubt,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,5,Lycan,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,5,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,5,Weaver,FALSE,FALSE,FALSE

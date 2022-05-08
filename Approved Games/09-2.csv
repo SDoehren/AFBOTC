@@ -1,0 +1,35 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+24/04/2022,9,2,Catfishing,Good,9,,9,2,Alejo,ST,,,,9,2,N1,Jordan,Snake Charmer Pick,Sam,,,9,2,1,Jordan,Dice,8,TRUE,TRUE,,9,2,1,Frosty,TRUE,FALSE,FALSE
+,,,,,,,9,2,Tim,Amnesiac,,FALSE,,9,2,N1,Tim,Amnesiac Ability,Each night choose a player. Learn how long the uninterrupted chain of alive players of their alignment is,,,9,2,2,Jordan,Weaver,6,TRUE,TRUE,,9,2,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,9,2,Permzilla,Philosopher,,FALSE,,9,2,N1,Tim,Amnesiac Action - Select 1 player with response,Jordan|4,,,9,2,3,Jordan,Jordan,6,TRUE,TRUE,,9,2,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,9,2,Weaver,Recluse,,FALSE,,9,2,N1,Sam,Cerenovus Madness,Sam|Savant,,,,,,,,,,,,9,2,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,9,2,Electra,Gambler,,FALSE,,9,2,N1,Dice,Investigator Information,Cerenovus|Tim|Weaver,,,,,,,,,,,,9,2,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,9,2,Dice,Investigator,,FALSE,,9,2,N1,Frosty,Dreamer Check,Dice|Investigator|Cerenovus,,,,,,,,,,,,9,2,1,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,9,2,Frosty,Dreamer,,FALSE,,9,2,D1,Tim,Amnesiac Question,Do I learn the number of steps between the chosen player and the minion?,Cold,,,,,,,,,,,9,2,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,9,2,Jordan,Snake Charmer,,TRUE,,9,2,D1,Jordan,Nomination,Dice,V1,,,,,,,,,,,9,2,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,9,2,Lycan,Vigormortis,,TRUE,,9,2,D1,Dice,Executed,,,,,,,,,,,,,9,2,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,9,2,Sam,Cerenovus,,FALSE,,9,2,N2,Jordan,Snake Charmer Pick,Frosty,,,,,,,,,,,,9,2,2,Electra,TRUE,FALSE,FALSE
+,,,,,,,9,2,Bluff,Chef,,,,9,2,N2,Electra,Gambler Choice,Tim|Amnesiac,,,,,,,,,,,,9,2,2,Dice,FALSE,TRUE,FALSE
+,,,,,,,9,2,Bluff,Fortune Teller,,,,9,2,N2,Sam,Cerenovus Madness,Sam|Savant,,,,,,,,,,,,9,2,2,Frosty,TRUE,FALSE,FALSE
+,,,,,,,9,2,Bluff,Sweetheart,,,,9,2,N2,Lycan,Demon Kill,Sam,,,,,,,,,,,,9,2,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,N2,Lycan,Vigormortis Poison,Tim,,,,,,,,,,,,9,2,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,N2,Tim,Amnesiac Action - Select 1 player with response,Electra|3,,,,,,,,,,,,9,2,2,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,2,N2,Frosty,Dreamer Check,Tim|Amnesiac|Imp,,,,,,,,,,,,9,2,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,D2,Tim,Amnesiac Question,Does my ability give me information about the chosen player's role?,Cold with a hint of warm,,,,,,,,,,,9,2,2,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,D2,Jordan,Nomination,Weaver,V2,,,,,,,,,,,9,2,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,D2,Weaver,Executed,,,,,,,,,,,,,9,2,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Permzilla,Philosopher Switch,Grandmother,,,,,,,,,,,,9,2,3,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Jordan,Snake Charmer Pick,Lycan,,,,,,,,,,,,9,2,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Jordan,Role Change,Vigormortis,,,,,,,,,,,,9,2,3,Permzilla,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Jordan,Alignment Change,Evil,,,,,,,,,,,,9,2,3,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Lycan,Role Change,Snake Charmer,,,,,,,,,,,,9,2,3,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Lycan,Alignment Change,Good,,,,,,,,,,,,9,2,3,Dice,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Lycan,Snake Charm Poison,,,,,,,,,,,,,9,2,3,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Tim,Healthy,,,,,,,,,,,,,9,2,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,2,N3,Jordan,Demon Kill,Permzilla,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,9,2,N3,Electra,Gambler Choice,Frosty|Dreamer,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,9,2,N3,Frosty,Dreamer Check,Electra|Gambler|Vigormortis,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,9,2,N3,Tim,Amnesiac Action - Select 1 player with response,Lycan|5,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,9,2,D3,Jordan,Nomination,Jordan,V3,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,9,2,D3,Jordan,Executed,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,9,2,D3,,Game End,,Demon Executed,,,,,,,,,,,,,,,,,

@@ -1,5 +1,5 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-10/04/2022,9,1,Think You Can Clocktower?,Good,9,,9,1,Alejo,ST,,,,9,1,N1,Frosty,Drinking Buddy,Sam,,,9,1,1,Frosty,Frosty,9,TRUE,TRUE,,9,1,1,Weaver,TRUE,FALSE,FALSE
+24/04/2022,9,1,Think You Can Clocktower?,Good,9,,9,1,Alejo,ST,,,,9,1,N1,Frosty,Drinking Buddy,Sam,,,9,1,1,Frosty,Frosty,9,TRUE,TRUE,,9,1,1,Weaver,TRUE,FALSE,FALSE
 ,,,,,,,9,1,Jordan,Ravenkeeper,,FALSE,,9,1,N1,Frosty,Drunk,Sam,,,9,1,2,Tim,Tim,0,FALSE,FALSE,,9,1,1,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,9,1,Dice,Pit-Hag,,FALSE,,9,1,N1,Sam,Empath Number,1,,,9,1,3,Sam,Sam,1,FALSE,FALSE,,9,1,1,Dice,TRUE,FALSE,FALSE
 ,,,,,,,9,1,Permzilla,Oracle,,FALSE,,9,1,N1,Lycan,Grandmother Information,Sam|Empath,,,9,1,4,Lycan,Lycan,2,FALSE,FALSE,,9,1,1,Permzilla,TRUE,FALSE,FALSE
