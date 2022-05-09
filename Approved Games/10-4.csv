@@ -1,0 +1,36 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+01/05/2022,10,4,Strings Pulling,Good,7,,10,4,Alejo,ST,,,,10,4,N1,Jordan,Washerwoman Information,Tim|Lycan|Ravenkeeper,,,10,4,1,Jordan,Jordan,5,TRUE,FALSE,,10,4,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,10,4,Sam,ST,,,,10,4,N1,Piranha,Chef Number,1,,,10,4,2,Lycan,Piranha,6,TRUE,TRUE,,10,4,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,10,4,Billy,Slayer,,FALSE,,10,4,N1,Jon,Fortune Teller Information,Piranha|Jordan|No,,,10,4,3,Jordan,Jordan,3,TRUE,TRUE,,10,4,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,10,4,Piranha,Chef,,FALSE,,10,4,D1,Jordan,Nomination,Jordan,V1,,10,4,4,Tim,Lycan,2,TRUE,FALSE,,10,4,1,Billy,TRUE,FALSE,FALSE
+,,,,,,,10,4,Lycan,Monk,,FALSE,,10,4,D1,Lycan,Nomination,Piranha,V2,,10,4,5,Weaver,Tim,3,TRUE,TRUE,,10,4,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,10,4,Jordan,Marionette,Washerwoman,FALSE,,10,4,D1,Billy,Slayer Shot,Jon,Miss,,,,,,,,,,,10,4,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,10,4,Tim,Imp,,FALSE,,10,4,D1,Piranha,Executed,,,,,,,,,,,,,10,4,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,10,4,Jon,Fortune Teller,,FALSE,,10,4,N2,Tim,Demon Kill,Billy,,,,,,,,,,,,10,4,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,10,4,Weaver,Mayor,,FALSE,,10,4,N2,Lycan,Monk Protect,Weaver,,,,,,,,,,,,10,4,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,10,4,Bluff,Ravenkeeper,,,,10,4,N2,Jon,Fortune Teller Information,Jordan|Lycan|No,,,,,,,,,,,,10,4,2,Tim,TRUE,FALSE,FALSE
+,,,,,,,10,4,Bluff,Empath,,,,10,4,D2,Jordan,Nomination,Jordan,V3,,,,,,,,,,,10,4,2,Jon,TRUE,FALSE,FALSE
+,,,,,,,10,4,Bluff,Investigator,,,,10,4,D2,Jordan,Executed,,,,,,,,,,,,,10,4,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,4,N3,Tim,Demon Kill,Jon,,,,,,,,,,,,10,4,2,Billy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,4,N3,Lycan,Monk Protect,Weaver,,,,,,,,,,,,10,4,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,4,D3,Tim,Nomination,Lycan,V4,,,,,,,,,,,10,4,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,4,D3,Weaver,Nomination,Tim,V5,,,,,,,,,,,10,4,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,4,D3,Tim,Executed,,,,,,,,,,,,,10,4,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,4,D3,,Game End,,Demon Executed,,,,,,,,,,,10,4,3,Billy,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,3,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,4,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,4,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,4,Billy,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,4,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,4,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,5,Jon,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,5,Billy,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,5,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,5,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,5,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,5,Tim,FALSE,FALSE,FALSE

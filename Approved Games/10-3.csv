@@ -1,0 +1,175 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+01/05/2022,10,3,In The Arms Of An Angel,Good,10,,10,3,Alejo,ST,,,,10,3,N1,Lycan,Philosopher Switch,Lycanthrope,,,10,3,1,Piranha,Jon,2,FALSE,FALSE,,10,3,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,10,3,Jordan,Sweetheart,,TRUE,,10,3,N1,Jon,Poison,Lycan,,,10,3,2,Jon,Piranha,2,FALSE,FALSE,,10,3,1,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,10,3,Piranha,Pixie,,FALSE,,10,3,N1,Piranha,Pixie Information,Flowergirl,,,10,3,3,Weaver,Jordan,4,FALSE,FALSE,,10,3,1,Billy,FALSE,FALSE,FALSE
+,,,,,,,10,3,Sam,Saint,,FALSE,,10,3,D1,Piranha,Nomination,Jon,V1,,10,3,4,Jordan,Weaver,3,FALSE,FALSE,,10,3,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,10,3,Dice,Judge,Evil,FALSE,,10,3,D1,Jon,Nomination,Piranha,V2,,10,3,5,Sam,Flossorapture,1,FALSE,FALSE,,10,3,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,10,3,Weaver,Fang Gu,,FALSE,,10,3,D1,Weaver,Nomination,Jordan,V3,,10,3,6,Tim,Lycan,2,FALSE,TRUE,,10,3,1,Sam,FALSE,FALSE,FALSE
+,,,,,,,10,3,Lycan,Philosopher,,FALSE,,10,3,D1,Jordan,Nomination,Weaver,V4,,10,3,7,Piranha,Jordan,1,FALSE,FALSE,,10,3,1,Dice,FALSE,FALSE,FALSE
+,,,,,,,10,3,Jon,Poisoner,,FALSE,,10,3,D1,Sam,Nomination,Flossorapture,V5,,10,3,8,Tim,Dice,10,TRUE,TRUE,,10,3,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,10,3,Tim,Innkeeper,,FALSE,,10,3,D1,Tim,Nomination,Lycan,V6,,10,3,9,Billy,Jon,3,FALSE,FALSE,,10,3,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,10,3,Flossorapture,Moonchild,,FALSE,,10,3,D1,Lycan,Executed,,Judge,,10,3,10,Jon,Piranha,1,FALSE,FALSE,,10,3,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,10,3,Billy,Flowergirl,,FALSE,,10,3,N2,Jon,Poison,Tim,,,10,3,11,Jordan,Flossorapture,1,FALSE,FALSE,,10,3,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,10,3,Bluff,General,,,,10,3,N2,Tim,Innkeeper Protect,Jordan|Billy,,,10,3,12,Sam,Billy,3,FALSE,FALSE,,10,3,2,Dice,FALSE,FALSE,FALSE
+,,,,,,,10,3,Bluff,Monk,,,,10,3,N2,Tim,Innkeeper Drunk,Billy,,,10,3,13,Jordan,Piranha,4,TRUE,TRUE,,10,3,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,10,3,Bluff,Lycanthrope,,,,10,3,N2,Weaver,Demon Kill,Jordan,,,10,3,14,Billy,Jon,2,FALSE,FALSE,,10,3,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N2,Jordan,Role Change,Fang Gu,,,10,3,15,Jordan,Jon,2,FALSE,FALSE,,10,3,2,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N2,Jordan,Alignment Change,Evil,,,10,3,16,Sam,Billy,2,FALSE,FALSE,,10,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N2,Billy,Flowergirl Information,Yes,,,10,3,17,Flossorapture,Jordan,3,TRUE,TRUE,,10,3,2,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,Piranha,Nomination,Jordan,V7,,10,3,18,Jon,Sam,2,FALSE,FALSE,,10,3,2,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,Tim,Nomination,Dice,V8,,,,,,,,,,,10,3,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,Dice,Exiled,,,,,,,,,,,,,10,3,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,Billy,Nomination,Jon,V9,,,,,,,,,,,10,3,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,Jon,Nomination,Piranha,V10,,,,,,,,,,,10,3,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,Jordan,Nomination,Flossorapture,V11,,,,,,,,,,,10,3,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,San,Nomination,Billy,V12,,,,,,,,,,,10,3,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N3,Jon,Poison,Flossorapture,,,,,,,,,,,,10,3,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N3,Tim,Innkeeper Protect,Jordan|Billy,,,,,,,,,,,,10,3,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N3,Tim,Innkeeper Drunk,Billy,,,,,,,,,,,,10,3,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N3,Jordan,Demon Kill,Billy,,,,,,,,,,,,10,3,3,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N3,Billy,Flowergirl Information,Yes,,,,,,,,,,,,10,3,3,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D3,Jordan,Nomination,Piranha,V13,,,,,,,,,,,10,3,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D3,Billy,Nomination,Jon,V14,,,,,,,,,,,10,3,4,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D3,Piranha,Executed,,,,,,,,,,,,,10,3,4,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N4,Tim,Innkeeper Protect,Jordan|Billy,,,,,,,,,,,,10,3,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N4,Tim,Innkeeper Drunk,Billy,,,,,,,,,,,,10,3,4,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N4,Jon,Poison,Tim,,,,,,,,,,,,10,3,4,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N4,Jordan,Demon Kill,Tim,,,,,,,,,,,,10,3,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N4,Billy,Flowergirl Information,Yes,,,,,,,,,,,,10,3,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D4,Jordan,Nomination,Jon,V15,,,,,,,,,,,10,3,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D4,Sam,Nomination,Billy,V16,,,,,,,,,,,10,3,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D4,Flossorapture,Nomination,Jordan,V17,,,,,,,,,,,10,3,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D4,Jon,Nomination,Sam,V18,,,,,,,,,,,10,3,5,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D4,Jordan,Executed,,,,,,,,,,,,,10,3,5,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D4,,Game End,,Demon Executed,,,,,,,,,,,10,3,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,5,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,5,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,5,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,6,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,7,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Weaver,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Flossorapture,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Billy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,8,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Flossorapture,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Billy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,9,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,10,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,11,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,12,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,13,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Flossorapture,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Billy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,14,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,15,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,16,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Flossorapture,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Billy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,17,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Flossorapture,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,18,Sam,FALSE,FALSE,FALSE
