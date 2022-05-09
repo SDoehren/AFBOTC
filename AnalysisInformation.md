@@ -10,9 +10,9 @@
 |    6    | 27/03 |   4   |       4        |    Complete    |
 |    7    | 03/04 |   3   |       3        |    Complete    |
 |    8    | 10/04 |   4   |       4        |    Complete    |
-|    9    | 24/04 |   x   |       2        |    Ongoing     |
-|    10   | 01/05 |   x   |       x        |  Not Started   |
-|    11   ||       |       |    Unplayed    |
+|    9    | 24/04 |   4   |       4        |    Complete    |
+|    10   | 01/05 |   4   |       4        |    Complete    |
+|    11   | 07/05 |   X   |       X        |    Started     |
 |    12   ||       |       |    Unplayed    |
 |    13   ||       |       |    Unplayed    |
 |    14   ||       |       |    Unplayed    |

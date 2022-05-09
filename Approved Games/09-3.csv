@@ -1,0 +1,49 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+24/04/2022,9,3,Breaking Fast,Good,8,,9,3,Alejo,ST,,,,9,3,N1,Lycan,Chef Number,0,,,9,3,1,Lycan,Lycan,7,TRUE,TRUE,,9,3,1,Frosty,TRUE,FALSE,FALSE
+,,,,,,,9,3,Sam,Shabaloth,,FALSE,,9,3,N1,Weaver,Librarian Information,Goon|Dice|Electra,,,9,3,2,Jordan,Weaver,1,FALSE,FALSE,,9,3,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,9,3,Electra,Fortune Teller,,FALSE,,9,3,N1,Electra,Fortune Teller Information,Sam|Dice|Yes,,,9,3,3,Tim,Dice,3,TRUE,FALSE,,9,3,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,9,3,Weaver,Librarian,,FALSE,,9,3,N1,Dice,Goon Drunk,Electra,,,9,3,4,Dice,Sam,3,FALSE,FALSE,,9,3,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,9,3,Tim,Innkeeper,,FALSE,,9,3,D1,Lycan,Nomination,Lycan,V1,,9,3,5,Weaver,Jordan,4,TRUE,TRUE,,9,3,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,9,3,Dice,Goon,,FALSE,,9,3,D1,Lycan,Executed,,,,9,3,6,Tim,Sam,4,TRUE,TRUE,,9,3,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,9,3,Jordan,Psychopath,,FALSE,,9,3,N2,Tim,Innkeeper Protect,Dice|Frosty,,,,,,,,,,,,9,3,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,9,3,Lycan,Chef,,FALSE,,9,3,N2,Tim,Innkeeper Drunk,,,,,,,,,,,,,9,3,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,9,3,Frosty,Undertaker,,FALSE,,9,3,N2,Dice,Goon Drunk,Tim,,,,,,,,,,,,9,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,9,3,Bluff,Acrobat,,,,9,3,N2,Sam,Demon Kill,Frosty,,,,,,,,,,,,9,3,2,Dice,FALSE,FALSE,FALSE
+,,,,,,,9,3,Bluff,Empath,,,,9,3,N2,Sam,Demon Kill,Electra,,,,,,,,,,,,9,3,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,9,3,Bluff,Ravenkeeper,,,,9,3,D2,Jordan,Nomination,Weaver,V2,,,,,,,,,,,9,3,2,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,3,D2,Tim,Nomination,Dice,V3,,,,,,,,,,,9,3,2,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,3,D2,Dice,Nomination,Sam,V4,,,,,,,,,,,9,3,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,D2,Weaver,Nomination,Jordan,V5,,,,,,,,,,,9,3,2,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,3,D2,Jordan,Roshambo,Weaver,Rock|Paper,,,,,,,,,,,9,3,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,D2,Jordan,Executed,,Protected,,,,,,,,,,,9,3,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,N3,Tim,Innkeeper Protect,Dice|Sam,,,,,,,,,,,,9,3,3,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,3,N3,Dice,Goon Drunk,Tim,,,,,,,,,,,,9,3,3,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,3,N3,Sam,Demon Kill,Dice,,,,,,,,,,,,9,3,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,N3,Sam,Demon Kill,Weaver,,,,,,,,,,,,9,3,3,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,3,N3,Sam,Shabaloth Resurrect,Frosty,,,,,,,,,,,,9,3,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,D3,Jordan,Psychopath Kill,Frosty,,,,,,,,,,,,9,3,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,D3,Tim,Nomination,Sam,V6,,,,,,,,,,,9,3,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,D3,Sam,Executed,,,,,,,,,,,,,9,3,4,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,9,3,D3,,Game End,,Demon Executed,,,,,,,,,,,9,3,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,4,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,4,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,4,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Electra,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Electra,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Weaver,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Dice,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Frosty,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,Sam,FALSE,FALSE,FALSE
