@@ -14,7 +14,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,9,3,D2,Tim,Nomination,Dice,V3,,,,,,,,,,,9,3,2,Frosty,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,9,3,D2,Dice,Nomination,Sam,V4,,,,,,,,,,,9,3,2,Sam,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,9,3,D2,Weaver,Nomination,Jordan,V5,,,,,,,,,,,9,3,2,Electra,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,9,3,D2,Jordan,Roshambo,Weaver,Rock|Paper,,,,,,,,,,,9,3,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,3,D2,Jordan,Roshambo,Weaver,Rock|Rock,,,,,,,,,,,9,3,2,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,9,3,D2,Jordan,Executed,,Protected,,,,,,,,,,,9,3,3,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,9,3,N3,Tim,Innkeeper Protect,Dice|Sam,,,,,,,,,,,,9,3,3,Lycan,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,9,3,N3,Dice,Goon Drunk,Tim,,,,,,,,,,,,9,3,3,Frosty,FALSE,TRUE,FALSE

@@ -22,7 +22,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,10,3,D2,Billy,Nomination,Jon,V9,,,,,,,,,,,10,3,3,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,D2,Jon,Nomination,Piranha,V10,,,,,,,,,,,10,3,3,Sam,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,D2,Jordan,Nomination,Flossorapture,V11,,,,,,,,,,,10,3,3,Dice,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,10,3,D2,San,Nomination,Billy,V12,,,,,,,,,,,10,3,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,D2,Sam,Nomination,Billy,V12,,,,,,,,,,,10,3,3,Weaver,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,N3,Jon,Poison,Flossorapture,,,,,,,,,,,,10,3,3,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,N3,Tim,Innkeeper Protect,Jordan|Billy,,,,,,,,,,,,10,3,3,Jon,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,N3,Tim,Innkeeper Drunk,Billy,,,,,,,,,,,,10,3,3,Tim,FALSE,FALSE,FALSE

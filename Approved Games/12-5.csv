@@ -1,0 +1,29 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+15/05/2022,12,5,Trouble Brewing,Good,7,,12,5,Piranha,ST,,,,12,5,N1,Tanfana,Minion Information,Standard,,,12,5,1,Lyra,Lyra,4,TRUE,FALSE,,12,5,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,12,5,Alejo,ST,,FALSE,,12,5,N1,Lycan,Demon Information,Standard,,,12,5,2,Jordan,Tanfana,3,FALSE,FALSE,,12,5,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,12,5,Sam,Undertaker,,FALSE,,12,5,N1,Lyra,Washerwoman Information,Tim|Sam|Undertaker,,,12,5,3,Lycan,Lycan,6,TRUE,TRUE,,12,5,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,12,5,Lycan,Imp,,FALSE,,12,5,N1,Jordan,Empath Number,1,,,12,5,4,Jordan,Tanfana,4,TRUE,TRUE,,12,5,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,12,5,Electra,Soldier,,FALSE,,12,5,D1,Lyra,Nomination,Lyra,V1,,,,,,,,,,,12,5,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,12,5,Tim,Ravenkeeper,,FALSE,,12,5,D1,Jordan,Nomination,Tanfana,V2,,,,,,,,,,,12,5,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,12,5,Jordan,Empath,,FALSE,,12,5,D1,Lycan,Nomination,Lycan,V3,,,,,,,,,,,12,5,1,Lyra,FALSE,FALSE,FALSE
+,,,,,,,12,5,Tanfana,Scarlet Woman,,FALSE,,12,5,D1,Piranha,Executed,,Scarlet Pass,,,,,,,,,,,12,5,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,12,5,Lyra,Washerwoman,,FALSE,,12,5,D1,Tanfana,Role Change,Imp,,,,,,,,,,,,12,5,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,12,5,Bluff,Investigator,,,,12,5,N2,Tanfana,Demon Kill,Sam,,,,,,,,,,,,12,5,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,12,5,Bluff,Fortune Teller,,,,12,5,N2,Jordan,Empath Number,1,,,,,,,,,,,,12,5,2,Electra,TRUE,FALSE,FALSE
+,,,,,,,12,5,Bluff,Recluse,,,,12,5,D2,Jordan,Nomination,Tanfana,V4,,,,,,,,,,,12,5,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,5,D2,Tanfana,Executed,,,,,,,,,,,,,12,5,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,5,D2 ,,Game End,,Demon Executed,,,,,,,,,,,12,5,2,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,3,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,3,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,4,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,4,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,4,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,4,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,5,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,3,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,3,4,Tanfana,FALSE,FALSE,FALSE

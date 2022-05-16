@@ -1,0 +1,121 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+15/05/2022,12,2,Technicolour Laser Tag In Space,Evil,10,,12,2,Alejo,ST,,,,12,2,N1,Piranha,Minion Information,Standard,,,12,2,1,Piranha,Piranha,5,TRUE,TRUE,,12,2,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,12,2,Jordan,Klutz,,FALSE,,12,2,N1,Dice,Demon Information,Standard,,,12,2,2,Tim,Sam,3,FALSE,FALSE,,12,2,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,12,2,Tanfana,Monk,,FALSE,,12,2,N1,Dice,Lleech Host,Tanfana,,,12,2,3,Jordan,Weaver,2,FALSE,FALSE,,12,2,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,12,2,Piranha,Baron,,FALSE,,12,2,N1,Tim,Minion Information,Standard,,,12,2,4,Weaver,Jordan,4,FALSE,FALSE,,12,2,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,12,2,Weaver,Town Crier,,FALSE,,12,2,N1,Jon,General Information,Good slightly winning,,,12,2,5,Lycan,Dice,2,FALSE,FALSE,,12,2,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,12,2,Tim,Boomdandy,,FALSE,,12,2,N1,Sam,Chambermaid Choice,Piranha|Weaver|0,,,12,2,6,Tim,Tim,2,FALSE,FALSE,,12,2,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,12,2,Jon,Drunk,General,FALSE,,12,2,D1,Lycan,Juggle,Lycan|Juggler,,,12,2,7,Jordan,Lycan,3,FALSE,FALSE,,12,2,1,Dice,FALSE,FALSE,FALSE
+,,,,,,,12,2,Lycan,Juggler,,FALSE,,12,2,D1,Lycan,Juggle,Jordan|Politician,,,12,2,8,Lycan,Jordan,6,TRUE,TRUE,,12,2,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,12,2,Sam,Chambermaid,,FALSE,,12,2,D1,Lycan,Juggle,Tim|Savant,,,12,2,9,Weaver,Dice,2,FALSE,FALSE,,12,2,1,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,12,2,Electra,Undertaker,,FALSE,,12,2,D1,Lycan,Juggle,Electra|Undertaker,,,12,2,10,Tim,Tim,3,TRUE,TRUE,,12,2,1,Piranha,TRUE,FALSE,FALSE
+,,,,,,,12,2,Dice,Lleech,,FALSE,,12,2,D1,Lycan,Juggle,Jon|General,,,12,2,11,Jon,Tanfana,1,FALSE,FALSE,,12,2,2,Electra,FALSE,FALSE,FALSE
+,,,,,,,12,2,Bluff,Preacher,,,,12,2,D1,Piranha,Nomination,Piranha,V1,,12,2,12,Tanfana,Weaver,1,FALSE,FALSE,,12,2,2,Dice,TRUE,FALSE,FALSE
+,,,,,,,12,2,Bluff,Sailor,,,,12,2,D1,Tim,Nomination,Sam,V2,,,,,,,,,,,12,2,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,12,2,Bluff,Savant,,,,12,2,D1,Jordan,Nomination,Weaver,V3,,,,,,,,,,,12,2,2,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D1,Weaver,Nomination,Jordan,V4,,,,,,,,,,,12,2,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D1,Lycan,Nomination,Dice,V5,,,,,,,,,,,12,2,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D1,Tim,Nomination,Tim,V6,,,,,,,,,,,12,2,2,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D1,Piranha,Executed,,,,,,,,,,,,,12,2,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N2,Dice,Demon Kill,Sam,,,,,,,,,,,,12,2,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N2,Tanfana,Monk Protect,Sam,,,,,,,,,,,,12,2,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N2,Electra,Undertaker Information,Baron,,,,,,,,,,,,12,2,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N2,Weaver,Town Crier Information,Yes,,,,,,,,,,,,12,2,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N2,Lycan,Juggler Information,2,,,,,,,,,,,,12,2,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N2,Jon,General Information,Neutral,,,,,,,,,,,,12,2,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D2,Jordan,Nomination,Lycan,V7,,,,,,,,,,,12,2,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D2,Lycan,Nomination,Jordan,V8,,,,,,,,,,,12,2,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D2,Jordan,Executed,,,,,,,,,,,,,12,2,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D2,Jordan,Klutz Pick,Tanfana,,,,,,,,,,,,12,2,3,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N3,Dice,Demon Kill,Electra,,,,,,,,,,,,12,2,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N3,Tanfana,Monk Protect,Tim,,,,,,,,,,,,12,2,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N3,Weaver,Town Crier Information,No,,,,,,,,,,,,12,2,4,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,N3,Jon,General Information,Evil slightly ahead,,,,,,,,,,,,12,2,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Weaver,Nomination,Dice,V9,,,,,,,,,,,12,2,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Tim,Nomination,Tim,V10,,,,,,,,,,,12,2,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Jon,Nomination,Tanfana,V11,,,,,,,,,,,12,2,4,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Tanfana,Nomination,Weaver,V12,,,,,,,,,,,12,2,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Tim,Executed,,,,,,,,,,,,,12,2,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Tim,Boomdandy Slaughter,Jon,,,,,,,,,,,,12,2,4,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Tim,Boomdandy Slaughter,Lycan,,,,,,,,,,,,12,2,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Tim,Boomdandy Vote,Weaver|Weaver|Dice|Dice|Weaver|Weaver|Dice|Weaver|Weaver|Weaver,,,,,,,,,,,,12,2,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,Tim,Boomdandy Vote Kill,Weaver,,,,,,,,,,,,12,2,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,12,2,D3,,Game End,,Two Living Players,,,,,,,,,,,12,2,5,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,6,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,7,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,9,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,10,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,11,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,2,12,Weaver,FALSE,FALSE,FALSE

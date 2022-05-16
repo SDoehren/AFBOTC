@@ -1,0 +1,33 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+15/05/2022,12,4,Trouble Brewing,Good,8,,12,4,Alejo,ST,,,,12,4,N1,Electra,Minion Information,Standard,,,12,4,1,Tim,Tanfana,3,FALSE,FALSE,,12,4,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,12,4,Tim,Recluse,,FALSE,,12,4,N1,Piranha,Demon Information,Standard,,,12,4,2,Jordan,Tim,4,TRUE,FALSE,,12,4,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,12,4,Lycan,Undertaker,,FALSE,,12,4,N1,Jordan,Investigator Information,Poisoner|Tanfana|Tim,,,12,4,3,Tim,Piranha,5,TRUE,TRUE,,12,4,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,12,4,Piranha,Imp,,FALSE,,12,4,N1,Jon,Fortune Teller Information,Tim|Piranha|Yes,,,12,4,4,Electra,Electra,4,FALSE,FALSE,,12,4,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,12,4,Electra,Baron,,FALSE,,12,4,D1,Tim,Nomination,Tanfana,V1,,,,,,,,,,,12,4,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,12,4,Sam,Soldier,,FALSE,,12,4,D1,Jordan,Nomination,Tim,V2,,,,,,,,,,,12,4,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,12,4,Jon,Drunk,Fortune Teller,FALSE,,12,4,D1,Tim,Nomination,Piranha,V3,,,,,,,,,,,12,4,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,12,4,Tanfana,Saint,,FALSE,,12,4,D1,Electra,Nomination,Electra,V4,,,,,,,,,,,12,4,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,12,4,Jordan,Investigator,,FALSE,,12,4,D1,Piranha,Executed,,,,,,,,,,,,,12,4,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,12,4,Bluff,Chef,,,,12,4,D1,,Game End,,Demon Executed,,,,,,,,,,,12,4,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,12,4,Bluff,Monk,,,,,,,,,,,,,,,,,,,,,12,4,2,Electra,TRUE,FALSE,FALSE
+,,,,,,,12,4,Bluff,Butler,,,,,,,,,,,,,,,,,,,,,12,4,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,2,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,2,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,4,4,Electra,TRUE,FALSE,FALSE
