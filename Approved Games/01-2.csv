@@ -1,28 +1,28 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-20/02/2022,1,2,Trouble Brewing,Evil,8,,1,2,Alejo,ST,,,,1,2,N1,Lycan,Role Information,Ravenkeeper,,,1,2,1,Piranha,Lycan,2,FALSE,FALSE,,1,2,1,Weaver,TRUE,FALSE,FALSE
-,,,,,,,1,2,Sam,ST,,,,1,2,N1,Lycan,Role Information,Jon,,,1,2,2,Weaver,Euan,1,FALSE,FALSE,,1,2,1,Jon,FALSE,FALSE,FALSE
-,,,,,,,1,2,Euan,Recluse,,FALSE,,1,2,N1,Lycan,Role Information,Amelia,,,1,2,3,Lycan,Weaver,2,FALSE,FALSE,,1,2,1,Tim,FALSE,TRUE,FALSE
-,,,,,,,1,2,Piranha,Virgin,,FALSE,,1,2,N1,Jordan,Role Information,Poisoner,,,1,2,4,Piranha,Amelia,2,FALSE,FALSE,,1,2,1,Amelia,FALSE,FALSE,FALSE
-,,,,,,,1,2,Jordan,Investigator,,FALSE,,1,2,N1,Jordan,Role Information,Euan,,,1,2,5,Lycan,Jon,3,TRUE,TRUE,,1,2,1,Euan,TRUE,FALSE,FALSE
-,,,,,,,1,2,Lycan,Washerwoman,,FALSE,,1,2,N1,Jordan,Role Information,Lycan,,,1,2,6,Jon,Euan,1,FALSE,FALSE,,1,2,1,Piranha,FALSE,FALSE,FALSE
-,,,,,,,1,2,Weaver,Undertaker,,FALSE,,1,2,D1,Jordan,Nomination,Piranha,No Vote,,1,2,7,Euan,Amelia,2,TRUE,FALSE,,1,2,1,Jordan,FALSE,TRUE,FALSE
-,,,,,,,1,2,Jon,Spy,,FALSE,,1,2,D1,Piranha,Virgin Kill,Jordan,,,1,2,8,Amelia,Euan,4,TRUE,TRUE,,1,2,1,Lycan,FALSE,FALSE,FALSE
-,,,,,,,1,2,Tim,Slayer,,FALSE,,1,2,N2,Amelia,Demon Kill,Tim,,,,,,,,,,,,1,2,2,Piranha,FALSE,FALSE,FALSE
-,,,,,,,1,2,Amelia,Imp,,FALSE,,1,2,N2,Weaver,Role Information,Jordan,,,,,,,,,,,,1,2,2,Jordan,FALSE,TRUE,FALSE
-,,,,,,,1,2,Bluff,Librarian,,,,1,2,N2,Weaver,Role Information,Investigator,,,,,,,,,,,,1,2,2,Lycan,FALSE,FALSE,FALSE
-,,,,,,,1,2,Bluff,Monk,,,,1,2,D2,Piranha,Nomination,Lycan,V1,,,,,,,,,,,1,2,2,Weaver,FALSE,FALSE,FALSE
-,,,,,,,1,2,Bluff,Ravenkeeper,,,,1,2,D2,Weaver,Nomination,Euan,V2,,,,,,,,,,,1,2,2,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,D2,Lycan,Nomination,Weaver,V3,,,,,,,,,,,1,2,2,Tim,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,1,2,N3,Amelia,Demon Kill,Weaver,,,,,,,,,,,,1,2,2,Amelia,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,D3,Piranha,Nomination,Amelia,V4,,,,,,,,,,,1,2,2,Euan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,D3,Lycan,Nomination,Jon,V5,,,,,,,,,,,1,2,3,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,D3,Jon,Nomination,Euan,V6,,,,,,,,,,,1,2,3,Tim,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,1,2,D3,Jon,Executed,,,,,,,,,,,,,1,2,3,Amelia,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,N4,Amelia,Demon Kill,Lycan,,,,,,,,,,,,1,2,3,Euan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,D4,Euan,Nomination,Amelia,V7,,,,,,,,,,,1,2,3,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,D4,Amelia,Nomination,Euan,V8,,,,,,,,,,,1,2,3,Jordan,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,1,2,D4,Euan,Executed,,,,,,,,,,,,,1,2,3,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,2,D4,,Game End,,Two Living Players,,,,,,,,,,,1,2,3,Weaver,FALSE,FALSE,FALSE
+20/02/2022,1,2,Trouble Brewing,Evil,8,,1,2,Alejo,ST,,,,1,2,N1,Lycan,Washerwoman Information,Amelia|Jon|Ravenkeeper,,,1,2,1,Piranha,Lycan,2,FALSE,FALSE,,1,2,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,1,2,Sam,ST,,,,1,2,N1,Jordan,Investigator Information,Euan|Lycan|Poisoner,,,1,2,2,Weaver,Euan,1,FALSE,FALSE,,1,2,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,1,2,Euan,Recluse,,FALSE,,1,2,D1,Jordan,Nomination,Piranha,No Vote,,1,2,3,Lycan,Weaver,2,FALSE,FALSE,,1,2,1,Tim,FALSE,TRUE,FALSE
+,,,,,,,1,2,Piranha,Virgin,,FALSE,,1,2,D1,Piranha,Virgin Kill,Jordan,,,1,2,4,Piranha,Amelia,2,FALSE,FALSE,,1,2,1,Amelia,FALSE,FALSE,FALSE
+,,,,,,,1,2,Jordan,Investigator,,FALSE,,1,2,N2,Amelia,Demon Kill,Tim,,,1,2,5,Lycan,Jon,3,TRUE,TRUE,,1,2,1,Euan,TRUE,FALSE,FALSE
+,,,,,,,1,2,Lycan,Washerwoman,,FALSE,,1,2,N2,Weaver,Undertaker Information,Investigator,,,1,2,6,Jon,Euan,1,FALSE,FALSE,,1,2,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,1,2,Weaver,Undertaker,,FALSE,,1,2,D2,Piranha,Nomination,Lycan,V1,,1,2,7,Euan,Amelia,2,TRUE,FALSE,,1,2,1,Jordan,FALSE,TRUE,FALSE
+,,,,,,,1,2,Jon,Spy,,FALSE,,1,2,D2,Weaver,Nomination,Euan,V2,,1,2,8,Amelia,Euan,4,TRUE,TRUE,,1,2,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,1,2,Tim,Slayer,,FALSE,,1,2,D2,Lycan,Nomination,Weaver,V3,,,,,,,,,,,1,2,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,1,2,Amelia,Imp,,FALSE,,1,2,N3,Amelia,Demon Kill,Weaver,,,,,,,,,,,,1,2,2,Jordan,FALSE,TRUE,FALSE
+,,,,,,,1,2,Bluff,Librarian,,,,1,2,D3,Piranha,Nomination,Amelia,V4,,,,,,,,,,,1,2,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,1,2,Bluff,Monk,,,,1,2,D3,Lycan,Nomination,Jon,V5,,,,,,,,,,,1,2,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,1,2,Bluff,Ravenkeeper,,,,1,2,D3,Jon,Nomination,Euan,V6,,,,,,,,,,,1,2,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,2,D3,Jon,Executed,,,,,,,,,,,,,1,2,2,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,1,2,N4,Amelia,Demon Kill,Lycan,,,,,,,,,,,,1,2,2,Amelia,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,2,D4,Euan,Nomination,Amelia,V7,,,,,,,,,,,1,2,2,Euan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,2,D4,Amelia,Nomination,Euan,V8,,,,,,,,,,,1,2,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,2,D4,Euan,Executed,,,,,,,,,,,,,1,2,3,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,1,2,D4,,Game End,,Two Living Players,,,,,,,,,,,1,2,3,Amelia,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,3,Euan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,3,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,3,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,3,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,4,Euan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,4,Piranha,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,4,Jordan,FALSE,TRUE,FALSE

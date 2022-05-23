@@ -1,6 +1,6 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-08/05/2022,11,1,Coffee Laced with Cyanide,Evil,10,,11,1,Navean,ST,,,,11,1,N1,Frosty,Minion Information,Jesper|Piranha,,,11,1,1,Jordan,Lycan,3,FALSE,FALSE,,11,1,1,Dice,TRUE,FALSE,FALSE
-,,,,,,,11,1,Dakota,ST,,,,11,1,N1,Piranha,Demon Information,Frosty|Jesper,,,11,1,2,Lycan,Jordan,5,TRUE,TRUE,,11,1,1,Piranha,TRUE,FALSE,FALSE
+08/05/2022,11,1,Coffee Laced with Cyanide,Evil,10,,11,1,Navean,ST,,,,11,1,N1,Frosty,Minion Information,Jesper|Piranha,Magician,,11,1,1,Jordan,Lycan,3,FALSE,FALSE,,11,1,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,11,1,Dakota,ST,,,,11,1,N1,Piranha,Demon Information,Frosty|Jesper,Magician,,11,1,2,Lycan,Jordan,5,TRUE,TRUE,,11,1,1,Piranha,TRUE,FALSE,FALSE
 ,,,,,,,11,1,Frosty,Pit-Hag,,FALSE,,11,1,N1,Jordan,Drinking Buddy,Jesper,,,11,1,3,Piranha,Jesper,2,FALSE,FALSE,,11,1,1,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,11,1,Jesper,Magician,,FALSE,,11,1,N1,Jordan,Drunk,Jesper,,,11,1,4,Dice,Sam,6,TRUE,TRUE,,11,1,1,Sam,FALSE,FALSE,FALSE
 ,,,,,,,11,1,Lycan,Pixie,,FALSE,,11,1,N1,Lycan,Pixie Information,Sailor,,,11,1,5,Jordan,Lycan,1,FALSE,FALSE,,11,1,1,Permzilla,FALSE,FALSE,FALSE

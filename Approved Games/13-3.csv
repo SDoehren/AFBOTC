@@ -1,0 +1,205 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+22/05/2022,13,3,Remembrance Week,Evil,12,,13,3,Alejo,ST,,,,13,3,N1,Legion,Demon Information,Standard,,,13,3,1,Lyra,Lycan,6,TRUE,FALSE,,13,3,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,13,3,Permzilla,ST,,,,13,3,N1,Tim,Empath Number,2,,,13,3,2,Dice,Jon,5,FALSE,FALSE,,13,3,1,Electra,FALSE,FALSE,FALSE
+,,,,,,,13,3,Jon,Town Crier,,FALSE,,13,3,D1,Frosty,Savant Info,The minions learnt the same snitch bluffs|At least 1 of your neighbours is evi,,,13,3,3,Piranha,Piranha,6,FALSE,FALSE,,13,3,1,Hobastian,TRUE,FALSE,FALSE
+,,,,,,,13,3,Lycan,Legion,,FALSE,,13,3,D1,Lyra,Nomination,Lycan,V1,,13,3,4,Jordan,Hobastian,7,TRUE,TRUE,,13,3,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,13,3,Tim,Empath,,FALSE,,13,3,D1,Dice,Nomination,Jon,V2,,13,3,5,Weaver,Jordan,2,FALSE,FALSE,,13,3,1,Frosty,TRUE,FALSE,FALSE
+,,,,,,,13,3,Electra,Legion,,FALSE,,13,3,D1,Piranha,Nomination,Piranha,V3,,13,3,6,Lyra,Lycan,5,TRUE,TRUE,,13,3,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,13,3,Hobastian,Legion,,FALSE,,13,3,D1,Jordan,Nomination,Hobastian,V4,,13,3,7,Lycan,Jordan,0,FALSE,FALSE,,13,3,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,13,3,Piranha,Legion,,FALSE,,13,3,D1,Weaver,Nomination,Jordan,V5,,13,3,8,Dice,Lyra,3,FALSE,FALSE,,13,3,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,13,3,Frosty,Savant,,FALSE,,13,3,D1,Hobastian,Executed,,,,13,3,9,Tim,Electra,3,FALSE,FALSE,,13,3,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,13,3,Jordan,Legion,,FALSE,,13,3,N2,Tim,Empath Number,2,,,13,3,10,Jon,Sam,4,TRUE,TRUE,,13,3,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,13,3,Dice,Scapegoat,Evil,FALSE,,13,3,N2,Jon,Town Crier Information,Yes,,,13,3,11,Sam,Tim,2,FALSE,FALSE,,13,3,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,13,3,Lyra,Legion,,FALSE,,13,3,N2,,Demon Kill,Piranha,Legion,,13,3,12,Lyra,Frosty,4,TRUE,TRUE,,13,3,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,13,3,Sam,Legion,,FALSE,,13,3,D2,Frosty,Savant Info,The traveller is good|The boomdandy was nominated yesterday,,,13,3,13,Frosty,Lyra,1,FALSE,FALSE,,13,3,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,13,3,Weaver,Legion,,FALSE,,13,3,D2,Lyra,Nomination,Lycan,V6,,13,3,14,Tim,Electra,2,FALSE,FALSE,,13,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,13,3,Bluff,Sailor,,,,13,3,D2,Lycan,Nomination,Jordan,V7,,13,3,15,Sam,Tim,3,FALSE,FALSE,,13,3,2,Electra,TRUE,FALSE,FALSE
+,,,,,,,13,3,Bluff,Oracle,,,,13,3,D2,Lycan,Executed,,,,13,3,16,Jon,Sam,2,FALSE,FALSE,,13,3,2,Hobastian,TRUE,FALSE,FALSE
+,,,,,,,13,3,Bluff,Ravenkeeper,,,,13,3,N3,Tim,Empath Number,1,,,13,3,17,Jon,Tim,6,TRUE,TRUE,,13,3,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N3,Jon,Town Crier Information,Yes,,,,,,,,,,,,13,3,2,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N3,,Demon Kill,Jordan,Legion,,,,,,,,,,,13,3,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D3,Frosty,Savant Info,The cerenovus has selected exactly 2 players|All the dead players are of the same alignment,,,,,,,,,,,,13,3,2,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D3,Dice,Nomination,Lyra,V8,,,,,,,,,,,13,3,2,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D3,Tim,Nomination,Electra,V9,,,,,,,,,,,13,3,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D3,Jon,Nomination,Sam,V10,,,,,,,,,,,13,3,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D3,Sam,Nomination,Tim,V11,,,,,,,,,,,13,3,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D3,Sam,Executed,,Protected,,,,,,,,,,,13,3,3,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D3,Dice,Executed,,,,,,,,,,,,,13,3,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N4,Tim,Empath Number,1,,,,,,,,,,,,13,3,3,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N4,Jon,Town Crier Information,Yes,,,,,,,,,,,,13,3,3,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N4,Dice,Player Left Game,,,,,,,,,,,,,13,3,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N4,,Demon Kill,Weaver,Legion,,,,,,,,,,,13,3,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D4,Frosty,Savant Info,The drunk has received correct info at least once|At least one demon is dead,,,,,,,,,,,,13,3,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D4,Lyra,Nomination,Frosty,V12,,,,,,,,,,,13,3,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D4,Frosty,Nomination,Lyra,V13,,,,,,,,,,,13,3,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D4,Tim,Nomination,Electra,V14,,,,,,,,,,,13,3,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D4,Sam,Nomination,Tim,V15,,,,,,,,,,,13,3,3,Hobastian,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D4,Jon,Nomination,Sam,V16,,,,,,,,,,,13,3,3,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D4,Frosty,Executed,,,,,,,,,,,,,13,3,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N5,Tim,Empath Number,1,,,,,,,,,,,,13,3,4,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N5,Jon,Town Crier Information,Yes,,,,,,,,,,,,13,3,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N5,,Demon Kill,Electra,Legion,,,,,,,,,,,13,3,4,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N6,Tim,Empath Number,1,,,,,,,,,,,,13,3,4,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N6,Jon,Town Crier Information,No,,,,,,,,,,,,13,3,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,N6,,Demon Kill,Sam,Legion,,,,,,,,,,,13,3,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D6,Jon,Nomination,Tim,V17,,,,,,,,,,,13,3,4,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D6,Tim,Executed,,,,,,,,,,,,,13,3,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,3,D6,,Game End,,Two Living Players,,,,,,,,,,,13,3,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,4,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,4,Hobastian,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Hobastian,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,6,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,7,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,8,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,9,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,10,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,11,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,12,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,13,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,14,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,15,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Hobastian,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,16,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Hobastian,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Frosty,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Jordan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Weaver,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,17,Tim,FALSE,TRUE,FALSE
