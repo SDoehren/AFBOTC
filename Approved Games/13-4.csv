@@ -1,0 +1,15 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+22/05/2022,13,4,Trouble Brewing,Good,7,,13,4,Piranha,ST,,,,13,4,N1,Tanfana,Minion Information,Standard,,,13,4,1,Jon,Lycan,5,TRUE,TRUE,,13,4,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,13,4,Alejo,ST,,,,13,4,N1,Tanfana,Poison,Tim,,,13,4,2,Lycan,Lyra,1,FALSE,FALSE,,13,4,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,13,4,Sam,ST,,,,13,4,N1,Weaver,Demon Information,Standard,,,,,,,,,,,,13,4,1,Lyra,FALSE,FALSE,FALSE
+,,,,,,,13,4,Jon,Mayor,,FALSE,,13,4,N1,Lycan,Washerwoman Information,Jon|Tanfana|Mayor,,,,,,,,,,,,13,4,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,13,4,Lycan,Washerwoman,,FALSE,,13,4,N1,Tim,Empath Number,1,,,,,,,,,,,,13,4,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,13,4,Tim,Empath,,FALSE,,13,4,D1,Jon,Nomination,Lycan,V1,,,,,,,,,,,13,4,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,13,4,Jordan,Slayer,,FALSE,,13,4,D1,Lycan,Nomination,Lyra,V2,,,,,,,,,,,13,4,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,13,4,Lyra,Monk,,FALSE,,13,4,D1,Lycan,Executed,,,,,,,,,,,,,13,4,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,13,4,Weaver,Imp,,FALSE,,13,4,N2,Tanfana,Poison,Lyra,,,,,,,,,,,,13,4,2,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,13,4,Tanfana,Poisoner,,FALSE,,13,4,N2,Lyra,Monk Protect,Weaver,,,,,,,,,,,,13,4,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,13,4,Bluff,Chef,,,,13,4,N2,Weaver,Demon Kill,Tim,,,,,,,,,,,,13,4,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,13,4,Bluff,Undertaker,,,,13,4,D2,Jordan,Slayer Shot,Weaver,,,,,,,,,,,,13,4,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,13,4,Bluff,Ravenkeeper,,,,13,4,D2,Weaver,Killed,,Slayer Kill,,,,,,,,,,,13,4,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,4,D2,,Game End,,Slayer Kill,,,,,,,,,,,13,4,2,Lyra,FALSE,FALSE,FALSE

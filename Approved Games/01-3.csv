@@ -14,19 +14,19 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,1,3,N2,Jordan,Role Information,Piranha,,,,,,,,,,,,1,3,2,Sam,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,1,3,N2,Jordan,Role Information,Yes,,,,,,,,,,,,1,3,2,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,1,3,D2,Piranha,Nomination,Weaver,V1,,,,,,,,,,,1,3,3,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,1,3,D2,Weaver,Slayer Shot,Jordan,Miss,,,,,,,,,,,1,3,3,Jon,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,1,3,D2,Jordan,Nomination,Piranha,V2,,,,,,,,,,,1,3,3,Tim,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,1,3,D2,Jon,Nomination,Lycan,V3,,,,,,,,,,,1,3,3,Sam,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,1,3,D2,Piranha,Executed,,,,,,,,,,,,,1,3,3,Piranha,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,3,N3,Lycan,Demon Kill,Jon,,,,,,,,,,,,1,3,3,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,3,N3,Jordan,Role Information,Jon,,,,,,,,,,,,1,3,3,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,3,N3,Jordan,Role Information,Lycan,,,,,,,,,,,,1,3,4,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,1,3,N3,Jordan,Role Information,Yes,,,,,,,,,,,,1,3,4,Jon,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,1,3,D3,Jordan,Nomination,Lycan,V4,,,,,,,,,,,1,3,4,Tim,TRUE,TRUE,FALSE
-,,,,,,,,,,,,,,1,3,D3,Lycan,Nomination,Weaver,V5,,,,,,,,,,,1,3,4,Sam,TRUE,TRUE,FALSE
-,,,,,,,,,,,,,,1,3,D3,Weaver,Nomination,Jordan,V6,,,,,,,,,,,1,3,4,Piranha,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,1,3,D3,Lycan,Executed,,,,,,,,,,,,,1,3,4,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,1,3,D3,,Game End,,Demon Executed,,,,,,,,,,,1,3,4,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,3,D2,Jordan,Nomination,Piranha,V2,,,,,,,,,,,1,3,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,1,3,D2,Jon,Nomination,Lycan,V3,,,,,,,,,,,1,3,3,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,1,3,D2,Piranha,Executed,,,,,,,,,,,,,1,3,3,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,1,3,N3,Lycan,Demon Kill,Jon,,,,,,,,,,,,1,3,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,3,N3,Jordan,Role Information,Jon,,,,,,,,,,,,1,3,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,3,N3,Jordan,Role Information,Lycan,,,,,,,,,,,,1,3,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,3,N3,Jordan,Role Information,Yes,,,,,,,,,,,,1,3,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,1,3,D3,Jordan,Nomination,Lycan,V4,,,,,,,,,,,1,3,4,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,1,3,D3,Lycan,Nomination,Weaver,V5,,,,,,,,,,,1,3,4,Tim,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,1,3,D3,Weaver,Nomination,Jordan,V6,,,,,,,,,,,1,3,4,Sam,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,1,3,D3,Lycan,Executed,,,,,,,,,,,,,1,3,4,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,1,3,D3,,Game End,,Demon Executed,,,,,,,,,,,1,3,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,4,Lycan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,5,Jon,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,5,Tim,FALSE,TRUE,TRUE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,5,Sam,FALSE,TRUE,TRUE

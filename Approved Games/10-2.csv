@@ -11,25 +11,25 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,10,2,Flossorapture,Exorcist,,,,10,2,D1,Jordan,Nomination,Sam,V3,,10,2,10,Jordan,Piranha,4,TRUE,TRUE,,10,2,2,Dice,FALSE,FALSE,FALSE
 ,,,,,,,10,2,Bluff,Sailor,,,,10,2,D1,Piranha,Nomination,Jordan,V4,,10,2,11,Lycan,Sam,0,FALSE,FALSE,,10,2,2,Permzilla,FALSE,FALSE,FALSE
 ,,,,,,,10,2,Bluff,Chambermaid,,,,10,2,D1,Sam,Executed,,Protected,,10,2,12,Piranha,Jordan,3,FALSE,FALSE,,10,2,2,Tim,FALSE,FALSE,FALSE
-,,,,,,,10,2,Bluff,Gambler,,,,10,2,D1,Weaver,DA Protection,Piranha,,,,,,,,,,,,10,2,2,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,10,2,D1,Jordan,Lunatic Pick,Lycan,,,,,,,,,,,,10,2,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,10,2,Bluff,Gambler,,,,10,2,N2,Weaver,DA Protection,Piranha,,,,,,,,,,,,10,2,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,2,N2,Jordan,Lunatic Pick,Lycan,,,,,,,,,,,,10,2,2,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N2,Lycan,Goon Drunk,Jordan,,,,,,,,,,,,10,2,2,Flossorapture,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N2,Flossorapture,Exorcist Pick,Sam,,,,,,,,,,,,10,2,2,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N2,Piranha,Pukka Poison,Flossorapture,,,,,,,,,,,,10,2,2,Sam,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N2,Tim,Gossip Kill,,,,,,,,,,,,,10,2,2,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N2,Permzilla,Tinker Kill,,,,,,,,,,,,,10,2,3,Lycan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,10,2,N2,Jordan,Nomination,Sam,V5,,,,,,,,,,,10,2,3,Dice,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,10,2,N2,Weaver,Nomination,Jordan,V6,,,,,,,,,,,10,2,3,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,2,D2,Jordan,Nomination,Sam,V5,,,,,,,,,,,10,2,3,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,2,D2,Weaver,Nomination,Jordan,V6,,,,,,,,,,,10,2,3,Permzilla,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,D2,Piranha,Nomination,Weaver,V7,,,,,,,,,,,10,2,3,Tim,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,D2,Sam,Nomination,Flossorapture,V8,,,,,,,,,,,10,2,3,Weaver,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,D2,Lycan,Nomination,Piranha,V9,,,,,,,,,,,10,2,3,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,10,2,D2,Weaver,DA Protection,Weaver,,,,,,,,,,,,10,2,3,Flossorapture,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,10,2,D2,Jordan,Lunatic Pick,Lycan,,,,,,,,,,,,10,2,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,2,N3,Weaver,DA Protection,Weaver,,,,,,,,,,,,10,2,3,Flossorapture,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,2,N3,Jordan,Lunatic Pick,Lycan,,,,,,,,,,,,10,2,3,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N3,Lycan,Goon Drunk,Jordan,,,,,,,,,,,,10,2,3,Sam,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N3,Flossorapture,Exorcist Pick,Lycan,,,,,,,,,,,,10,2,4,Flossorapture,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,N3,Piranha,Pukka Poison,Jordan,,,,,,,,,,,,10,2,4,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,10,2,N3,Jordan,Nomination,Piranha,V10,,,,,,,,,,,10,2,4,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,10,2,N3,Lycan,Nomination,Sam,V11,,,,,,,,,,,10,2,4,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,2,D3,Jordan,Nomination,Piranha,V10,,,,,,,,,,,10,2,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,10,2,D3,Lycan,Nomination,Sam,V11,,,,,,,,,,,10,2,4,Lycan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,D3,Piranha,Nomination,Jordan,V12,,,,,,,,,,,10,2,4,Dice,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,D3,Piranha,Executed,,,,,,,,,,,,,10,2,4,Permzilla,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,2,D3,,Game End,,Demon Executed,,,,,,,,,,,10,2,4,Tim,FALSE,FALSE,FALSE
