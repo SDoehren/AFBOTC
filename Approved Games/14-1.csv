@@ -1,0 +1,65 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+29/05/2022,14,1,Trouble Brewing,Evil,8,,14,1,Alejo,ST,,,,14,1,N1,Tim,Minion Information,Standard,,,14,1,1,Piranha,Jordan,4,TRUE,FALSE,,14,1,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,14,1,Electra,Empath,,FALSE,,14,1,N1,Piranha,Demon Information,Standard,,,14,1,2,Jordan,Tanfana,6,TRUE,TRUE,,14,1,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,14,1,Tanfana,Butler,,FALSE,,14,1,N1,Sam,Investigator Information,Baron|Jordan|Tim,,,14,1,3,Jordan,Weaver,1,FALSE,FALSE,,14,1,1,Piranha,TRUE,FALSE,FALSE
+,,,,,,,14,1,Piranha,Imp,,FALSE,,14,1,N1,Electra,Empath Number,1,,,14,1,4,Weaver,Jordan,4,TRUE,TRUE,,14,1,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,14,1,Tim,Baron,,FALSE,,14,1,N1,Tanfana,Picks Master,Jordan,,,14,1,5,Piranha,Tim,1,FALSE,FALSE,,14,1,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,14,1,Weaver,Saint,,FALSE,,14,1,D1,Piranha,Nomination,Jordan,V1,,14,1,6,Sam,Permzilla,2,FALSE,FALSE,,14,1,1,Sam,FALSE,FALSE,FALSE
+,,,,,,,14,1,Sam,Investigator,,FALSE,,14,1,D1,Jordan,Nomination,Tanfana,V2,,14,1,7,Weaver,Tim,2,TRUE,FALSE,,14,1,1,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,14,1,Permzilla,Mayor,,FALSE,,14,1,D1,Tanfana,Executed,,,,14,1,8,Piranha,Weaver,3,TRUE,TRUE,,14,1,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,14,1,Jordan,Recluse,,FALSE,,14,1,N2,Piranha,Demon Kill,Electra,,,,,,,,,,,,14,1,2,Piranha,TRUE,FALSE,FALSE
+,,,,,,,14,1,Bluff,Chef,,,,14,1,D2,Jordan,Nomination,Weaver,V3,,,,,,,,,,,14,1,2,Tim,TRUE,FALSE,FALSE
+,,,,,,,14,1,Bluff,Ravenkeeper,,,,14,1,D2,Weaver,Nomination,Jordan,V4,,,,,,,,,,,14,1,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,14,1,Bluff,Slayer,,,,14,1,D2,Piranha,Nomination,Tim,V5,,,,,,,,,,,14,1,2,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,D2,Sam,Nomination,Permzilla,V6,,,,,,,,,,,14,1,2,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,D2,Jordan,Executed,,,,,,,,,,,,,14,1,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,N3,Piranha,Demon Kill,Permzilla,Mayor Bounce,,,,,,,,,,,14,1,2,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,N3,Permzilla,Mayor Kill,Sam,,,,,,,,,,,,14,1,2,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,N4,Piranha,Demon Kill,Permzilla,,,,,,,,,,,,14,1,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,D4,Weaver,Nomination,Tim,V7,,,,,,,,,,,14,1,3,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,D4,Piranha,Nomination,Weaver,V8,,,,,,,,,,,14,1,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,1,D4,Weaver,Executed,,,,,,,,,,,,,14,1,3,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,14,1,D4,,Game End,,Saint Executed,,,,,,,,,,,14,1,3,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,6,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,7,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Tanfana,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,1,8,Weaver,FALSE,FALSE,FALSE

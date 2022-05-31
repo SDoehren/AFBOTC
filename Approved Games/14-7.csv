@@ -1,0 +1,31 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+29/05/2022,14,7,A Lleech of Distrust,Good,6,,14,7,Alejo,ST,,,,14,7,N1,Lycan,Demon Information,Standard,,,14,7,1,Sam,Sam,3,TRUE,FALSE,,14,7,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,14,7,Tanfana,Fisherman,,FALSE,,14,7,N1,Jordan,Lunatic Pick,Weaver,,,14,7,2,Jordan,Tanfana,4,TRUE,TRUE,,14,7,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,14,7,Weaver,Undertaker,,FALSE,,14,7,N1,Lycan,Lleech Host,Sam,,,14,7,3,Jordan,Sam,3,TRUE,TRUE,,14,7,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,14,7,Jordan,Lleech,,FALSE,,14,7,D1,Tanfana,Fisherman Information,If somebody is trying to imply to you that they are a pixie you probably shouldn't trust that,,,14,7,4,Weaver,Jordan,2,FALSE,FALSE,,14,7,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,14,7,Electra,Drunk,Juggler,FALSE,,14,7,D1,Electra,Juggle,Electra|Juggler,,,14,7,5,Lycan,Weaver,2,FALSE,FALSE,,14,7,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,14,7,Sam,Marionette,Slayer,FALSE,,14,7,D1,Electra,Juggle,Sam|Slayer,,,,,,,,,,,,14,7,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,14,7,Lycan,Lunatic,Lleech,FALSE,,14,7,D1,Electra,Juggle,Tanfana|Lleech,,,,,,,,,,,,14,7,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,14,7,Bluff,Noble,,,,14,7,D1,Electra,Juggle,Weaver|Undertaker,,,,,,,,,,,,14,7,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,14,7,Bluff,Chambermaid,,,,14,7,D1,Electra,Juggle,Jordan|Exorcist,,,,,,,,,,,,14,7,2,Electra,TRUE,FALSE,FALSE
+,,,,,,,14,7,Bluff,Slayer,,,,14,7,D1,Sam,Slayer Shot,Tanfana,Miss,,,,,,,,,,,14,7,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,D1,Sam,Nomination,Sam,V1,,,,,,,,,,,14,7,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,D1,Jordan,Nomination,Tanfana,V2,,,,,,,,,,,14,7,2,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,D1,Tanfana,Executed,,,,,,,,,,,,,14,7,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,N2,Jordan,Lunatic Pick,Sam,,,,,,,,,,,,14,7,3,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,14,7,N2,Lycan,Demon Kill,Electra,,,,,,,,,,,,14,7,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,N2,Weaver,Undertaker Information,Fisherman,,,,,,,,,,,,14,7,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,D2,Jordan,Nomination,Sam,V3,,,,,,,,,,,14,7,3,Electra,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,14,7,D2,Weaver,Nomination,Jordan,V4,,,,,,,,,,,14,7,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,D2,Lycan,Nomination,Weaver,V5,,,,,,,,,,,14,7,4,Electra,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,14,7,D2,Sam,Executed,,,,,,,,,,,,,14,7,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,D2,Lycan,Killed,,Lleech Host,,,,,,,,,,,14,7,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,14,7,D2,,Game End,,Demon Executed,,,,,,,,,,,14,7,4,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,5,Electra,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,5,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,5,Weaver,TRUE,FALSE,FALSE
