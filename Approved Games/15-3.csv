@@ -1,169 +1,169 @@
-Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used,,,,,,,,,,,,,,,,,,,,,,,,,
-05/06/2022,15,3,Half of the 108,Good,12,,15,3,Alejo,ST,,,,15,3,N1,Tanfana,Minion Information,Standard,,,15,3,1,Lyra,Lyra,10,TRUE,TRUE,,15,3,1,Tim,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Electra,Recluse,,FALSE,,15,3,N1,Shaun,Minion Information,Standard,,,15,3,2,Lycan,Jordan,5,FALSE,FALSE,,15,3,1,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Jon,Vortox,,FALSE,,15,3,N1,Jon,Demon Information,Standard,,,15,3,3,Piranha,Sam,2,FALSE,FALSE,,15,3,1,Sam,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Jordan,Drunk,Fortune Teller,FALSE,,15,3,N1,Sam,Bureaucrat Ability,Lycan,,,15,3,4,Jordan,Weaver,6,FALSE,FALSE,,15,3,1,Shaun,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Kani,Monk,,FALSE,,15,3,N1,Jordan,Fortune Teller Information,Piranha|Tanfana|Yes,,,15,3,5,Jordan,Shaun,5,TRUE,TRUE,,15,3,1,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Lycan,Slayer,,FALSE,,15,3,N1,Lyra,Investigator Information,Poisoner|Shaun|Weaver,,,15,3,6,Shaun,Weaver,2,FALSE,FALSE,,15,3,1,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Lyra,Investigator,,FALSE,,15,3,N1,Tim,Empath Number,2,,,15,3,7,Tim,Lyra,2,FALSE,FALSE,,15,3,1,Electra,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Tim,Empath,,FALSE,,15,3,D1,Lyra,Nomination,Lyra,V1,,15,3,8,Tim,Lyra,5,TRUE,FALSE,,15,3,1,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Piranha,Mayor,,FALSE,,15,3,D1,Lycan,Nomination,Jordan,V2,,15,3,9,Weaver,Jordan,2,FALSE,FALSE,,15,3,1,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Sam,Bureaucrat,Evil,FALSE,,15,3,D1,Piranha,Nomination,Sam,V3,,15,3,10,Piranha,Tanfana,6,TRUE,TRUE,,15,3,1,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Shaun,Baron,,FALSE,,15,3,D1,Jordan,Nomination,Weaver,V4,,15,3,11,Jon,Lycan,3,FALSE,FALSE,,15,3,1,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Tanfana,Scarlet Woman,,FALSE,,15,3,D1,Lyra,Executed,,,,15,3,12,Tim,Jon,4,TRUE,TRUE,,15,3,1,Lyra,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Weaver,Saint,,FALSE,,15,3,N2,Sam,Bureaucrat Ability,Jordan,,,15,3,13,Jon,Weaver,1,FALSE,FALSE,,15,3,2,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Bluff,Chef,,,,15,3,N2,Kani,Monk Protect,Weaver,,,15,3,14,Lycan,Tim,2,FALSE,FALSE,,15,3,2,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Bluff,Undertaker,,,,15,3,N2,Jon,Demon Kill,Piranha,Mayor Bounce,,,,,,,,,,,15,3,2,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,15,3,Bluff,Soldier,,,,15,3,N2,Piranha,Mayor Kill,Sam,,,,,,,,,,,,15,3,2,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N2,Tim,Empath Number,1,,,,,,,,,,,,15,3,2,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N2,Jordan,Fortune Teller Information,Sam|Lyra|No,,,,,,,,,,,,15,3,2,Sam,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D2,Jordan,Nomination,Shaun,V5,,,,,,,,,,,15,3,2,Shaun,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D2,Lycan,Slayer Shot,Piranha,Miss,,,,,,,,,,,15,3,2,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D2,Shaun,Nomination,Weaver,V6,,,,,,,,,,,15,3,2,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D2,Tim,Nomination,Lyra,V7,,,,,,,,,,,15,3,2,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D2,Shaun,Executed,,,,,,,,,,,,,15,3,2,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N3,Kani,Monk Protect,Weaver,,,,,,,,,,,,15,3,2,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N3,Jon,Demon Kill,Jordan,,,,,,,,,,,,15,3,3,Shaun,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N3,Tim,Empath Number,1,,,,,,,,,,,,15,3,3,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D3,Sam,Player Left Game,,,,,,,,,,,,,15,3,3,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D3,Tim,Nomination,Lyra,V8,,,,,,,,,,,15,3,3,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D3,Weaver,Nomination,Jordan,V9,,,,,,,,,,,15,3,3,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D3,Piranha,Nomination,Tanfana,V10,,,,,,,,,,,15,3,3,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D3,Jon,Nomination,Lycan,V11,,,,,,,,,,,15,3,3,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D3,Tanfana,Executed,,,,,,,,,,,,,15,3,3,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N4,Jon,Demon Kill,Electra,,,,,,,,,,,,15,3,3,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N4,Kani,Monk Protect,Tim,,,,,,,,,,,,15,3,3,Tim,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,N4,Tim,Empath Number,0,,,,,,,,,,,,15,3,3,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D4,Tim,Nomination,Jon,V12,,,,,,,,,,,15,3,3,Sam,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D4,Jon,Nomination,Weaver,V13,,,,,,,,,,,15,3,4,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D4,Lycan,Nomination,Tim,V14,,,,,,,,,,,15,3,4,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D4,Jon,Executed,,,,,,,,,,,,,15,3,4,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,15,3,D4,,Game End,,Demon Executed,,,,,,,,,,,15,3,4,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Tim,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Sam,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Shaun,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Jon,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Shaun,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Shaun,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Shaun,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Tim,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Shaun,TRUE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Electra,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Jordan,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Lycan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Shaun,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Jordan,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Electra,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Jon,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Jordan,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Tim,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Piranha,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Shaun,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Shaun,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Electra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Jordan,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Jordan,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Lycan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Tim,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Piranha,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Shaun,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Tanfana,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Electra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Electra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Jon,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Jordan,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Lycan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Shaun,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Tanfana,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Sam,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Shaun,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Tanfana,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Electra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Jon,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Jordan,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Tim,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+05/06/2022,15,3,Half of the 108,Good,12,,15,3,Alejo,ST,,,,15,3,N1,Tanfana,Minion Information,Standard,,,15,3,1,Lyra,Lyra,10,TRUE,TRUE,,15,3,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,15,3,Electra,Recluse,,FALSE,,15,3,N1,Shaun,Minion Information,Standard,,,15,3,2,Lycan,Jordan,5,FALSE,FALSE,,15,3,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,15,3,Jon,Vortox,,FALSE,,15,3,N1,Jon,Demon Information,Standard,,,15,3,3,Piranha,Sam,2,FALSE,FALSE,,15,3,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,15,3,Jordan,Drunk,Fortune Teller,FALSE,,15,3,N1,Sam,Bureaucrat Ability,Lycan,,,15,3,4,Jordan,Weaver,6,FALSE,FALSE,,15,3,1,Shaun,FALSE,FALSE,FALSE
+,,,,,,,15,3,Kani,Monk,,FALSE,,15,3,N1,Jordan,Fortune Teller Information,Piranha|Tanfana|Yes,,,15,3,5,Jordan,Shaun,5,TRUE,TRUE,,15,3,1,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,15,3,Lycan,Slayer,,FALSE,,15,3,N1,Lyra,Investigator Information,Poisoner|Shaun|Weaver,,,15,3,6,Shaun,Weaver,2,FALSE,FALSE,,15,3,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,15,3,Lyra,Investigator,,FALSE,,15,3,N1,Tim,Empath Number,2,,,15,3,7,Tim,Lyra,2,FALSE,FALSE,,15,3,1,Electra,TRUE,FALSE,FALSE
+,,,,,,,15,3,Tim,Empath,,FALSE,,15,3,D1,Lyra,Nomination,Lyra,V1,,15,3,8,Tim,Lyra,5,TRUE,FALSE,,15,3,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,15,3,Piranha,Mayor,,FALSE,,15,3,D1,Lycan,Nomination,Jordan,V2,,15,3,9,Weaver,Jordan,2,FALSE,FALSE,,15,3,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,15,3,Sam,Bureaucrat,Evil,FALSE,,15,3,D1,Piranha,Nomination,Sam,V3,,15,3,10,Piranha,Tanfana,6,TRUE,TRUE,,15,3,1,Kani,FALSE,FALSE,FALSE
+,,,,,,,15,3,Shaun,Baron,,FALSE,,15,3,D1,Jordan,Nomination,Weaver,V4,,15,3,11,Jon,Lycan,3,FALSE,FALSE,,15,3,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,15,3,Tanfana,Scarlet Woman,,FALSE,,15,3,D1,Lyra,Executed,,,,15,3,12,Tim,Jon,4,TRUE,TRUE,,15,3,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,15,3,Weaver,Saint,,FALSE,,15,3,N2,Sam,Bureaucrat Ability,Jordan,,,15,3,13,Jon,Weaver,1,FALSE,FALSE,,15,3,2,Kani,FALSE,FALSE,FALSE
+,,,,,,,15,3,Bluff,Chef,,,,15,3,N2,Kani,Monk Protect,Weaver,,,15,3,14,Lycan,Tim,2,FALSE,FALSE,,15,3,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,15,3,Bluff,Undertaker,,,,15,3,N2,Jon,Demon Kill,Piranha,Mayor Bounce,,,,,,,,,,,15,3,2,Lyra,FALSE,FALSE,FALSE
+,,,,,,,15,3,Bluff,Soldier,,,,15,3,N2,Piranha,Mayor Kill,Sam,,,,,,,,,,,,15,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N2,Tim,Empath Number,1,,,,,,,,,,,,15,3,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N2,Jordan,Fortune Teller Information,Sam|Lyra|No,,,,,,,,,,,,15,3,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D2,Jordan,Nomination,Shaun,V5,,,,,,,,,,,15,3,2,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D2,Lycan,Slayer Shot,Piranha,Miss,,,,,,,,,,,15,3,2,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D2,Shaun,Nomination,Weaver,V6,,,,,,,,,,,15,3,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D2,Tim,Nomination,Lyra,V7,,,,,,,,,,,15,3,2,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D2,Shaun,Executed,,,,,,,,,,,,,15,3,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N3,Kani,Monk Protect,Weaver,,,,,,,,,,,,15,3,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N3,Jon,Demon Kill,Jordan,,,,,,,,,,,,15,3,3,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N3,Tim,Empath Number,1,,,,,,,,,,,,15,3,3,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D3,Sam,Player Left Game,,,,,,,,,,,,,15,3,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D3,Tim,Nomination,Lyra,V8,,,,,,,,,,,15,3,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D3,Weaver,Nomination,Jordan,V9,,,,,,,,,,,15,3,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D3,Piranha,Nomination,Tanfana,V10,,,,,,,,,,,15,3,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D3,Jon,Nomination,Lycan,V11,,,,,,,,,,,15,3,3,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D3,Tanfana,Executed,,,,,,,,,,,,,15,3,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N4,Jon,Demon Kill,Electra,,,,,,,,,,,,15,3,3,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N4,Kani,Monk Protect,Tim,,,,,,,,,,,,15,3,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,N4,Tim,Empath Number,0,,,,,,,,,,,,15,3,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D4,Tim,Nomination,Jon,V12,,,,,,,,,,,15,3,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D4,Jon,Nomination,Weaver,V13,,,,,,,,,,,15,3,4,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D4,Lycan,Nomination,Tim,V14,,,,,,,,,,,15,3,4,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D4,Jon,Executed,,,,,,,,,,,,,15,3,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,15,3,D4,,Game End,,Demon Executed,,,,,,,,,,,15,3,4,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,5,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Shaun,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Shaun,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,7,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Shaun,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,8,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,9,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,10,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,11,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,12,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,13,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,3,14,Tim,FALSE,FALSE,FALSE

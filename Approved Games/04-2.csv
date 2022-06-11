@@ -14,7 +14,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,4,2,Piranha,Pit-Hag,,FALSE,,4,2,N2,Jordan,Cerenovus Madness,Charli|Klutz,,,,,,,,,,,,4,2,2,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,4,2,Bluff,Clockmaker,,,,4,2,N2,Piranha,Pit-Hag Pick,Lycan,Klutz,,,,,,,,,,,4,2,2,Amy,FALSE,FALSE,FALSE
 ,,,,,,,4,2,Bluff,Flowergirl,,,,4,2,N2,Lycan,Role Change,Klutz,,,,,,,,,,,,4,2,2,Tim,FALSE,TRUE,FALSE
-,,,,,,,4,2,Bluff,Oracle,,,,4,2,N2,Amy,Sobers up,,,,,,,,,,,,,4,2,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,4,2,Bluff,Oracle,,,,4,2,N2,Amy,Healthy,,,,,,,,,,,,,4,2,2,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,4,2,N2,Jon,Demon Kill,Tim,,,,,,,,,,,,4,2,2,Jon,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,4,2,N2,Dice,Dreamer Check,Tim|Sage|Witch,,,,,,,,,,,,4,2,2,Sam,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,4,2,D2,Sam,Savant Info,There is exactly one dead evil player|All three evils player are on the right (Lycan through Dice),,,,,,,,,,,,4,2,2,Dice,TRUE,FALSE,FALSE
@@ -25,26 +25,26 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,4,2,N3,Jon,Select Barber Swap,Weaver|Amy,,,,,,,,,,,,4,2,3,Sam,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,4,2,N3,Weaver,Role Change,Snake Charmer,,,,,,,,,,,,4,2,3,Dice,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,4,2,N3,Amy,Role Change,Barber,,,,,,,,,,,,4,2,3,Frosty,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,2,N3,Sam,Role Change,Sweetheart,,,,,,,,,,,,4,2,3,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,N3,Jon,Demon Kill,Lycan,,,,,,,,,,,,4,2,3,Charli,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,N3,Dice,Dreamer Check,Charli|Klutz|Pit-Hag,,,,,,,,,,,,4,2,3,Piranha,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,D3,Lycan,Cerenovus Execution,,,,,,,,,,,,,4,2,3,Lycan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,N4,Jordan,Cerenovus Madness,Sam|Snake Charmer,,,,,,,,,,,,4,2,3,Amy,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,N4,Piranha,Pit-Hag Pick,Weaver,Witch,,,,,,,,,,,4,2,3,Tim,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,2,N4,Jon,Demon Kill,Dice,,,,,,,,,,,,4,2,3,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,D4,Amy,Nomination,Jordan,V4,,,,,,,,,,,4,2,4,Charli,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,D4,Jordan,Nomination,Piranha,V5,,,,,,,,,,,4,2,4,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,N5,Piranha,Pit-Hag Pick,Charli,Barber,,,,,,,,,,,4,2,4,Lycan,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,2,N5,Jon,Demon Kill,Charli,,,,,,,,,,,,4,2,4,Amy,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,D5,Sam,Nomination,Frosty,V6,,,,,,,,,,,4,2,4,Tim,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,2,D5,Frosty,Executed,,Double Tap,,,,,,,,,,,4,2,4,Weaver,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,2,N6,Piranha,Pit-Hag Pick,Piranha,Pit-Hag,,,,,,,,,,,4,2,4,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,N6,Jon,Demon Kill,Piranha,,,,,,,,,,,,4,2,4,Sam,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,D6,Jon,Nomination,Sam,V7,,,,,,,,,,,4,2,4,Dice,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,2,D6,Amy,Nomination,Jon,V8,,,,,,,,,,,4,2,4,Frosty,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,2,D6,Jon,Executed,,,,,,,,,,,,,4,2,4,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,2,D6,,Game End,,Demon Executed,,,,,,,,,,,4,2,5,Lycan,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,5,Amy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N6,Piranha,Pit-Hag Pick,Sam,Sweetheart,,,,,,,,,,,4,2,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N3,Sam,Role Change,Sweetheart,,,,,,,,,,,,4,2,3,Charli,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N3,Jon,Demon Kill,Lycan,,,,,,,,,,,,4,2,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N3,Dice,Dreamer Check,Charli|Klutz|Pit-Hag,,,,,,,,,,,,4,2,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,D3,Lycan,Cerenovus Execution,,,,,,,,,,,,,4,2,3,Amy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N4,Jordan,Cerenovus Madness,Sam|Snake Charmer,,,,,,,,,,,,4,2,3,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,2,N4,Piranha,Pit-Hag Pick,Weaver,Witch,,,,,,,,,,,4,2,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N4,Jon,Demon Kill,Dice,,,,,,,,,,,,4,2,4,Charli,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,D4,Amy,Nomination,Jordan,V4,,,,,,,,,,,4,2,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,D4,Jordan,Nomination,Piranha,V5,,,,,,,,,,,4,2,4,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,2,N5,Piranha,Pit-Hag Pick,Charli,Barber,,,,,,,,,,,4,2,4,Amy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N5,Jon,Demon Kill,Charli,,,,,,,,,,,,4,2,4,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,2,D5,Sam,Nomination,Frosty,V6,,,,,,,,,,,4,2,4,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,2,D5,Frosty,Executed,,Double Tap,,,,,,,,,,,4,2,4,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N6,Piranha,Pit-Hag Pick,Piranha,Pit-Hag,,,,,,,,,,,4,2,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,N6,Jon,Demon Kill,Piranha,,,,,,,,,,,,4,2,4,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,2,D6,Jon,Nomination,Sam,V7,,,,,,,,,,,4,2,4,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,2,D6,Amy,Nomination,Jon,V8,,,,,,,,,,,4,2,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,2,D6,Jon,Executed,,,,,,,,,,,,,4,2,5,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,2,D6,,Game End,,Demon Executed,,,,,,,,,,,4,2,5,Amy,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,5,Tim,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,5,Weaver,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,5,Jon,FALSE,FALSE,FALSE

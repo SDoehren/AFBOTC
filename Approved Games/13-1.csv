@@ -1,52 +1,52 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
 22/05/2022,13,1,Half of the 108,Good,14,,13,1,Alejo,ST,,,,13,1,N1,Tanfana,Minion Information,Standard,,,13,1,1,Jordan,Weaver,6,FALSE,FALSE,,13,1,1,Electra,FALSE,FALSE,FALSE
-,,,,,,,13,1,Electra,Ravenkeeper,,FALSE,,13,1,N1,Tanfana,Poison,Tim,,,13,1,2,Lycan,Lycan,6,FALSE,FALSE,,13,1,1,Jordan,FALSE,FALSE,FALSE
-,,,,,,,13,1,Jordan,Butler,,FALSE,,13,1,N1,Frosty,Minion Information,Standard,,,13,1,3,Weaver,Jordan,9,TRUE,FALSE,,13,1,1,Permzilla,FALSE,FALSE,FALSE
-,,,,,,,13,1,Permzilla,Drunk,Empath,FALSE,,13,1,N1,Dice,Minion Information,Standard,,,13,1,4,Permzilla,Lyra,4,FALSE,FALSE,,13,1,1,Lyra,TRUE,FALSE,FALSE
-,,,,,,,13,1,Lyra,Fortune Teller,,FALSE,,13,1,N1,Weaver,Demon Information,Standard,,,13,1,5,Tim,Electra,6,TRUE,FALSE,,13,1,1,Sam,TRUE,FALSE,FALSE
-,,,,,,,13,1,Sam,Slayer,,FALSE,,13,1,N1,Hobastian,Investigator Information,Poisoner|Lyra|Tanfana,,,13,1,6,Piranha,Weaver,7,TRUE,FALSE,,13,1,1,Tanfana,FALSE,FALSE,FALSE
-,,,,,,,13,1,Tanfana,Poisoner,,FALSE,,13,1,N1,Permzilla,Empath Number,2,,,13,1,7,Lyra,Frosty,10,TRUE,TRUE,,13,1,1,Frosty,FALSE,FALSE,FALSE
-,,,,,,,13,1,Frosty,Baron,,FALSE,,13,1,N1,Lyra,Fortune Teller Information,Jordan|Tim|No,,,13,1,8,Weaver,Dice,2,FALSE,FALSE,,13,1,1,Hobastian,TRUE,FALSE,FALSE
-,,,,,,,13,1,Hobastian,Investigator,,FALSE,,13,1,N1,Jordan,Picks Master,Lycan,,,13,1,9,Lycan,Lycan,7,TRUE,FALSE,,13,1,1,Dice,FALSE,FALSE,FALSE
-,,,,,,,13,1,Dice,Spy,,FALSE,,13,1,D1,Jordan,Nomination,Weaver,V1,,13,1,10,Piranha,Tanfana,6,FALSE,FALSE,,13,1,1,Piranha,FALSE,FALSE,FALSE
-,,,,,,,13,1,Piranha,Virgin,,FALSE,,13,1,D1,Lycan,Nomination,Lycan,V2,,13,1,11,Tim,Sam,10,TRUE,TRUE,,13,1,1,Tim,TRUE,FALSE,FALSE
-,,,,,,,13,1,Tim,Mayor,,FALSE,,13,1,D1,Weaver,Nomination,Jordan,V3,,13,1,12,Piranha,Dice,4,TRUE,TRUE,,13,1,1,Jon,TRUE,FALSE,FALSE
-,,,,,,,13,1,Jon,Monk,,FALSE,,13,1,D1,Jon,Nomination,Piranha,No Vote,,13,1,13,Tanfana,Electra,1,FALSE,FALSE,,13,1,1,Lycan,TRUE,FALSE,FALSE
-,,,,,,,13,1,Lycan,Recluse,,FALSE,,13,1,D1,Piranha,Virgin Kill,Jon,,,13,1,14,Electra,Tanfana,2,FALSE,FALSE,,13,1,1,Weaver,FALSE,FALSE,FALSE
-,,,,,,,13,1,Weaver,Imp,,FALSE,,13,1,N2,Tanfana,Poison,Lyra,,,,,,,,,,,,13,1,2,Weaver,TRUE,FALSE,FALSE
-,,,,,,,13,1,Bluff,Chef,,,,13,1,N2,Weaver,Demon Kill,Tim,Mayor Bounce,,,,,,,,,,,13,1,2,Electra,FALSE,FALSE,FALSE
-,,,,,,,13,1,Bluff,Soldier,,,,13,1,N2,Tim,Mayor Kill,Jordan,,,,,,,,,,,,13,1,2,Jordan,FALSE,FALSE,FALSE
-,,,,,,,13,1,Bluff,Saint,,,,13,1,N2,Lyra,Fortune Teller Information,Dice|Weaver|No,,,,,,,,,,,,13,1,2,Permzilla,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N2,Permzilla,Empath Number,2,,,,,,,,,,,,13,1,2,Lyra,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D2,Permzilla,Nomination,Lyra,V4,,,,,,,,,,,13,1,2,Sam,TRUE,TRUE,FALSE
-,,,,,,,,,,,,,,13,1,D2,Tim,Nomination,Electra,V5,,,,,,,,,,,13,1,2,Tanfana,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D2,Piranha,Nomination,Weaver,V6,,,,,,,,,,,13,1,2,Frosty,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D2,Lyra,Nomination,Frosty,V7,,,,,,,,,,,13,1,2,Hobastian,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D2,Frosty,Executed,,,,,,,,,,,,,13,1,2,Dice,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N3,Tanfana,Poison,Sam,,,,,,,,,,,,13,1,2,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N3,Weaver,Demon Kill,Lyra,,,,,,,,,,,,13,1,2,Tim,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N3,Permzilla,Empath Number,1,,,,,,,,,,,,13,1,2,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D3,Weaver,Nomination,Dice,V8,,,,,,,,,,,13,1,2,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D3,Lycan,Nomination,Lycan,V9,,,,,,,,,,,13,1,3,Permzilla,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D3,Piranha,Nomination,Tanfana,V10,,,,,,,,,,,13,1,3,Lyra,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D3,Tim,Nomination,Sam,V11,,,,,,,,,,,13,1,3,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D3,Sam,Slayer Shot,Tanfana,Miss,,,,,,,,,,,13,1,3,Tanfana,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D3,Sam,Executed,,,,,,,,,,,,,13,1,3,Frosty,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N4,Tanfana,Poison,Electra,,,,,,,,,,,,13,1,3,Hobastian,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N4,Weaver,Demon Kill,Weaver,Star Pass,,,,,,,,,,,13,1,3,Dice,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N4,Dice,Role Change,Imp,,,,,,,,,,,,13,1,3,Piranha,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,N4,Permzilla,Empath Number,1,,,,,,,,,,,,13,1,3,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D4,Piranha,Nomination,Dice,V12,,,,,,,,,,,13,1,3,Jon,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D4,Tanfana,Nomination,Electra,V13,,,,,,,,,,,13,1,3,Lycan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D4,Electra,Nomination,Tanfana,V14,,,,,,,,,,,13,1,3,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D4,Dice,Executed,,,,,,,,,,,,,13,1,3,Electra,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,1,D4,,Game End,,Demon Executed,,,,,,,,,,,13,1,3,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Tanfana,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Frosty,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Hobastian,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Dice,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,13,1,Electra,Ravenkeeper,,FALSE,,13,1,N1,Tanfana,Poisoner Pick,Tim,,,13,1,2,Lycan,Lycan,6,FALSE,FALSE,,13,1,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,13,1,Jordan,Butler,,FALSE,,13,1,N1,Tim,Poisoned,,,,13,1,3,Weaver,Jordan,9,TRUE,FALSE,,13,1,1,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,13,1,Permzilla,Drunk,Empath,FALSE,,13,1,N1,Frosty,Minion Information,Standard,,,13,1,4,Permzilla,Lyra,4,FALSE,FALSE,,13,1,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,13,1,Lyra,Fortune Teller,,FALSE,,13,1,N1,Dice,Minion Information,Standard,,,13,1,5,Tim,Electra,6,TRUE,FALSE,,13,1,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,13,1,Sam,Slayer,,FALSE,,13,1,N1,Weaver,Demon Information,Standard,,,13,1,6,Piranha,Weaver,7,TRUE,FALSE,,13,1,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,13,1,Tanfana,Poisoner,,FALSE,,13,1,N1,Hobastian,Investigator Information,Poisoner|Lyra|Tanfana,,,13,1,7,Lyra,Frosty,10,TRUE,TRUE,,13,1,1,Frosty,FALSE,FALSE,FALSE
+,,,,,,,13,1,Frosty,Baron,,FALSE,,13,1,N1,Permzilla,Empath Number,2,,,13,1,8,Weaver,Dice,2,FALSE,FALSE,,13,1,1,Hobastian,TRUE,FALSE,FALSE
+,,,,,,,13,1,Hobastian,Investigator,,FALSE,,13,1,N1,Lyra,Fortune Teller Information,Jordan|Tim|No,,,13,1,9,Lycan,Lycan,7,TRUE,FALSE,,13,1,1,Dice,FALSE,FALSE,FALSE
+,,,,,,,13,1,Dice,Spy,,FALSE,,13,1,N1,Jordan,Picks Master,Lycan,,,13,1,10,Piranha,Tanfana,6,FALSE,FALSE,,13,1,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,13,1,Piranha,Virgin,,FALSE,,13,1,D1,Jordan,Nomination,Weaver,V1,,13,1,11,Tim,Sam,10,TRUE,TRUE,,13,1,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,13,1,Tim,Mayor,,FALSE,,13,1,D1,Lycan,Nomination,Lycan,V2,,13,1,12,Piranha,Dice,4,TRUE,TRUE,,13,1,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,13,1,Jon,Monk,,FALSE,,13,1,D1,Weaver,Nomination,Jordan,V3,,13,1,13,Tanfana,Electra,1,FALSE,FALSE,,13,1,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,13,1,Lycan,Recluse,,FALSE,,13,1,D1,Jon,Nomination,Piranha,No Vote,,13,1,14,Electra,Tanfana,2,FALSE,FALSE,,13,1,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,13,1,Weaver,Imp,,FALSE,,13,1,D1,Piranha,Virgin Kill,Jon,,,,,,,,,,,,13,1,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,13,1,Bluff,Chef,,,,13,1,N2,Tanfana,Poisoner Pick,Lyra,,,,,,,,,,,,13,1,2,Electra,FALSE,FALSE,FALSE
+,,,,,,,13,1,Bluff,Soldier,,,,13,1,N2,Lyra,Poisoned,,,,,,,,,,,,,13,1,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,13,1,Bluff,Saint,,,,13,1,N2,Tim,Healthy,,,,,,,,,,,,,13,1,2,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N2,Weaver,Demon Kill,Tim,Mayor Bounce,,,,,,,,,,,13,1,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N2,Tim,Mayor Kill,Jordan,,,,,,,,,,,,13,1,2,Sam,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,13,1,N2,Lyra,Fortune Teller Information,Dice|Weaver|No,,,,,,,,,,,,13,1,2,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N2,Permzilla,Empath Number,2,,,,,,,,,,,,13,1,2,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D2,Permzilla,Nomination,Lyra,V4,,,,,,,,,,,13,1,2,Hobastian,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D2,Tim,Nomination,Electra,V5,,,,,,,,,,,13,1,2,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D2,Piranha,Nomination,Weaver,V6,,,,,,,,,,,13,1,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D2,Lyra,Nomination,Frosty,V7,,,,,,,,,,,13,1,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D2,Frosty,Executed,,,,,,,,,,,,,13,1,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N3,Tanfana,Poisoner Pick,Sam,,,,,,,,,,,,13,1,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N3,Sam,Poisoned,,,,,,,,,,,,,13,1,3,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N3,Lyra,Healthy,,,,,,,,,,,,,13,1,3,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N3,Weaver,Demon Kill,Lyra,,,,,,,,,,,,13,1,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N3,Permzilla,Empath Number,1,,,,,,,,,,,,13,1,3,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D3,Weaver,Nomination,Dice,V8,,,,,,,,,,,13,1,3,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D3,Lycan,Nomination,Lycan,V9,,,,,,,,,,,13,1,3,Hobastian,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D3,Piranha,Nomination,Tanfana,V10,,,,,,,,,,,13,1,3,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D3,Tim,Nomination,Sam,V11,,,,,,,,,,,13,1,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D3,Sam,Slayer Shot,Tanfana,Miss,,,,,,,,,,,13,1,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D3,Sam,Executed,,,,,,,,,,,,,13,1,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N4,Tanfana,Poisoner Pick,Electra,,,,,,,,,,,,13,1,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N4,Electra,Poisoned,,,,,,,,,,,,,13,1,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N4,Weaver,Demon Kill,Weaver,Star Pass,,,,,,,,,,,13,1,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N4,Dice,Role Change,Imp,,,,,,,,,,,,13,1,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,N4,Permzilla,Empath Number,1,,,,,,,,,,,,13,1,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D4,Piranha,Nomination,Dice,V12,,,,,,,,,,,13,1,4,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D4,Tanfana,Nomination,Electra,V13,,,,,,,,,,,13,1,4,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D4,Electra,Nomination,Tanfana,V14,,,,,,,,,,,13,1,4,Hobastian,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D4,Dice,Executed,,,,,,,,,,,,,13,1,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,1,D4,,Game End,,Demon Executed,,,,,,,,,,,13,1,4,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Tim,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Jon,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,1,4,Lycan,FALSE,FALSE,FALSE

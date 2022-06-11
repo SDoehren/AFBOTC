@@ -1,38 +1,38 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
 27/03/2022,6,3,Bad Moon Rising,Good,7,,6,3,Alejo,ST,,,,6,3,N1,Tim,Courtier Pick,Pukka,,,6,3,1,Jordan,Lycan,2,FALSE,FALSE,,6,3,1,Piranha,TRUE,FALSE,FALSE
-,,,,,,,6,3,Lycan,Tea Lady,,FALSE,,6,3,N1,Sam,Drunk,,,,6,3,2,Piranha,Jordan,2,FALSE,FALSE,,6,3,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,6,3,Lycan,Tea Lady,,FALSE,,6,3,N1,Sam,Drunked,,,,6,3,2,Piranha,Jordan,2,FALSE,FALSE,,6,3,1,Tim,FALSE,FALSE,FALSE
 ,,,,,,,6,3,Piranha,Godfather,,FALSE,,6,3,N1,Piranha,Godfather Information,Goon,,,6,3,3,Dice,Dice,1,FALSE,FALSE,,6,3,1,Sam,FALSE,FALSE,FALSE
 ,,,,,,,6,3,Tim,Courtier,,FALSE,,6,3,N1,Sam,Pukka Poison,Weaver,Drunk,,6,3,4,Tim,Dice,4,TRUE,FALSE,,6,3,1,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,6,3,Sam,Pukka,,FALSE,,6,3,N1,Weaver,Chambermaid Choice,Lycan|Dice|1,,,6,3,5,Jordan,Piranha,5,TRUE,TRUE,,6,3,1,Dice,FALSE,FALSE,FALSE
-,,,,,,,6,3,Jordan,Gossip,,FALSE,,6,3,N1,Weaver,Drunk,,,,6,3,6,Jordan,Weaver,4,TRUE,TRUE,,6,3,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,6,3,Jordan,Gossip,,FALSE,,6,3,N1,Weaver,Drunked,,,,6,3,6,Jordan,Weaver,4,TRUE,TRUE,,6,3,1,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,6,3,Dice,Goon,,TRUE,,6,3,D1,Jordan,Gossip,"Evil team is one of the following combinations Dice and Tim, Piranha and Lycan,  or Sam and Weaver",,,6,3,7,Weaver,Lycan,1,FALSE,FALSE,,6,3,1,Lycan,FALSE,FALSE,FALSE
 ,,,,,,,6,3,Weaver,Chambermaid,,FALSE,,6,3,D1,Jordan,Nomination,Lycan,V1,,6,3,8,Jordan,Sam,3,TRUE,TRUE,,6,3,2,Dice,FALSE,FALSE,FALSE
 ,,,,,,,6,3,Bluff,Exorcist,,,,6,3,D1,Piranha,Nomination,Jordan,V2,,6,3,9,Sam,Tim,1,FALSE,FALSE,,6,3,2,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,6,3,Bluff,Minstrel,,,,6,3,D1,Dice,Nomination,Dice,V3,,6,3,10,Tim,Dice,1,FALSE,FALSE,,6,3,2,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,6,3,Bluff,Pacifist,,,,6,3,N2,Sam,Pukka Poison,Lycan,Drunk,,6,3,11,Dice,Jordan,1,FALSE,FALSE,,6,3,2,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N2,Weaver,Chambermaid Choice,Sam|Tim|1,,,,,,,,,,,,6,3,2,Tim,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D2,Jordan,Gossip,Lycan is not the Tea Lady,,,,,,,,,,,,6,3,2,Sam,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D2,Tim,Nomination,Dice,V4,,,,,,,,,,,6,3,2,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D2,Jordan,Nomination,Piranha,V5,,,,,,,,,,,6,3,3,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D2,Piranha,Executed,,,,,,,,,,,,,6,3,3,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N3,Sam,Pukka Poison,Dice,Drunk,,,,,,,,,,,6,3,3,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N3,Dice,Alignment Change,,,,,,,,,,,,,6,3,3,Tim,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N3,Weaver,Chambermaid Choice,Jordan|Lycan|0,,,,,,,,,,,,6,3,3,Sam,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D3,Jordan,Nomination,Weaver,V6,,,,,,,,,,,6,3,3,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D3,Weaver,Nomination,Lycan,V7,,,,,,,,,,,6,3,3,Dice,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D3,Jordan,Gossip,The Demon has 3 letters in their name.,,,,,,,,,,,,6,3,4,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D3,Weaver,Executed,,Protected,,,,,,,,,,,6,3,4,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N4,Lycan,Gossip Kill,,,,,,,,,,,,,6,3,4,Piranha,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N4,Sam,Sobers up,,,,,,,,,,,,,6,3,4,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N4,Sam,Pukka Poison,Dice,,,,,,,,,,,,6,3,4,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N4,Weaver,Chambermaid Choice,Dice|Sam|1,,,,,,,,,,,,6,3,4,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Jordan,Nomination,Sam,V8,,,,,,,,,,,6,3,4,Dice,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Sam,Nomination,Tim,V9,,,,,,,,,,,6,3,5,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Tim,Nomination,Dice,V10,,,,,,,,,,,6,3,5,Sam,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Dice,Nomination,Jordan,V11,,,,,,,,,,,6,3,5,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Sam,Executed,,,,,,,,,,,,,6,3,5,Dice,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,,Game End,,Demon Executed,,,,,,,,,,,6,3,5,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N2,Weaver,Healthy,,,,,,,,,,,,,6,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N2,Weaver,Chambermaid Choice,Sam|Tim|1,,,,,,,,,,,,6,3,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D2,Jordan,Gossip,Lycan is not the Tea Lady,,,,,,,,,,,,6,3,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D2,Tim,Nomination,Dice,V4,,,,,,,,,,,6,3,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D2,Jordan,Nomination,Piranha,V5,,,,,,,,,,,6,3,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D2,Piranha,Executed,,,,,,,,,,,,,6,3,3,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N3,Sam,Pukka Poison,Dice,Drunk,,,,,,,,,,,6,3,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N3,Dice,Alignment Change,,,,,,,,,,,,,6,3,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N3,Weaver,Chambermaid Choice,Jordan|Lycan|0,,,,,,,,,,,,6,3,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D3,Jordan,Nomination,Weaver,V6,,,,,,,,,,,6,3,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D3,Weaver,Nomination,Lycan,V7,,,,,,,,,,,6,3,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D3,Jordan,Gossip,The Demon has 3 letters in their name.,,,,,,,,,,,,6,3,4,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D3,Weaver,Executed,,Protected,,,,,,,,,,,6,3,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N4,Lycan,Gossip Kill,,,,,,,,,,,,,6,3,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N4,Sam,Healthy,,,,,,,,,,,,,6,3,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N4,Sam,Pukka Poison,Dice,,,,,,,,,,,,6,3,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N4,Weaver,Chambermaid Choice,Dice|Sam|1,,,,,,,,,,,,6,3,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Jordan,Nomination,Sam,V8,,,,,,,,,,,6,3,5,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Sam,Nomination,Tim,V9,,,,,,,,,,,6,3,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Tim,Nomination,Dice,V10,,,,,,,,,,,6,3,5,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Dice,Nomination,Jordan,V11,,,,,,,,,,,6,3,5,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Sam,Executed,,,,,,,,,,,,,6,3,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,,Game End,,Demon Executed,,,,,,,,,,,6,3,5,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,5,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,6,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,6,Piranha,FALSE,TRUE,FALSE

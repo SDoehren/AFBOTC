@@ -22,7 +22,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,13,2,D1,Tim,Boomdandy Slaughter,Weaver,,,,,,,,,,,,13,2,2,Jon,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,13,2,D1,Tim,Boomdandy Slaughter,Sam,,,,,,,,,,,,13,2,2,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,13,2,D1,Tim,Boomdandy Slaughter,Hobastian,,,,,,,,,,,,13,2,2,Electra,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,13,2,D1,Tim,Boomdandy Vote,Dice|Dice|Frosty|Hobastian|Frosty|Dice|Dice|Frosty|Frosty|Frosty|Dice|Frosty|Dice,,,,,,,,,,,,13,2,2,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,13,2,D1,Tim,Boomdandy Vote,Dice|Dice|Frosty|Abstain|Frosty|Dice|Dice|Frosty|Frosty|Frosty|Dice|Frosty|Dice,,,,,,,,,,,,13,2,2,Lyra,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,13,2,D1,,Game End,,Two Living Players,,,,,,,,,,,13,2,2,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,2,2,Frosty,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,2,3,Electra,FALSE,FALSE,FALSE

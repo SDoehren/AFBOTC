@@ -1,38 +1,38 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-13/03/2022,4,1,Trouble Brewing,Good,9,,4,1,Alejo,ST,,,,4,1,N1,Jordan,Poison,Tim,,,4,1,1,Piranha,Weaver,7,TRUE,TRUE,,4,1,1,Jordan,TRUE,FALSE,FALSE
-,,,,,,,4,1,Lyra,ST,,,,4,1,N1,Weaver,Role Information,Ravenkeeper,,,4,1,2,Tim,Lycan,5,TRUE,TRUE,,4,1,1,Jon,TRUE,FALSE,FALSE
-,,,,,,,4,1,Charli,Ravenkeeper,,FALSE,,4,1,N1,Weaver,Role Information,Charli,,,4,1,3,Jon,Tim,2,FALSE,FALSE,,4,1,1,Amy,FALSE,FALSE,FALSE
-,,,,,,,4,1,Lycan,Recluse,,FALSE,,4,1,N1,Weaver,Role Information,Sam,,,4,1,4,Jon,Jordan,2,FALSE,FALSE,,4,1,1,Charli,TRUE,FALSE,FALSE
-,,,,,,,4,1,Tim,Mayor,,FALSE,,4,1,N1,Piranha,Role Information,Tim,,,4,1,5,Charli,Sam,1,FALSE,FALSE,,4,1,1,Lycan,TRUE,FALSE,FALSE
-,,,,,,,4,1,Sam,Imp,,FALSE,,4,1,N1,Piranha,Role Information,Amy,,,4,1,6,Jordan,Amy,3,TRUE,TRUE,,4,1,1,Tim,TRUE,FALSE,FALSE
-,,,,,,,4,1,Piranha,Fortune Teller,,FALSE,,4,1,N1,Piranha,Role Information,No,,,4,1,7,Charli,Sam,4,TRUE,TRUE,,4,1,1,Sam,TRUE,FALSE,FALSE
-,,,,,,,4,1,Weaver,Washerwoman,,FALSE,,4,1,D1,Piranha,Nomination,Weaver,V1,,4,1,8,Sam,Charli,3,FALSE,FALSE,,4,1,1,Piranha,FALSE,FALSE,FALSE
-,,,,,,,4,1,Jordan,Poisoner,,FALSE,,4,1,D1,Weaver,Executed,,,,4,1,9,Jordan,Jordan,1,FALSE,FALSE,,4,1,1,Weaver,TRUE,FALSE,FALSE
-,,,,,,,4,1,Jon,Undertaker,,FALSE,,4,1,N2,Jordan,Poison,Charli,,,,,,,,,,,,4,1,2,Tim,TRUE,FALSE,FALSE
-,,,,,,,4,1,Amy,Drunk,Monk,FALSE,,4,1,N2,Amy,Monk Protect,Charli,,,,,,,,,,,,4,1,2,Sam,TRUE,FALSE,FALSE
-,,,,,,,4,1,Bluff,Chef,,,,4,1,N2,Sam,Demon Kill,Piranha,,,,,,,,,,,,4,1,2,Piranha,FALSE,TRUE,FALSE
-,,,,,,,4,1,Bluff,Virgin,,,,4,1,N2,Jon,Role Information,Washerwoman,,,,,,,,,,,,4,1,2,Weaver,FALSE,TRUE,FALSE
-,,,,,,,4,1,Bluff,Slayer,,,,4,1,D2,Tim,Nomination,Lycan,V2,,,,,,,,,,,4,1,2,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D2,Jon,Nomination,Tim,V3,,,,,,,,,,,4,1,2,Jon,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D2,Lycan,Executed,,,,,,,,,,,,,4,1,2,Amy,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,N3,Jordan,Poison,Jon,,,,,,,,,,,,4,1,2,Charli,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,N3,Amy,Monk Protect,Tim,,,,,,,,,,,,4,1,2,Lycan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,N3,Sam,Demon Kill,Tim,,,,,,,,,,,,4,1,3,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,N3,Jon,Role Information,Saint,,,,,,,,,,,,4,1,3,Piranha,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,1,D3,Jon,Nomination,Jordan,V4,,,,,,,,,,,4,1,3,Weaver,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,1,D3,Charli,Nomination,Sam,V5,,,,,,,,,,,4,1,3,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D3,Jordan,Nomination,Amy,V6,,,,,,,,,,,4,1,3,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D3,Amy,Executed,,,,,,,,,,,,,4,1,3,Amy,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,N4,Jordan,Poison,Charli,,,,,,,,,,,,4,1,3,Charli,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,N4,Sam,Demon Kill,Jon,,,,,,,,,,,,4,1,3,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D4,Charli,Nomination,Sam,V7,,,,,,,,,,,4,1,3,Tim,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D4,Sam,Slayer Shot,Jordan,Miss,,,,,,,,,,,4,1,4,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D4,Sam,Nomination,Charli,V8,,,,,,,,,,,4,1,4,Amy,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D4,Jordan,Nomination,Jordan,V9,,,,,,,,,,,4,1,4,Charli,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,4,1,D4,Sam,Executed,,,,,,,,,,,,,4,1,4,Lycan,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,4,1,D4,,Game End,,Demon Executed,,,,,,,,,,,4,1,4,Tim,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,4,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,4,Piranha,FALSE,TRUE,FALSE
+13/03/2022,4,1,Trouble Brewing,Good,9,,4,1,Alejo,ST,,,,4,1,N1,Jordan,Poisoner Pick,Tim,,,4,1,1,Piranha,Weaver,7,TRUE,TRUE,,4,1,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,4,1,Lyra,ST,,,,4,1,N1,Tim,Poisoned,,,,4,1,2,Tim,Lycan,5,TRUE,TRUE,,4,1,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,4,1,Charli,Ravenkeeper,,FALSE,,4,1,N1,Weaver,Washerwoman Information,Charli|Sam|Ravenkeeper,,,4,1,3,Jon,Tim,2,FALSE,FALSE,,4,1,1,Amy,FALSE,FALSE,FALSE
+,,,,,,,4,1,Lycan,Recluse,,FALSE,,4,1,N1,Piranha,Fortune Teller Information,Tim|Amy|No,,,4,1,4,Jon,Jordan,2,FALSE,FALSE,,4,1,1,Charli,TRUE,FALSE,FALSE
+,,,,,,,4,1,Tim,Mayor,,FALSE,,4,1,D1,Piranha,Nomination,Weaver,V1,,4,1,5,Charli,Sam,1,FALSE,FALSE,,4,1,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,4,1,Sam,Imp,,FALSE,,4,1,D1,Weaver,Executed,,,,4,1,6,Jordan,Amy,3,TRUE,TRUE,,4,1,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,4,1,Piranha,Fortune Teller,,FALSE,,4,1,N2,Jordan,Poisoner Pick,Charli,,,4,1,7,Charli,Sam,4,TRUE,TRUE,,4,1,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,4,1,Weaver,Washerwoman,,FALSE,,4,1,N2,Charli,Poisoned,,,,4,1,8,Sam,Charli,3,FALSE,FALSE,,4,1,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,4,1,Jordan,Poisoner,,FALSE,,4,1,N2,Tim,Healthy,,,,4,1,9,Jordan,Jordan,1,FALSE,FALSE,,4,1,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,4,1,Jon,Undertaker,,FALSE,,4,1,N2,Amy,Monk Protect,Charli,,,,,,,,,,,,4,1,2,Tim,TRUE,FALSE,FALSE
+,,,,,,,4,1,Amy,Drunk,Monk,FALSE,,4,1,N2,Sam,Demon Kill,Piranha,,,,,,,,,,,,4,1,2,Sam,TRUE,FALSE,FALSE
+,,,,,,,4,1,Bluff,Chef,,,,4,1,N2,Jon,Undertaker Information,Washerwoman,,,,,,,,,,,,4,1,2,Piranha,FALSE,TRUE,FALSE
+,,,,,,,4,1,Bluff,Virgin,,,,4,1,D2,Tim,Nomination,Lycan,V2,,,,,,,,,,,4,1,2,Weaver,FALSE,TRUE,FALSE
+,,,,,,,4,1,Bluff,Slayer,,,,4,1,D2,Jon,Nomination,Tim,V3,,,,,,,,,,,4,1,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,D2,Lycan,Executed,,,,,,,,,,,,,4,1,2,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N3,Jordan,Poisoner Pick,Jon,,,,,,,,,,,,4,1,2,Amy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N3,Jon,Poisoned,,,,,,,,,,,,,4,1,2,Charli,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N3,Charli,Healthy,,,,,,,,,,,,,4,1,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N3,Amy,Monk Protect,Tim,,,,,,,,,,,,4,1,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N3,Sam,Demon Kill,Tim,,,,,,,,,,,,4,1,3,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,1,N3,Jon,Undertaker Information,Saint,,,,,,,,,,,,4,1,3,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,1,D3,Jon,Nomination,Jordan,V4,,,,,,,,,,,4,1,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,D3,Charli,Nomination,Sam,V5,,,,,,,,,,,4,1,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,D3,Jordan,Nomination,Amy,V6,,,,,,,,,,,4,1,3,Amy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,D3,Amy,Executed,,,,,,,,,,,,,4,1,3,Charli,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N4,Jordan,Poisoner Pick,Charli,,,,,,,,,,,,4,1,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N4,Charli,Poisoned,,,,,,,,,,,,,4,1,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N4,Jon,Healthy,,,,,,,,,,,,,4,1,4,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,N4,Sam,Demon Kill,Jon,,,,,,,,,,,,4,1,4,Amy,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,D4,Charli,Nomination,Sam,V7,,,,,,,,,,,4,1,4,Charli,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,D4,Sam,Nomination,Charli,V8,,,,,,,,,,,4,1,4,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,1,D4,Jordan,Nomination,Jordan,V9,,,,,,,,,,,4,1,4,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,4,1,D4,Sam,Executed,,,,,,,,,,,,,4,1,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,4,1,D4,,Game End,,Demon Executed,,,,,,,,,,,4,1,4,Piranha,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,4,Weaver,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,4,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,5,Piranha,FALSE,TRUE,FALSE

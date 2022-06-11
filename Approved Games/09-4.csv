@@ -1,28 +1,28 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
 24/04/2022,9,4,Laissez un Faire,Good,5,,9,4,Alejo,ST,,,,9,4,N1,Weaver,Widow Poison,Tim,,,9,4,1,Jordan,Lycan,2,FALSE,FALSE,,9,4,1,Weaver,FALSE,FALSE,FALSE
-,,,,,,,9,4,Frosty,Artist,,FALSE,,9,4,N1,Tim,Amnesiac Ability,Each night choose two players. Chat will decide on a number to give you,,,9,4,2,Lycan,Tim,1,FALSE,FALSE,,9,4,1,Frosty,TRUE,FALSE,FALSE
-,,,,,,,9,4,Tim,Amnesiac,,FALSE,,9,4,N1,Tim,Amnesiac Action - Select 2 players with response,Frosty|Jordan|0,,,9,4,3,Frosty,Frosty,5,TRUE,TRUE,,9,4,1,Tim,FALSE,FALSE,FALSE
-,,,,,,,9,4,Jordan,Cannibal,,FALSE,,9,4,N1,Jordan,Knows Widow,,,,9,4,4,Jordan,Lycan,3,TRUE,TRUE,,9,4,1,Jordan,TRUE,FALSE,FALSE
-,,,,,,,9,4,Lycan,Leviathan,,FALSE,,9,4,D1,Tim,Amnesiac Question,Do I learn if the two players I chose are on the same team?,Cold,,9,4,5,Weaver,Jordan,2,FALSE,FALSE,,9,4,1,Lycan,FALSE,FALSE,FALSE
-,,,,,,,9,4,Weaver,Widow,,FALSE,,9,4,D1,Jordan,Nomination,Lycan,V1,,9,4,6,Lycan,Tim,2,FALSE,FALSE,,9,4,2,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D1,Lycan,Nomination,Tim,V2,,,,,,,,,,,9,4,2,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,N2,Tim,Amnesiac Action - Select 2 players with response,Weaver|Frosty|0,,,,,,,,,,,,9,4,2,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D2,Tim,Amnesiac Question,Does my ability have anything to do with drunk/poisioning?,Luke warm but still really a cold,,,,,,,,,,,9,4,2,Frosty,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,N3,Tim,Amnesiac Action - Select 2 players with response,Lycan|Tim|0,,,,,,,,,,,,9,4,2,Tim,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D3,Frosty,Artist Question,Is Jordan or Tim the demon?|No,,,,,,,,,,,,9,4,3,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D3,Frosty,Nomination,Frosty,V3,,,,,,,,,,,9,4,3,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D3,Tim,Amnesiac Question,Do I learn if abilities have been used?,Warm,,,,,,,,,,,9,4,3,Lycan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D3,Frosty,Executed,,,,,,,,,,,,,9,4,3,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,N4,Jordan,Cannibal Ability,Artist,,,,,,,,,,,,9,4,3,Frosty,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,N4,Tim,Amnesiac Action - Select 2 players with response,Frosty|Tim|2,,,,,,,,,,,,9,4,4,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D4,Jordan,Artist Question,Is Lycan evil?|Yes,,,,,,,,,,,,9,4,4,Frosty,TRUE,TRUE,FALSE
-,,,,,,,,,,,,,,9,4,D4,Tim,Amnesiac Question,Do I learn if people legitimately speak to you about their abilities during the day?,Cold,,,,,,,,,,,9,4,4,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D4,Jordan,Nomination,Lycan,V4,,,,,,,,,,,9,4,4,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D4,Weaver,Nomination,Jordan,V5,,,,,,,,,,,9,4,4,Lycan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D4,Lycan,Nomination,Tim,V6,,,,,,,,,,,9,4,5,Lycan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D4,Lycan,Executed,,,,,,,,,,,,,9,4,5,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,9,4,D4,,Game End,,Demon Executed,,,,,,,,,,,9,4,5,Frosty,FALSE,TRUE,TRUE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,4,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,9,4,Frosty,Artist,,FALSE,,9,4,N1,Tim,Poisoned,,,,9,4,2,Lycan,Tim,1,FALSE,FALSE,,9,4,1,Frosty,TRUE,FALSE,FALSE
+,,,,,,,9,4,Tim,Amnesiac,,FALSE,,9,4,N1,Tim,Amnesiac Ability,Each night choose two players. Chat will decide on a number to give you,,,9,4,3,Frosty,Frosty,5,TRUE,TRUE,,9,4,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,9,4,Jordan,Cannibal,,FALSE,,9,4,N1,Tim,Amnesiac Action - Select 2 players with response,Frosty|Jordan|0,,,9,4,4,Jordan,Lycan,3,TRUE,TRUE,,9,4,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,9,4,Lycan,Leviathan,,FALSE,,9,4,N1,Jordan,Knows Widow,,,,9,4,5,Weaver,Jordan,2,FALSE,FALSE,,9,4,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,9,4,Weaver,Widow,,FALSE,,9,4,D1,Tim,Amnesiac Question,Do I learn if the two players I chose are on the same team?,Cold,,9,4,6,Lycan,Tim,2,FALSE,FALSE,,9,4,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D1,Jordan,Nomination,Lycan,V1,,,,,,,,,,,9,4,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D1,Lycan,Nomination,Tim,V2,,,,,,,,,,,9,4,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,N2,Tim,Amnesiac Action - Select 2 players with response,Weaver|Frosty|0,,,,,,,,,,,,9,4,2,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D2,Tim,Amnesiac Question,Does my ability have anything to do with drunk/poisioning?,Luke warm but still really a cold,,,,,,,,,,,9,4,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,N3,Tim,Amnesiac Action - Select 2 players with response,Lycan|Tim|0,,,,,,,,,,,,9,4,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D3,Frosty,Artist Question,Is Jordan or Tim the demon?|No,,,,,,,,,,,,9,4,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D3,Frosty,Nomination,Frosty,V3,,,,,,,,,,,9,4,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D3,Tim,Amnesiac Question,Do I learn if abilities have been used?,Warm,,,,,,,,,,,9,4,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D3,Frosty,Executed,,,,,,,,,,,,,9,4,3,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,N4,Jordan,Cannibal Ability,Artist,,,,,,,,,,,,9,4,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,N4,Tim,Amnesiac Action - Select 2 players with response,Frosty|Tim|2,,,,,,,,,,,,9,4,4,Frosty,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,9,4,D4,Jordan,Artist Question,Is Lycan evil?|Yes,,,,,,,,,,,,9,4,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D4,Tim,Amnesiac Question,Do I learn if people legitimately speak to you about their abilities during the day?,Cold,,,,,,,,,,,9,4,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D4,Jordan,Nomination,Lycan,V4,,,,,,,,,,,9,4,4,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D4,Weaver,Nomination,Jordan,V5,,,,,,,,,,,9,4,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D4,Lycan,Nomination,Tim,V6,,,,,,,,,,,9,4,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,9,4,D4,Lycan,Executed,,,,,,,,,,,,,9,4,5,Frosty,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,9,4,D4,,Game End,,Demon Executed,,,,,,,,,,,9,4,5,Tim,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,4,5,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,4,6,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,4,6,Lycan,TRUE,FALSE,FALSE

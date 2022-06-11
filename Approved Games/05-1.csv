@@ -1,27 +1,27 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-20/03/2022,5,1,Trouble Brewing,Good,7,,5,1,Alejo,ST,,,,5,1,N1,Georgia,Poison,Jon,,,5,1,1,Tim,Georgia,2,FALSE,FALSE,,5,1,1,Weaver,FALSE,FALSE,FALSE
-,,,,,,,5,1,Tim,Investigator,,FALSE,,5,1,N1,Jon,Librarian Information,Saint|Sam|Weaver,,,5,1,2,Lyra,Jon,1,FALSE,FALSE,,5,1,1,Sam,FALSE,FALSE,FALSE
-,,,,,,,5,1,Georgia,Poisoner,,FALSE,,5,1,N1,Tim,Investigator Information,Poisoner|Lyra|Georgia,,,5,1,3,Jon,Tim,3,FALSE,FALSE,,5,1,1,Jon,FALSE,FALSE,FALSE
-,,,,,,,5,1,Weaver,Mayor,,FALSE,,5,1,D1,Tim,Nomination,Georgia,V1,,5,1,4,Jordan,Lyra,3,FALSE,FALSE,,5,1,1,Jordan,TRUE,FALSE,FALSE
-,,,,,,,5,1,Sam,Imp,,FALSE,,5,1,D1,Lyra,Nomination,Jon,V2,,5,1,5,Tim,Georgia,5,TRUE,TRUE,,5,1,1,Lyra,TRUE,FALSE,FALSE
-,,,,,,,5,1,Jon,Librarian,,FALSE,,5,1,D1,Jon,Nomination,Tim,V3,,5,1,6,Jon,Jordan,0,FALSE,FALSE,,5,1,1,Tim,FALSE,FALSE,FALSE
-,,,,,,,5,1,Jordan,Undertaker,,FALSE,,5,1,D1,Jordan,Nomination,Lyra,V4,,5,1,7,Jordan,Sam,4,TRUE,TRUE,,5,1,1,Georgia,FALSE,FALSE,FALSE
-,,,,,,,5,1,Lyra,Soldier,,FALSE,,5,1,N2,Georgia,Poison,Lyra,,,,,,,,,,,,5,1,2,Jordan,FALSE,FALSE,FALSE
-,,,,,,,5,1,Bluff,Chef,,,,5,1,N2,Sam,Demon Kill,Weaver,Mayor Bounce,,,,,,,,,,,5,1,2,Lyra,TRUE,FALSE,FALSE
-,,,,,,,5,1,Bluff,Fortune Teller,,,,5,1,N2,Weaver,Mayor Kill,Lyra,,,,,,,,,,,,5,1,2,Tim,FALSE,FALSE,FALSE
-,,,,,,,5,1,Bluff,Saint,,,,5,1,D2,Tim,Nomination,Georgia,V5,,,,,,,,,,,5,1,2,Georgia,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,D2,Georgia,Executed,,,,,,,,,,,,,5,1,2,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,N3,Sam,Demon Kill,Weaver,,,,,,,,,,,,5,1,2,Sam,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,N3,Jordan,Undertaker Information,Poisoner,,,,,,,,,,,,5,1,2,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,D3,Jon,Nomination,Jordan,V6,,,,,,,,,,,5,1,3,Georgia,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,N4,Sam,Demon Kill,Tim,,,,,,,,,,,,5,1,3,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,D4,Jordan,Nomination,Sam,V7,,,,,,,,,,,5,1,3,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,D4,Sam,Executed,,,,,,,,,,,,,5,1,3,Jon,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,5,1,D4,,Game End,,Demon Executed,,,,,,,,,,,5,1,3,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,3,Lyra,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,3,Tim,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,4,Tim,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,4,Georgia,TRUE,FALSE,FALSE
+20/03/2022,5,1,Trouble Brewing,Good,7,,5,1,Alejo,ST,,,,5,1,N1,Georgia,Poisoner Pick,Jon,,,5,1,1,Tim,Georgia,2,FALSE,FALSE,,5,1,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,5,1,Tim,Investigator,,FALSE,,5,1,N1,Jon,Poisoned,,,,5,1,2,Lyra,Jon,1,FALSE,FALSE,,5,1,1,Sam,FALSE,FALSE,FALSE
+,,,,,,,5,1,Georgia,Poisoner,,FALSE,,5,1,N1,Jon,Librarian Information,Saint|Sam|Weaver,,,5,1,3,Jon,Tim,3,FALSE,FALSE,,5,1,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,5,1,Weaver,Mayor,,FALSE,,5,1,N1,Tim,Investigator Information,Poisoner|Lyra|Georgia,,,5,1,4,Jordan,Lyra,3,FALSE,FALSE,,5,1,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,5,1,Sam,Imp,,FALSE,,5,1,D1,Tim,Nomination,Georgia,V1,,5,1,5,Tim,Georgia,5,TRUE,TRUE,,5,1,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,5,1,Jon,Librarian,,FALSE,,5,1,D1,Lyra,Nomination,Jon,V2,,5,1,6,Jon,Jordan,0,FALSE,FALSE,,5,1,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,5,1,Jordan,Undertaker,,FALSE,,5,1,D1,Jon,Nomination,Tim,V3,,5,1,7,Jordan,Sam,4,TRUE,TRUE,,5,1,1,Georgia,FALSE,FALSE,FALSE
+,,,,,,,5,1,Lyra,Soldier,,FALSE,,5,1,D1,Jordan,Nomination,Lyra,V4,,,,,,,,,,,5,1,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,5,1,Bluff,Chef,,,,5,1,N2,Georgia,Poisoner Pick,Lyra,,,,,,,,,,,,5,1,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,5,1,Bluff,Fortune Teller,,,,5,1,N2,Lyra,Poisoned,,,,,,,,,,,,,5,1,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,5,1,Bluff,Saint,,,,5,1,N2,Jon,Healthy,,,,,,,,,,,,,5,1,2,Georgia,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,N2,Sam,Demon Kill,Weaver,Mayor Bounce,,,,,,,,,,,5,1,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,N2,Weaver,Mayor Kill,Lyra,,,,,,,,,,,,5,1,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,D2,Tim,Nomination,Georgia,V5,,,,,,,,,,,5,1,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,D2,Georgia,Executed,,,,,,,,,,,,,5,1,3,Georgia,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,N2,Lyra,Healthy,,,,,,,,,,,,,5,1,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,N3,Sam,Demon Kill,Weaver,,,,,,,,,,,,5,1,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,N3,Jordan,Undertaker Information,Poisoner,,,,,,,,,,,,5,1,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,D3,Jon,Nomination,Jordan,V6,,,,,,,,,,,5,1,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,N4,Sam,Demon Kill,Tim,,,,,,,,,,,,5,1,3,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,D4,Jordan,Nomination,Sam,V7,,,,,,,,,,,5,1,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,D4,Sam,Executed,,,,,,,,,,,,,5,1,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,5,1,D4,,Game End,,Demon Executed,,,,,,,,,,,5,1,4,Georgia,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,4,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,4,Sam,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,4,Jon,TRUE,FALSE,FALSE

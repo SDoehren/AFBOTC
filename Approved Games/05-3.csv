@@ -1,6 +1,6 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
 20/03/2022,5,3,Sects and Violets,Good,7,,5,3,Alejo,ST,,,,5,3,N1,Tim,Evil Twin Information,Dice,,,5,3,1,Jordan,Lycan,4,TRUE,TRUE,,5,3,1,Weaver,TRUE,FALSE,FALSE
-,,,,,,,5,3,Dice,Clockmaker,Good Twin,FALSE,,5,3,N1,Tim,Good Twin Information,Time,,,5,3,2,Tim,Jon,3,FALSE,FALSE,,5,3,1,Sam,FALSE,FALSE,FALSE
+,,,,,,,5,3,Dice,Clockmaker,Good Twin,FALSE,,5,3,N1,Dice,Good Twin Information,Tim,,,5,3,2,Tim,Jon,3,FALSE,FALSE,,5,3,1,Sam,FALSE,FALSE,FALSE
 ,,,,,,,5,3,Jordan,Town Crier,,FALSE,,5,3,N1,Dice,Clockmaker Number,1,,,5,3,3,Dice,Tim,2,FALSE,FALSE,,5,3,1,Dice,TRUE,FALSE,FALSE
 ,,,,,,,5,3,Jon,Artist,,FALSE,,5,3,D1,Jon,Artist Question,Is 2+2 equal to 4?|Of course 2+2 is 4,,,5,3,4,Tim,Jon,6,TRUE,TRUE,,5,3,1,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,5,3,Tim,Evil Twin,,FALSE,,5,3,D1,Jordan,Nomination,Lycan,V1,,5,3,5,Dice,Tim,3,TRUE,TRUE,,5,3,1,Jon,TRUE,FALSE,FALSE
