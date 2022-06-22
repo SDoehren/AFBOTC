@@ -1,29 +1,29 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-27/02/2022,2,3,Sects and Violets,Evil,7,,2,3,Alejo,ST,,,,2,3,N1,Tim,No Dashii Poison,Lycan,,,2,3,1,Lycan,Lycan,5,TRUE,TRUE,,2,3,1,Tim,TRUE,FALSE,FALSE
-,,,,,,,2,3,Piranha,Witch,,FALSE,,2,3,N1,Tim,No Dashii Poison,Weaver,,,2,3,2,Jon,Jon,3,TRUE,TRUE,,2,3,1,Weaver,FALSE,FALSE,FALSE
-,,,,,,,2,3,Jon,Juggler,,FALSE,,2,3,N1,Lycan,Poisoned,,,,2,3,3,Sam,Weaver,2,TRUE,FALSE,,2,3,1,Sam,TRUE,FALSE,FALSE
-,,,,,,,2,3,Lycan,Artist,,FALSE,,2,3,N1,Weaver,Poisoned,,,,2,3,4,Weaver,Sam,5,TRUE,TRUE,,2,3,1,Jordan,TRUE,FALSE,FALSE
-,,,,,,,2,3,Tim,No Dashii,,FALSE,,2,3,N1,Piranha,Witch Pick,Sam,,,,,,,,,,,,2,3,1,Piranha,FALSE,FALSE,FALSE
-,,,,,,,2,3,Weaver,Seamstress,,FALSE,,2,3,N1,Jordan,Role Information,3,,,,,,,,,,,,2,3,1,Jon,TRUE,FALSE,FALSE
-,,,,,,,2,3,Sam,Oracle,,FALSE,,2,3,D1,Lycan,Artist Question,Is there a Cerenovus in the game?|No there is not.,Poisoned,,,,,,,,,,,2,3,1,Lycan,TRUE,FALSE,FALSE
-,,,,,,,2,3,Jordan,Clockmaker,,FALSE,,2,3,D1,Jon,Juggle,Weaver|Seamstress,,,,,,,,,,,,2,3,2,Lycan,FALSE,TRUE,FALSE
-,,,,,,,2,3,Bluff,Mathematician,,,,2,3,D1,Jon,Juggle,Jordan|Philosopher,,,,,,,,,,,,2,3,2,Tim,TRUE,FALSE,FALSE
-,,,,,,,2,3,Bluff,Town Crier,,,,2,3,D1,Jon,Juggle,Lycan|Savant,,,,,,,,,,,,2,3,2,Weaver,TRUE,FALSE,FALSE
-,,,,,,,2,3,Bluff,Philosopher,,,,2,3,D1,Lycan,Nomination,Lycan,V1,,,,,,,,,,,2,3,2,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,2,3,D1,Lycan,Executed,,,,,,,,,,,,,2,3,2,Jordan,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,N2,Piranha,Witch Pick,Sam,,,,,,,,,,,,2,3,2,Piranha,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,2,3,N2,Tim,Demon Kill,Jordan,,,,,,,,,,,,2,3,2,Jon,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,2,3,N2,Jon,Juggler Information,1,,,,,,,,,,,,2,3,3,Sam,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,2,3,N2,Sam,Oracle Number,0,,,,,,,,,,,,2,3,3,Jordan,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,D2,Jon,Nomination,Jon,V2,,,,,,,,,,,2,3,3,Piranha,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,D2,Jon,Executed,,,,,,,,,,,,,2,3,3,Jon,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,N3,Tim,No Dashii Poison,Weaver,,,,,,,,,,,,2,3,3,Lycan,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,N3,Piranha,Witch Pick,Sam,,,,,,,,,,,,2,3,3,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,2,3,N3,Tim,Demon Kill,Piranha,,,,,,,,,,,,2,3,3,Weaver,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,2,3,N3,Sam,Oracle Number,1,,,,,,,,,,,,2,3,4,Jordan,TRUE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,N3,Weaver,Seamstress Pick,Jon|Tim|No,,,,,,,,,,,,2,3,4,Piranha,TRUE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,D3,Sam,Nomination,Weaver,V3,,,,,,,,,,,2,3,4,Jon,FALSE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,D3,Weaver,Nomination,Sam,V4,,,,,,,,,,,2,3,4,Lycan,TRUE,TRUE,FALSE
-,,,,,,,,,,,,,,2,3,D3,Sam,Executed,,,,,,,,,,,,,2,3,4,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,2,3,D3,,Game End,,Two Living Players,,,,,,,,,,,2,3,4,Weaver,TRUE,FALSE,FALSE
+27/02/2022,2,3,Sects and Violets,Evil,7,,2,3,Alejo,ST,,,,2,3,N1,Tim,No Dashii Poison,Lycan|Weaver,,,2,3,1,Lycan,Lycan,5,TRUE,TRUE,,2,3,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,2,3,Piranha,Witch,,FALSE,,2,3,N1,Lycan,Poisoned,,,,2,3,2,Jon,Jon,3,TRUE,TRUE,,2,3,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,2,3,Jon,Juggler,,FALSE,,2,3,N1,Weaver,Poisoned,,,,2,3,3,Sam,Weaver,2,TRUE,FALSE,,2,3,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,2,3,Lycan,Artist,,FALSE,,2,3,N1,Piranha,Witch Pick,Sam,,,2,3,4,Weaver,Sam,5,TRUE,TRUE,,2,3,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,2,3,Tim,No Dashii,,FALSE,,2,3,N1,Jordan,Clockmaker Number,3,,,,,,,,,,,,2,3,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,2,3,Weaver,Seamstress,,FALSE,,2,3,D1,Lycan,Artist Question,Is there a Cerenovus in the game?|No there is not.,Poisoned,,,,,,,,,,,2,3,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,2,3,Sam,Oracle,,FALSE,,2,3,D1,Jon,Juggle,Weaver|Seamstress,,,,,,,,,,,,2,3,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,2,3,Jordan,Clockmaker,,FALSE,,2,3,D1,Jon,Juggle,Jordan|Philosopher,,,,,,,,,,,,2,3,2,Lycan,FALSE,TRUE,FALSE
+,,,,,,,2,3,Bluff,Mathematician,,,,2,3,D1,Jon,Juggle,Lycan|Savant,,,,,,,,,,,,2,3,2,Tim,TRUE,FALSE,FALSE
+,,,,,,,2,3,Bluff,Town Crier,,,,2,3,D1,Lycan,Nomination,Lycan,V1,,,,,,,,,,,2,3,2,Weaver,TRUE,FALSE,FALSE
+,,,,,,,2,3,Bluff,Philosopher,,,,2,3,D1,Lycan,Executed,,,,,,,,,,,,,2,3,2,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,3,N2,Piranha,Witch Pick,Sam,,,,,,,,,,,,2,3,2,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,N2,Tim,Demon Kill,Jordan,,,,,,,,,,,,2,3,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,3,N2,Jon,Juggler Information,1,,,,,,,,,,,,2,3,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,3,N2,Sam,Oracle Number,0,,,,,,,,,,,,2,3,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,3,D2,Jon,Nomination,Jon,V2,,,,,,,,,,,2,3,3,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,D2,Jon,Executed,,,,,,,,,,,,,2,3,3,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,N3,Piranha,Witch Pick,Sam,,,,,,,,,,,,2,3,3,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,N3,Tim,Demon Kill,Piranha,,,,,,,,,,,,2,3,3,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,N3,Sam,Oracle Number,1,,,,,,,,,,,,2,3,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,2,3,N3,Weaver,Seamstress Pick,Jon|Tim|No,,,,,,,,,,,,2,3,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,2,3,D3,Sam,Nomination,Weaver,V3,,,,,,,,,,,2,3,4,Jordan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,D3,Weaver,Nomination,Sam,V4,,,,,,,,,,,2,3,4,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,D3,Sam,Executed,,,,,,,,,,,,,2,3,4,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,2,3,D3,,Game End,,Two Living Players,,,,,,,,,,,2,3,4,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,4,Weaver,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,4,Sam,FALSE,FALSE,FALSE

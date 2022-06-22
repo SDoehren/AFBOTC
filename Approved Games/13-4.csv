@@ -3,7 +3,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,13,4,Alejo,ST,,,,13,4,N1,Tanfana,Poisoner Pick,Tim,,,13,4,2,Lycan,Lyra,1,FALSE,FALSE,,13,4,1,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,13,4,Sam,ST,,,,13,4,N1,Tim,Poisoned,,,,,,,,,,,,,13,4,1,Lyra,FALSE,FALSE,FALSE
 ,,,,,,,13,4,Jon,Mayor,,FALSE,,13,4,N1,Weaver,Demon Information,Standard,,,,,,,,,,,,13,4,1,Weaver,TRUE,FALSE,FALSE
-,,,,,,,13,4,Lycan,Washerwoman,,FALSE,,13,4,N1,Lycan,Washerwoman Information,Jon|Tanfana|Mayor,,,,,,,,,,,,13,4,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,13,4,Lycan,Washerwoman,,FALSE,,13,4,N1,Lycan,Washerwoman Information,Mayor|Jon|Tanfana,,,,,,,,,,,,13,4,1,Tanfana,FALSE,FALSE,FALSE
 ,,,,,,,13,4,Tim,Empath,,FALSE,,13,4,N1,Tim,Empath Number,1,,,,,,,,,,,,13,4,1,Jon,TRUE,FALSE,FALSE
 ,,,,,,,13,4,Jordan,Slayer,,FALSE,,13,4,D1,Jon,Nomination,Lycan,V1,,,,,,,,,,,13,4,1,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,13,4,Lyra,Monk,,FALSE,,13,4,D1,Lycan,Nomination,Lyra,V2,,,,,,,,,,,13,4,2,Weaver,FALSE,FALSE,FALSE

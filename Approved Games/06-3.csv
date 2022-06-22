@@ -26,14 +26,14 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,6,3,N4,Lycan,Gossip Kill,,,,,,,,,,,,,6,3,4,Tim,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,6,3,N4,Sam,Healthy,,,,,,,,,,,,,6,3,4,Sam,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,6,3,N4,Sam,Pukka Poison,Dice,,,,,,,,,,,,6,3,4,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,N4,Weaver,Chambermaid Choice,Dice|Sam|1,,,,,,,,,,,,6,3,4,Dice,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Jordan,Nomination,Sam,V8,,,,,,,,,,,6,3,5,Tim,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Sam,Nomination,Tim,V9,,,,,,,,,,,6,3,5,Sam,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Tim,Nomination,Dice,V10,,,,,,,,,,,6,3,5,Jordan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Dice,Nomination,Jordan,V11,,,,,,,,,,,6,3,5,Dice,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,Sam,Executed,,,,,,,,,,,,,6,3,5,Weaver,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,6,3,D4,,Game End,,Demon Executed,,,,,,,,,,,6,3,5,Lycan,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N4,Sam,Drunked,,,,,,,,,,,,,6,3,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,N4,Weaver,Chambermaid Choice,Dice|Sam|1,,,,,,,,,,,,6,3,5,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Jordan,Nomination,Sam,V8,,,,,,,,,,,6,3,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Sam,Nomination,Tim,V9,,,,,,,,,,,6,3,5,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Tim,Nomination,Dice,V10,,,,,,,,,,,6,3,5,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Dice,Nomination,Jordan,V11,,,,,,,,,,,6,3,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,Sam,Executed,,,,,,,,,,,,,6,3,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,6,3,D4,,Game End,,Demon Executed,,,,,,,,,,,6,3,5,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,6,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,6,Piranha,FALSE,TRUE,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,6,Tim,TRUE,FALSE,FALSE

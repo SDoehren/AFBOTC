@@ -1,0 +1,145 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+12/06/2022,16,2,Intersecting Realities,Good,12,,16,2,Alejo,ST,,,,16,2,N1,Tim,Minion Information,Poppy Grower,,,16,2,1,Piranha,Sam,3,FALSE,FALSE,,16,2,1,Shaun,TRUE,FALSE,FALSE
+,,,,,,,16,2,Tanfana,Seamstress,,FALSE,,16,2,N1,Tim,Poisoner Pick,Sam,,,16,2,2,Jon,Piranha,5,TRUE,FALSE,,16,2,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,16,2,Frosty,Pixie,,FALSE,,16,2,N1,Sam,Poisoned,,,,16,2,3,Jordan,Jon,3,FALSE,FALSE,,16,2,1,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,16,2,Lycan,Mutant,,FALSE,,16,2,N1,Piranha,Minion Information,Poppy Grower,,,16,2,4,Weaver,Weaver,7,TRUE,TRUE,,16,2,1,Frosty,FALSE,FALSE,FALSE
+,,,,,,,16,2,Electra,Huntsman,,FALSE,,16,2,N1,Jordan,Minion Information,Poppy Grower,,,16,2,5,Lyra,Tim,4,TRUE,TRUE,,16,2,1,Lycan,TRUE,TRUE,FALSE
+,,,,,,,16,2,Lyra,Town Crier,,FALSE,,16,2,N1,Piranha,Holds Lil' Monsta,,,,16,2,6,Frosty,Sam,2,FALSE,FALSE,,16,2,1,Electra,FALSE,FALSE,FALSE
+,,,,,,,16,2,Tim,Poisoner,,FALSE,,16,2,N1,Jordan,Cerenovus Madness,Electra|Damsel,,,16,2,7,Piranha,Frosty,2,FALSE,FALSE,,16,2,1,Lyra,FALSE,FALSE,FALSE
+,,,,,,,16,2,Weaver,Drunk,Farmer,FALSE,,16,2,N1,Electra,Huntsman Pick,Sam,,,16,2,8,Tim,Lyra,2,FALSE,FALSE,,16,2,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,16,2,Piranha,Goblin,,FALSE,,16,2,N1,Sam,Role Change,Amnesiac,,,16,2,9,Sam,Jordan,3,TRUE,FALSE,,16,2,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,16,2,Jordan,Cerenovus,,FALSE,,16,2,N1,Sam,Amnesiac Ability,Each Night choose a player. You learn if they neighbour a non townsfolk player,,,16,2,10,Piranha,Sam,4,TRUE,TRUE,,16,2,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,16,2,Sam,Damsel,,FALSE,,16,2,N1,Sam,Amnesiac Action - Select 1 player with response,Jordan|No,,,16,2,11,Shaun,Lycan,1,FALSE,FALSE,,16,2,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,16,2,Shaun,Poppy Grower,,FALSE,,16,2,N1,Frosty,Pixie Information,Cannibal,,,16,2,12,Piranha,Piranha,7,TRUE,TRUE,,16,2,1,Sam,FALSE,FALSE,FALSE
+,,,,,,,16,2,Jon,Cannibal,,FALSE,,16,2,N1,Tanfana,Seamstress Pick,Jon|Frosty|Yes,,,,,,,,,,,,16,2,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D1,Sam,Amnesiac Question,Do I learn if they are the same alignment as me?,Cold,,,,,,,,,,,16,2,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D1,Lycan,Executed,,Mutant,,,,,,,,,,,16,2,2,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N2,Tim,Poisoner Pick,Lyra,,,,,,,,,,,,16,2,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N2,Lyra,Poisoned,,,,,,,,,,,,,16,2,2,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,N2,Sam,Healthy,,,,,,,,,,,,,16,2,2,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N2,Jordan,Cerenovus Madness,Piranha|Goblin,,,,,,,,,,,,16,2,2,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,16,2,N2,Jon,Cannibal Ability,Mutant,,,,,,,,,,,,16,2,2,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N2,Tim,Holds Lil' Monsta,,,,,,,,,,,,,16,2,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N2,Sam,Amnesiac Action - Select 1 player with response,Piranha|Yes,,,,,,,,,,,,16,2,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N2,Lyra,Town Crier Information,No,,,,,,,,,,,,16,2,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N2,,Demon Kill,Tanfana,Lil' Monsta,,,,,,,,,,,16,2,2,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D2,Sam,Amnesiac Question,Do I learn whether the player selected is next to an evil player?,Very warm,,,,,,,,,,,16,2,3,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,D2,Piranha,Nomination,Sam,V1,,,,,,,,,,,16,2,3,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D2,Jon,Nomination,Piranha,V2,,,,,,,,,,,16,2,3,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,16,2,D2,Jordan,Nomination,Jon,V3,,,,,,,,,,,16,2,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D2,Weaver,Nomination,Weaver,V4,,,,,,,,,,,16,2,3,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D2,Piranha,Damsel Guess,Sam,,,,,,,,,,,,16,2,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D2,Weaver,Executed,,,,,,,,,,,,,16,2,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Tim,Poisoner Pick,Sam,,,,,,,,,,,,16,2,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Lyra,Healthy,,,,,,,,,,,,,16,2,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Sam,Poisoned,,,,,,,,,,,,,16,2,3,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Piranha,Holds Lil' Monsta,,,,,,,,,,,,,16,2,3,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Jordan,Cerenovus Madness,Piranha|Damsel,,,,,,,,,,,,16,2,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Sam,Amnesiac Action - Select 1 player with response,Tim|Yes,,,,,,,,,,,,16,2,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Jon,Cannibal Ability,Drunk,,,,,,,,,,,,16,2,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Lyra,Town Crier Information,Yes,,,,,,,,,,,,16,2,4,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,,Demon Kill,Jon,Lil' Monsta,,,,,,,,,,,16,2,4,Shaun,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Frosty,Pixie Ability,Cannibal,,,,,,,,,,,,16,2,4,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N3,Frosty,Cannibal Ability,Drunk,,,,,,,,,,,,16,2,4,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,D3,Sam,Amnesiac Question,Is my ability each night choose a player and learn if they are a minion?,Luke Warm,,,,,,,,,,,16,2,4,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D3,Lyra,Nomination,Tim,V5,,,,,,,,,,,16,2,4,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,16,2,D3,Frosty,Nomination,Sam,V6,,,,,,,,,,,16,2,4,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D3,Piranha,Nomination,Frosty,V7,,,,,,,,,,,16,2,4,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D3,Tim,Nomination,Lyra,V8,,,,,,,,,,,16,2,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D3,Tim,Executed,,,,,,,,,,,,,16,2,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N4,Sam,Healthy,,,,,,,,,,,,,16,2,5,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,N4,Piranha,Holds Lil' Monsta,,,,,,,,,,,,,16,2,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N4,Jordan,Cerenovus Madness,Sam|Politician,,,,,,,,,,,,16,2,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N4,Sam,Amnesiac Action - Select 1 player with response,Jordan|Yes,,,,,,,,,,,,16,2,5,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N4,Lyra,Town Crier Information,Yes,,,,,,,,,,,,16,2,5,Shaun,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N4,Frosty,Poisoned,,,,,,,,,,,,,16,2,5,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,N4,,Demon Kill,Electra,Lil' Monsta,,,,,,,,,,,16,2,5,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,D4,Sam,Amnesiac Question,Is my ability each night choose a player and learn if they are sat next to a minion,Very Hot,,,,,,,,,,,16,2,5,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D4,Sam,Nomination,Jordan,V9,,,,,,,,,,,16,2,5,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,16,2,D4,Piranha,Nomination,Sam,V10,,,,,,,,,,,16,2,5,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D4,Sam,Executed,,,,,,,,,,,,,16,2,5,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N5,Frosty,Healthy,,,,,,,,,,,,,16,2,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N5,Frosty,Cannibal Ability,Amnesiac,,,,,,,,,,,,16,2,6,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N5,Jordan,Cerenovus Madness,Electra|Goblin,,,,,,,,,,,,16,2,6,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,N5,Piranha,Holds Lil' Monsta,,,,,,,,,,,,,16,2,6,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,N5,,Demon Kill,Jordan,Lil' Monsta,,,,,,,,,,,16,2,6,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N5,Lyra,Town Crier Information,Yes,,,,,,,,,,,,16,2,6,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,16,2,N5,Frosty,Amnesiac Ability,Each night choose a player. Learn if their neighbours are of the same alignment,,,,,,,,,,,,16,2,6,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N5,Frosty,Amnesiac Action - Select 1 player with response,Lyra|No,,,,,,,,,,,,16,2,6,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D5,Frosty,Amnesiac Question,Is my ability choose a player and learn if they are evil?,A glimour of warmth,,,,,,,,,,,16,2,6,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D5,Shaun,Nomination,Lycan,V11,,,,,,,,,,,16,2,6,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,2,N6,Piranha,Holds Lil' Monsta,,,,,,,,,,,,,16,2,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N6,,Demon Kill,Shaun,Lil' Monsta,,,,,,,,,,,16,2,6,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N6,Frosty,Amnesiac Action - Select 1 player with response,Piranha|No,,,,,,,,,,,,16,2,6,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,N6,Lyra,Town Crier Information,No,,,,,,,,,,,,16,2,7,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,16,2,D6,Frosty,Amnesiac Question,"If my ability choose a player, learn if they're holding Lil' Monsta?",Cold,,,,,,,,,,,16,2,7,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D6,Piranha,Nomination,Piranha,V12,,,,,,,,,,,16,2,7,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D6,Piranha,Executed,,,,,,,,,,,,,16,2,7,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,2,D6,,Game End,,Demon Executed,,,,,,,,,,,16,2,7,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,7,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,7,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,7,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,7,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,7,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,7,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,7,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,8,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Electra,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,9,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Electra,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,10,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Electra,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Jordan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,11,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Jordan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Sam,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Jon,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Tanfana,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Lycan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Electra,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Tim,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,2,12,Piranha,TRUE,FALSE,FALSE

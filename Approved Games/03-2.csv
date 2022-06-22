@@ -2,7 +2,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 07/03/2022,3,2,Trouble Brewing,Evil,8,,3,2,Alejo,ST,,,,3,2,N1,Piranha,Picks Master,Tim,,,3,2,1,Piranha,Lycan,5,TRUE,FALSE,,3,2,1,Sam,TRUE,FALSE,FALSE
 ,,,,,,,3,2,Tim,Saint,,FALSE,,3,2,N1,Amy,Empath Number,0,,,3,2,2,Lycan,Piranha,5,FALSE,FALSE,,3,2,1,Frosty,TRUE,FALSE,FALSE
 ,,,,,,,3,2,Piranha,Butler,,FALSE,,3,2,N1,Sam,Fortune Teller Information,Lycan|Frosty|No,,,3,2,3,Lycan,Piranha,4,TRUE,TRUE,,3,2,1,Tim,TRUE,FALSE,FALSE
-,,,,,,,3,2,Georgia,Baron,,FALSE,,3,2,N1,Lycan,Washerwoman Information,Frosty|Amy|Ravenkeeper,,,3,2,4,Tim,Lycan,3,FALSE,FALSE,,3,2,1,Piranha,TRUE,FALSE,FALSE
+,,,,,,,3,2,Georgia,Baron,,FALSE,,3,2,N1,Lycan,Washerwoman Information,Ravenkeeper|Frosty|Amy,,,3,2,4,Tim,Lycan,3,FALSE,FALSE,,3,2,1,Piranha,TRUE,FALSE,FALSE
 ,,,,,,,3,2,Amy,Drunk,Empath,FALSE,,3,2,D1,Piranha,Nomination,Lycan,V1,,3,2,5,Lycan,Tim,1,FALSE,FALSE,,3,2,1,Georgia,FALSE,FALSE,FALSE
 ,,,,,,,3,2,Weaver,Imp,,FALSE,,3,2,D1,Lycan,Nomination,Piranha,V2,,3,2,6,Tim,Frosty,1,FALSE,FALSE,,3,2,1,Amy,FALSE,FALSE,FALSE
 ,,,,,,,3,2,Lycan,Washerwoman,,FALSE,,3,2,N2,Weaver,Demon Kill,Sam,,,3,2,7,Weaver,Tim,3,TRUE,TRUE,,3,2,1,Weaver,TRUE,FALSE,FALSE

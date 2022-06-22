@@ -1,7 +1,7 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
 13/03/2022,4,1,Trouble Brewing,Good,9,,4,1,Alejo,ST,,,,4,1,N1,Jordan,Poisoner Pick,Tim,,,4,1,1,Piranha,Weaver,7,TRUE,TRUE,,4,1,1,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,4,1,Lyra,ST,,,,4,1,N1,Tim,Poisoned,,,,4,1,2,Tim,Lycan,5,TRUE,TRUE,,4,1,1,Jon,TRUE,FALSE,FALSE
-,,,,,,,4,1,Charli,Ravenkeeper,,FALSE,,4,1,N1,Weaver,Washerwoman Information,Charli|Sam|Ravenkeeper,,,4,1,3,Jon,Tim,2,FALSE,FALSE,,4,1,1,Amy,FALSE,FALSE,FALSE
+,,,,,,,4,1,Charli,Ravenkeeper,,FALSE,,4,1,N1,Weaver,Washerwoman Information,Ravenkeeper|Charli|Sam,,,4,1,3,Jon,Tim,2,FALSE,FALSE,,4,1,1,Amy,FALSE,FALSE,FALSE
 ,,,,,,,4,1,Lycan,Recluse,,FALSE,,4,1,N1,Piranha,Fortune Teller Information,Tim|Amy|No,,,4,1,4,Jon,Jordan,2,FALSE,FALSE,,4,1,1,Charli,TRUE,FALSE,FALSE
 ,,,,,,,4,1,Tim,Mayor,,FALSE,,4,1,D1,Piranha,Nomination,Weaver,V1,,4,1,5,Charli,Sam,1,FALSE,FALSE,,4,1,1,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,4,1,Sam,Imp,,FALSE,,4,1,D1,Weaver,Executed,,,,4,1,6,Jordan,Amy,3,TRUE,TRUE,,4,1,1,Tim,TRUE,FALSE,FALSE

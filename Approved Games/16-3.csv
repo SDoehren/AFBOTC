@@ -1,0 +1,43 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+12/06/2022,16,3,Trouble Brewing,Good,7,,16,3,Alejo,ST,,,,16,3,N1,Lycan,Demon Information,Standard,,,16,3,1,Lyra,Jon,2,FALSE,FALSE,,16,3,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,16,3,Shaun,Investigator,,FALSE,,16,3,N1,Piranha,Minion Information,Standard,,,16,3,2,Piranha,Tim,3,TRUE,TRUE,,16,3,1,Shaun,FALSE,TRUE,FALSE
+,,,,,,,16,3,Lycan,Imp,,FALSE,,16,3,N1,Shaun,Investigator Information,No Minion In Play,,,16,3,3,Tim,Lyra,2,FALSE,FALSE,,16,3,1,Lycan,FALSE,TRUE,FALSE
+,,,,,,,16,3,Lyra,Monk,,FALSE,,16,3,N1,Jon,Empath Number,0,,,16,3,4,Jon,Piranha,1,FALSE,FALSE,,16,3,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,16,3,Piranha,Spy,,FALSE,,16,3,D1,Shaun,Nomination,Jordan,No Vote,,16,3,5,Jordan,Piranha,3,TRUE,TRUE,,16,3,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,16,3,Jordan,Virgin,,FALSE,,16,3,D1,Jordan,Virgin Kill,Shaun,,,16,3,6,Piranha,Lyra,2,FALSE,FALSE,,16,3,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,16,3,Jon,Empath,,FALSE,,16,3,N2,Lycan,Demon Kill ,Lycan,Star Pass,,,,,,,,,,,16,3,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,16,3,Tim,Mayor,,FALSE,,16,3,N2,Lyra,Monk Protect,Piranha,,,,,,,,,,,,16,3,2,Shaun,TRUE,TRUE,FALSE
+,,,,,,,16,3,Bluff,Chef,,,,16,3,N2,Piranha,Role Change,Imp,,,,,,,,,,,,16,3,2,Lycan,FALSE,TRUE,FALSE
+,,,,,,,16,3,Bluff,Undertaker,,,,16,3,N2,Jon,Empath Number,0,,,,,,,,,,,,16,3,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,16,3,Bluff,Soldier,,,,16,3,D2,Lyra,Nomination,Jon,V1,,,,,,,,,,,16,3,2,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,D2,Piranha,Nomination,Tim,V2,,,,,,,,,,,16,3,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,D2,Tim,Nomination,Lyra,V3,,,,,,,,,,,16,3,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,D2,Jon,Nomination,Piranha,V4,,,,,,,,,,,16,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,D2,Tim,Executed,,,,,,,,,,,,,16,3,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,N3,Lyra,Monk Protect,Jordan,,,,,,,,,,,,16,3,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,N3,Piranha,Demon Kill ,Jon,,,,,,,,,,,,16,3,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,D3,Jordan,Nomination,Piranha,V5,,,,,,,,,,,16,3,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,D3,Piranha,Nomination,Lyra,V6,,,,,,,,,,,16,3,3,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,16,3,D3,Piranha,Executed,,,,,,,,,,,,,16,3,3,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,16,3,D3,,Game End,,Demon Executed,,,,,,,,,,,16,3,3,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,4,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,4,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,4,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,4,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,5,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,5,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,5,Tim,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,5,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,5,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,5,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,6,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,6,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,6,Tim,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,6,Shaun,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,6,Lycan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,3,6,Lyra,FALSE,FALSE,FALSE
