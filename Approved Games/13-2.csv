@@ -1,6 +1,6 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-22/05/2022,13,2,Extension Cord,Evil,13,,13,2,Alejo,ST,,,,13,2,N1,Tim,Minion Information,Dice-Jon,Marionette,,13,2,1,Frosty,Tim,7,TRUE,TRUE,,13,2,1,Jordan,FALSE,FALSE,FALSE
-,,,,,,,13,2,Weaver,Empath,,FALSE,,13,2,N1,Jon,Minion Information,Dice-Tim,Marionette,,13,2,2,Jordan,Frosty,2,FALSE,FALSE,,13,2,1,Permzilla,TRUE,FALSE,FALSE
+22/05/2022,13,2,Extension Cord,Evil,13,,13,2,Alejo,ST,,,,13,2,N1,Tim,Minion Information,Dice|Jon,Marionette,,13,2,1,Frosty,Tim,7,TRUE,TRUE,,13,2,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,13,2,Weaver,Empath,,FALSE,,13,2,N1,Jon,Minion Information,Dice|Tim,Marionette,,13,2,2,Jordan,Frosty,2,FALSE,FALSE,,13,2,1,Permzilla,TRUE,FALSE,FALSE
 ,,,,,,,13,2,Frosty,Fisherman,,FALSE,,13,2,N1,Dice,Demon Information,Standard,,,13,2,3,Weaver,Piranha,3,FALSE,FALSE,,13,2,1,Dice,TRUE,FALSE,FALSE
 ,,,,,,,13,2,Sam,Mathematician,,FALSE,,13,2,N1,Hobastian,Pixie Information,Empath,,,13,2,4,Permzilla,Lyra,5,FALSE,FALSE,,13,2,1,Lycan,TRUE,FALSE,FALSE
 ,,,,,,,13,2,Hobastian,Pixie,,FALSE,,13,2,N1,Weaver,Empath Number,0,,,13,2,5,Piranha,Jon,6,FALSE,FALSE,,13,2,1,Jon,TRUE,FALSE,FALSE

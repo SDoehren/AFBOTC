@@ -1,121 +1,121 @@
-Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used,,,,,,,,,,,,,,,,,,,,,,,
-19/06/2022,17,3,Sects & Violets,Good,10,,17,3,Alejo,ST,,,,17,3,N1,Tanfana,Philosopher Switch,Snake Charmer,,,17,3,1,Jordan,Dice,10,TRUE,TRUE,,17,3,1,Stephen,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Piranha,Seamstress,,FALSE,,17,3,N1,Stephen,Minion Information,Standard,,,17,3,2,Lyra,Jordan,2,FALSE,FALSE,,17,3,1,Jon,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Jordan,Mathematician,,FALSE,,17,3,N1,Weaver,Demon Information,Standard,,,17,3,3,Jordan,Tanfana,2,FALSE,FALSE,,17,3,1,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Tanfana,Philosopher,,TRUE,,17,3,N1,Tanfana,Snake Charmer Pick,Jordan,,,17,3,4,Weaver,Lyra,4,FALSE,FALSE,,17,3,1,Lyra,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Weaver,Vigormortis,,TRUE,,17,3,N1,Lycan,Dreamer Check,Jordan|Mathematician|No Dashii,,,17,3,5,Lycan,Piranha,6,TRUE,TRUE,,17,3,1,Piranha,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Lycan,Dreamer,,FALSE,,17,3,N1,Piranha,Seamstress Pick,Stephen|Tanfana|No,,,17,3,6,Piranha,Stephen,3,FALSE,FALSE,,17,3,1,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Dice,Deviant,Good,FALSE,,17,3,N1,Jordan,Mathematician Number,0,,,17,3,7,Jordan,Lycan,2,FALSE,FALSE,,17,3,1,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Stephen,Pit-Hag,,FALSE,,17,3,D1,Lyra,Savant Info,There is at least 1 chef pair currently|At least one player selected an evil player last night,,,17,3,8,Lycan,Tanfana,1,FALSE,FALSE,,17,3,1,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Jon,Juggler,,FALSE,,17,3,D1,Jon,Juggle,Jon|Juggler,,,17,3,9,Kani,Jon,4,TRUE,TRUE,,17,3,1,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Kani,Klutz,,FALSE,,17,3,D1,Jon,Juggle,Tanfana|Barber,,,17,3,10,Jordan,Tanfana,4,TRUE,TRUE,,17,3,1,Dice,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Lyra,Savant,,FALSE,,17,3,D1,Jon,Juggle,Piranha|Pit-Hag,,,17,3,11,Kani,Dice,7,TRUE,TRUE,,17,3,2,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Bluff,Clockmaker,,,,17,3,D1,Jordan,Nomination,Dice,V1,,17,3,12,Lycan,Jordan,1,FALSE,FALSE,,17,3,2,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Bluff,Oracle,,,,17,3,D1,Dice,Exiled,,Protected,,,,,,,,,,,17,3,2,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,17,3,Bluff,Sage,,,,17,3,D1,Lyra,Nomination,Jordan,V2,,,,,,,,,,,17,3,2,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D1,Jordan,Nomination,Tanfana,V3,,,,,,,,,,,17,3,2,Stephen,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D1,Weaver,Nomination,Lyra,V4,,,,,,,,,,,17,3,2,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D1,Lycan,Nomination,Piranha,V5,,,,,,,,,,,17,3,2,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D1,Piranha,Nomination,Stephen,V6,,,,,,,,,,,17,3,2,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D1,Piranha,Executed,,,,,,,,,,,,,17,3,2,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Tanfana,Snake Charmer Pick,Weaver,,,,,,,,,,,,17,3,2,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Tanfana,Role Change,Vigormortis,,,,,,,,,,,,17,3,3,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Tanfana,Alignment Change,Evil,,,,,,,,,,,,17,3,3,Lycan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Weaver,Role Change,Philosopher,,,,,,,,,,,,17,3,3,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Weaver,Alignment Change,Good,,,,,,,,,,,,17,3,3,Stephen,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Weaver,Snake Charm Poison,,,,,,,,,,,,,17,3,3,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Stephen,Pit-Hag Pick,Lyra,Barber,,,,,,,,,,,17,3,3,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Tanfana,Demon Kill,Stephen,,,,,,,,,,,,17,3,3,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Tanfana,Vigormortis Poison,Lycan,,,,,,,,,,,,17,3,3,Piranha,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Lycan,Poisoned,,,,,,,,,,,,,17,3,3,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Lycan,Dreamer Check,Lyra|Savant|Vigormortis,,,,,,,,,,,,17,3,3,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Jordan,Mathematician Number,1,,,,,,,,,,,,17,3,4,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N2,Jon,Juggler Information,1,,,,,,,,,,,,17,3,4,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D2,Jordan,Nomination,Lycan,V7,,,,,,,,,,,17,3,4,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D2,Lycan,Nomination,Tanfana,V8,,,,,,,,,,,17,3,4,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D2,Kani,Nomination,Jon,V9,,,,,,,,,,,17,3,4,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D2,Jon,Executed,,,,,,,,,,,,,17,3,4,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Weaver,Philosopher Switch,Clockmaker,,,,,,,,,,,,17,3,4,Stephen,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Weaver,Clockmaker Number,1,,,,,,,,,,,,17,3,4,Jon,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Stephen,Pit-Hag Pick,Stephen,Witch,,,,,,,,,,,17,3,4,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Tanfana,Demon Kill,Lyra,,,,,,,,,,,,17,3,4,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Tanfana,Select Barber Swap,Lyra|Jordan,,,,,,,,,,,,17,3,5,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Lyra,Role Change,Mathematician,,,,,,,,,,,,17,3,5,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Jordan,Role Change,Barber,,,,,,,,,,,,17,3,5,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,N3,Lycan,Dreamer Check,Weaver|Snake Charmer|Pit-Hag,,,,,,,,,,,,17,3,5,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D3,Jordan,Nomination,Tanfana|Barber,V10,,,,,,,,,,,17,3,5,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D3,Kani,Nomination,Dice,V11,,,,,,,,,,,17,3,5,Stephen,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D3,Dice,Exiled,,,,,,,,,,,,,17,3,5,Jon,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D3,Lycan,Nomination,Jordan,V12,,,,,,,,,,,17,3,5,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D3,Tanfana,Executed,,,,,,,,,,,,,17,3,5,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,17,3,D3,,Game End,,Demon Executed,,,,,,,,,,,17,3,5,Piranha,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Piranha,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Dice,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Stephen,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Stephen,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Piranha,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Lycan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Stephen,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Lyra,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Piranha,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Lyra,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Piranha,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Stephen,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Jon,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Stephen,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Jon,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Piranha,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Tanfana,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Stephen,TRUE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Jon,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Kani,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Lyra,TRUE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Piranha,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Jordan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Weaver,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Lycan,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Tanfana,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Weaver,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Lycan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Dice,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Stephen,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Jon,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Kani,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Lyra,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Piranha,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Jordan,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+19/06/2022,17,3,Sects & Violets,Good,10,,17,3,Alejo,ST,,,,17,3,N1,Tanfana,Philosopher Switch,Snake Charmer,,,17,3,1,Jordan,Dice,10,TRUE,TRUE,,17,3,1,Stephen,TRUE,FALSE,FALSE
+,,,,,,,17,3,Piranha,Seamstress,,FALSE,,17,3,N1,Stephen,Minion Information,Standard,,,17,3,2,Lyra,Jordan,2,FALSE,FALSE,,17,3,1,Jon,TRUE,FALSE,FALSE
+,,,,,,,17,3,Jordan,Mathematician,,FALSE,,17,3,N1,Weaver,Demon Information,Standard,,,17,3,3,Jordan,Tanfana,2,FALSE,FALSE,,17,3,1,Kani,TRUE,FALSE,FALSE
+,,,,,,,17,3,Tanfana,Philosopher,,TRUE,,17,3,N1,Tanfana,Snake Charmer Pick,Jordan,,,17,3,4,Weaver,Lyra,4,FALSE,FALSE,,17,3,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,17,3,Weaver,Vigormortis,,TRUE,,17,3,N1,Lycan,Dreamer Check,Jordan|Mathematician|No Dashii,,,17,3,5,Lycan,Piranha,6,TRUE,TRUE,,17,3,1,Piranha,TRUE,FALSE,FALSE
+,,,,,,,17,3,Lycan,Dreamer,,FALSE,,17,3,N1,Piranha,Seamstress Pick,Stephen|Tanfana|No,,,17,3,6,Piranha,Stephen,3,FALSE,FALSE,,17,3,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,17,3,Dice,Deviant,Good,FALSE,,17,3,N1,Jordan,Mathematician Number,0,,,17,3,7,Jordan,Lycan,2,FALSE,FALSE,,17,3,1,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,17,3,Stephen,Pit-Hag,,FALSE,,17,3,D1,Lyra,Savant Info,There is at least 1 chef pair currently|At least one player selected an evil player last night,,,17,3,8,Lycan,Tanfana,1,FALSE,FALSE,,17,3,1,Weaver,TRUE,FALSE,FALSE
+,,,,,,,17,3,Jon,Juggler,,FALSE,,17,3,D1,Jon,Juggle,Jon|Juggler,,,17,3,9,Kani,Jon,4,TRUE,TRUE,,17,3,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,17,3,Kani,Klutz,,FALSE,,17,3,D1,Jon,Juggle,Tanfana|Barber,,,17,3,10,Jordan,Tanfana,4,TRUE,TRUE,,17,3,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,17,3,Lyra,Savant,,FALSE,,17,3,D1,Jon,Juggle,Piranha|Pit-Hag,,,17,3,11,Kani,Dice,7,TRUE,TRUE,,17,3,2,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,17,3,Bluff,Clockmaker,,,,17,3,D1,Jordan,Nomination,Dice,V1,,17,3,12,Lycan,Jordan,1,FALSE,FALSE,,17,3,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,17,3,Bluff,Oracle,,,,17,3,D1,Dice,Exiled,,Protected,,,,,,,,,,,17,3,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,17,3,Bluff,Sage,,,,17,3,D1,Lyra,Nomination,Jordan,V2,,,,,,,,,,,17,3,2,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D1,Jordan,Nomination,Tanfana,V3,,,,,,,,,,,17,3,2,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D1,Weaver,Nomination,Lyra,V4,,,,,,,,,,,17,3,2,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D1,Lycan,Nomination,Piranha,V5,,,,,,,,,,,17,3,2,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D1,Piranha,Nomination,Stephen,V6,,,,,,,,,,,17,3,2,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D1,Piranha,Executed,,,,,,,,,,,,,17,3,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Tanfana,Snake Charmer Pick,Weaver,,,,,,,,,,,,17,3,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Tanfana,Role Change,Vigormortis,,,,,,,,,,,,17,3,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Tanfana,Alignment Change,Evil,,,,,,,,,,,,17,3,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Weaver,Role Change,Philosopher,,,,,,,,,,,,17,3,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Weaver,Alignment Change,Good,,,,,,,,,,,,17,3,3,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Weaver,Snake Charm Poison,,,,,,,,,,,,,17,3,3,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Stephen,Pit-Hag Pick,Lyra,Barber,,,,,,,,,,,17,3,3,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Tanfana,Demon Kill,Stephen,,,,,,,,,,,,17,3,3,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Tanfana,Vigormortis Poison,Lycan,,,,,,,,,,,,17,3,3,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Lycan,Poisoned,,,,,,,,,,,,,17,3,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Lycan,Dreamer Check,Lyra|Savant|Vigormortis,,,,,,,,,,,,17,3,3,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Jordan,Mathematician Number,1,,,,,,,,,,,,17,3,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N2,Jon,Juggler Information,1,,,,,,,,,,,,17,3,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D2,Jordan,Nomination,Lycan,V7,,,,,,,,,,,17,3,4,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D2,Lycan,Nomination,Tanfana,V8,,,,,,,,,,,17,3,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D2,Kani,Nomination,Jon,V9,,,,,,,,,,,17,3,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D2,Jon,Executed,,,,,,,,,,,,,17,3,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Weaver,Philosopher Switch,Clockmaker,,,,,,,,,,,,17,3,4,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Weaver,Clockmaker Number,1,,,,,,,,,,,,17,3,4,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Stephen,Pit-Hag Pick,Stephen,Witch,,,,,,,,,,,17,3,4,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Tanfana,Demon Kill,Lyra,,,,,,,,,,,,17,3,4,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Tanfana,Select Barber Swap,Lyra|Jordan,,,,,,,,,,,,17,3,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Lyra,Role Change,Mathematician,,,,,,,,,,,,17,3,5,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Jordan,Role Change,Barber,,,,,,,,,,,,17,3,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,N3,Lycan,Dreamer Check,Weaver|Snake Charmer|Pit-Hag,,,,,,,,,,,,17,3,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D3,Jordan,Nomination,Tanfana|Barber,V10,,,,,,,,,,,17,3,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D3,Kani,Nomination,Dice,V11,,,,,,,,,,,17,3,5,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D3,Dice,Exiled,,,,,,,,,,,,,17,3,5,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D3,Lycan,Nomination,Jordan,V12,,,,,,,,,,,17,3,5,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D3,Tanfana,Executed,,,,,,,,,,,,,17,3,5,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,17,3,D3,,Game End,,Demon Executed,,,,,,,,,,,17,3,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,6,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Stephen,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,7,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Stephen,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,8,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Stephen,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,9,Jon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Stephen,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,10,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Stephen,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Kani,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Lyra,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,11,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Stephen,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Jon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Kani,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Lyra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,3,12,Jordan,FALSE,FALSE,FALSE

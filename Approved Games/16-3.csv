@@ -5,7 +5,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,16,3,Lyra,Monk,,FALSE,,16,3,N1,Jon,Empath Number,0,,,16,3,4,Jon,Piranha,1,FALSE,FALSE,,16,3,1,Lyra,TRUE,FALSE,FALSE
 ,,,,,,,16,3,Piranha,Spy,,FALSE,,16,3,D1,Shaun,Nomination,Jordan,No Vote,,16,3,5,Jordan,Piranha,3,TRUE,TRUE,,16,3,1,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,16,3,Jordan,Virgin,,FALSE,,16,3,D1,Jordan,Virgin Kill,Shaun,,,16,3,6,Piranha,Lyra,2,FALSE,FALSE,,16,3,1,Jordan,TRUE,FALSE,FALSE
-,,,,,,,16,3,Jon,Empath,,FALSE,,16,3,N2,Lycan,Demon Kill ,Lycan,Star Pass,,,,,,,,,,,16,3,1,Jon,FALSE,FALSE,FALSE
+,,,,,,,16,3,Jon,Empath,,FALSE,,16,3,N2,Lycan,Demon Kill,Lycan,Star Pass,,,,,,,,,,,16,3,1,Jon,FALSE,FALSE,FALSE
 ,,,,,,,16,3,Tim,Mayor,,FALSE,,16,3,N2,Lyra,Monk Protect,Piranha,,,,,,,,,,,,16,3,2,Shaun,TRUE,TRUE,FALSE
 ,,,,,,,16,3,Bluff,Chef,,,,16,3,N2,Piranha,Role Change,Imp,,,,,,,,,,,,16,3,2,Lycan,FALSE,TRUE,FALSE
 ,,,,,,,16,3,Bluff,Undertaker,,,,16,3,N2,Jon,Empath Number,0,,,,,,,,,,,,16,3,2,Lyra,TRUE,FALSE,FALSE
@@ -15,7 +15,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,,,,,,,,16,3,D2,Jon,Nomination,Piranha,V4,,,,,,,,,,,16,3,2,Tim,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,16,3,D2,Tim,Executed,,,,,,,,,,,,,16,3,3,Piranha,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,16,3,N3,Lyra,Monk Protect,Jordan,,,,,,,,,,,,16,3,3,Jordan,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,16,3,N3,Piranha,Demon Kill ,Jon,,,,,,,,,,,,16,3,3,Jon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,16,3,N3,Piranha,Demon Kill,Jon,,,,,,,,,,,,16,3,3,Jon,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,16,3,D3,Jordan,Nomination,Piranha,V5,,,,,,,,,,,16,3,3,Tim,TRUE,FALSE,FALSE
 ,,,,,,,,,,,,,,16,3,D3,Piranha,Nomination,Lyra,V6,,,,,,,,,,,16,3,3,Shaun,FALSE,TRUE,TRUE
 ,,,,,,,,,,,,,,16,3,D3,Piranha,Executed,,,,,,,,,,,,,16,3,3,Lycan,FALSE,TRUE,FALSE
