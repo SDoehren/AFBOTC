@@ -1,0 +1,222 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+03/07/2022,19,2,Sects and Violets,Evil,13,,19,2,Alejo,ST,,,,19,2,N1,Lyra,Minion Information,Standard,,,19,2,1,Piranha,Piranha,2,FALSE,FALSE,,19,2,1,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,19,2,Piranha,Evil Twin,,FALSE,,19,2,N1,Lyphoon,Minion Information,Standard,,,19,2,2,Lyra,Lycan,5,FALSE,FALSE,,19,2,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,19,2,Permzilla,Vigormortis,,FALSE,,19,2,N1,Piranha,Minion Information,Standard,,,19,2,3,Weaver,Jordan,4,FALSE,FALSE,,19,2,1,Nara,FALSE,FALSE,FALSE
+,,,,,,,19,2,Jordan,Seamstress,,TRUE,,19,2,N1,Permzilla,Demon Information,Standard,,,19,2,4,Dice,Permzilla,3,FALSE,FALSE,,19,2,1,Shaun,FALSE,FALSE,FALSE
+,,,,,,,19,2,Nara,Town Crier,,FALSE,,19,2,N1,Weaver,Philosopher Switch,Snake Charmer,,,19,2,5,Lyphoon,Weaver,7,TRUE,FALSE,,19,2,1,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,19,2,Shaun,Clockmaker,,FALSE,,19,2,N1,Lycan,Philosopher Drunk,,,,19,2,6,Shaun,Shaun,9,TRUE,TRUE,,19,2,1,Electra,FALSE,FALSE,FALSE
+,,,,,,,19,2,Lyphoon,Cerenovus,,FALSE,,19,2,N1,Lycan,Drunked,,,,19,2,7,Jordan,Piranha,3,FALSE,FALSE,,19,2,1,Dice,FALSE,FALSE,FALSE
+,,,,,,,19,2,Electra,Savant,,FALSE,,19,2,N1,Lycan,Snake Charmer Pick,Jordan,,,19,2,8,Piranha,Permzilla,4,FALSE,FALSE,,19,2,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,19,2,Dice,Oracle,,FALSE,,19,2,N1,Piranha,Evil Twin Information,Dice,,,19,2,9,Lyra,Dice,4,FALSE,FALSE,,19,2,1,Lyra,FALSE,FALSE,FALSE
+,,,,,,,19,2,Lycan,Snake Charmer,,FALSE,,19,2,N1,Shaun,Clockmaker Number,1,,,19,2,10,Permzilla,Weaver,6,TRUE,TRUE,,19,2,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,19,2,Lyra,Pit-Hag,,FALSE,,19,2,N1,Dice,Good Twin Information,Piranha,,,19,2,11,Weaver,Sam,2,FALSE,FALSE,,19,2,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,19,2,Tanfana,Mathematician,,FALSE,,19,2,N1,Lyphoon,Cerenovus Madness,Jordan|Clockmaker,,,19,2,12,Dice,Lyphoon,2,FALSE,FALSE,,19,2,1,Sam,FALSE,FALSE,FALSE
+,,,,,,,19,2,Weaver,Philosopher,,FALSE,,19,2,N1,Jordan,Seamstress Pick,Tanfana|Lyra|No,,,19,2,13,Jordan,Piranha,5,TRUE,TRUE,,19,2,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,19,2,Sam,Juggler,,FALSE,,19,2,N1,Tanfana,Mathematician Number,0,,,19,2,14,Jordan,Tanfana,3,TRUE,FALSE,,19,2,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,19,2,Bluff,Flowergirl,,,,19,2,D1,Electra,Savant Info,The sage neighbours a minion|There is at least 1 player who is either drunk or poisoned or has been fibbed to,,,19,2,15,Lyra,Lycan,6,TRUE,TRUE,,19,2,2,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,19,2,Bluff,Artist,,,,19,2,D1,Sam,Juggle,Sam|Juggler,,,19,2,16,Jordan,Weaver,3,TRUE,TRUE,,19,2,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,19,2,Bluff,Sage,,,,19,2,D1,Piranha,Nomination,Piranha,V1,,19,2,17,Tanfana,Lyra,6,TRUE,TRUE,,19,2,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D1,Lyra,Nomination,Lycan,V2,,,,,,,,,,,19,2,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D1,Weaver,Nomination,Jordan,V3,,,,,,,,,,,19,2,2,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D1,Dice,Nomination,Permzilla,V4,,,,,,,,,,,19,2,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D1,Lyphoon,Nomination,Weaver,V5,,,,,,,,,,,19,2,2,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D1,Shaun,Nomination,Shaun,V6,,,,,,,,,,,19,2,2,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D1,Shaun,Executed,,,,,,,,,,,,,19,2,2,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Weaver,Snake Charmer Pick,Sam,,,,,,,,,,,,19,2,2,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Lycan,Snake Charmer Pick,Piranha,,,,,,,,,,,,19,2,2,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Lyphoon,Cerenovus Madness,Jordan|Town Crier,,,,,,,,,,,,19,2,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Lyra,Pit-Hag Pick,Jordan,Snake Charmer,,,,,,,,,,,19,2,3,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Jordan,Role Change,Snake Charmer,,,,,,,,,,,,19,2,3,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Permzilla,Demon Kill,Sam,,,,,,,,,,,,19,2,3,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Nara,Town Crier Information,Yes,,,,,,,,,,,,19,2,3,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Dice,Oracle Number,0,,,,,,,,,,,,19,2,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N2,Tanfana,Mathematician Number,0,,,,,,,,,,,,19,2,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Electra,Savant Info,At least 4 different players selected the same player during the night across the whole game|A evil player selected another evil player last night at least once,,,,,,,,,,,,19,2,3,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Jordan,Nomination,Piranha,V7,,,,,,,,,,,19,2,3,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Piranha,Nomination,Permzilla,V8,,,,,,,,,,,19,2,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Lyra,Nomination,Dice,V9,,,,,,,,,,,19,2,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Permzilla,Nomination,Weaver,V10,,,,,,,,,,,19,2,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Weaver,Nomination,Sam,V11,,,,,,,,,,,19,2,3,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Dice,Nomination,Lyphoon,V12,,,,,,,,,,,19,2,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D2,Weaver,Executed,,,,,,,,,,,,,19,2,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Lycan,Healthy,,,,,,,,,,,,,19,2,4,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Lycan,Snake Charmer Pick,Dice,,,,,,,,,,,,19,2,4,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Lyphoon,Cerenovus Madness,Nara|Savant,,,,,,,,,,,,19,2,4,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Lyra,Pit-Hag Pick,Jordan,Mutant,,,,,,,,,,,19,2,4,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Jordan,Role Change,Mutant,,,,,,,,,,,,19,2,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Permzilla,Demon Kill,Lyphoon,,,,,,,,,,,,19,2,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Permzilla,Vigormortis Poison,Electra,,,,,,,,,,,,19,2,4,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Electra,Poisoned,,,,,,,,,,,,,19,2,4,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Nara,Town Crier Information,Yes,,,,,,,,,,,,19,2,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Dice,Oracle Number,0,Fibbin,,,,,,,,,,,19,2,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N3,Tanfana,Mathematician Number,1,,,,,,,,,,,,19,2,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D3,Electra,Savant Info,Exactly 1 player caused another player to change character|The fibbin has been used,Poisoned,,,,,,,,,,,19,2,4,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D3,Jordan,Nomination,Piranha,V13,,,,,,,,,,,19,2,5,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D3,Piranha,Executed,,,,,,,,,,,,,19,2,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Lycan,Snake Charmer Pick,Jordan,,,,,,,,,,,,19,2,5,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Lyphoon,Cerenovus Madness,Tanfana|Dreamer,,,,,,,,,,,,19,2,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Lyra,Pit-Hag Pick,Permzilla,Fang Gu,,,,,,,,,,,19,2,5,Nara,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Permzilla,Role Change,Fang Gu,,,,,,,,,,,,19,2,5,Shaun,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Permzilla,Demon Kill,Jordan,Fang Gu Jump,,,,,,,,,,,19,2,5,Lyphoon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Jordan,Role Change,Fang Gu,,,,,,,,,,,,19,2,5,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Jordan,Alignment Change,Evil,,,,,,,,,,,,19,2,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Electra,Healthy,,,,,,,,,,,,,19,2,5,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Nara,Town Crier Information,No,,,,,,,,,,,,19,2,5,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Tanfana,Mathematician Number,1,,,,,,,,,,,,19,2,5,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N4,Dice,Killed,,Arbitrary Death,,,,,,,,,,,19,2,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D4,Electra,Savant Info,Exactly 2 dead evil players|There is exactly 1 dead demon,,,,,,,,,,,,19,2,6,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D4,Jordan,Nomination,Tanfana,V14,,,,,,,,,,,19,2,6,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D4,Lyra,Nomination,Lycan,V15,,,,,,,,,,,19,2,6,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D4,Lycan,Executed,,,,,,,,,,,,,19,2,6,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N5,Lyra,Pit-Hag Pick,Electra,Sweetheart,,,,,,,,,,,19,2,6,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N5,Jordan,Demon Kill,Electra,,,,,,,,,,,,19,2,6,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N5,Nara,Town Crier Information,Yes,,,,,,,,,,,,19,2,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N5,Tanfana,Drunked,,,,,,,,,,,,,19,2,6,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N5,Tanfana,Mathematician Number,1,,,,,,,,,,,,19,2,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D5,Jordan,Nomination,Weaver,V16,,,,,,,,,,,19,2,6,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D5,Weaver,Executed,,,,,,,,,,,,,19,2,6,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N6,Lyra,Pit-Hag Pick,Lyra,Sage,,,,,,,,,,,19,2,6,Nara,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N6,Jordan,Demon Kill,Nara,,,,,,,,,,,,19,2,6,Shaun,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,N6,Tanfana,Mathematician Number,0,,,,,,,,,,,,19,2,7,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D6,Tanfana,Nomination,Lyra,V17,,,,,,,,,,,19,2,7,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D6,Lyra,Executed,,,,,,,,,,,,,19,2,7,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,19,2,D6,,Game End,,Two Living Players,,,,,,,,,,,19,2,7,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,7,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,8,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,9,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Nara,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Lyphoon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,10,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,11,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Electra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,12,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,13,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,14,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Nara,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Electra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,15,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Nara,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Dice,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,16,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Sam,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Piranha,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Permzilla,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Nara,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Shaun,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Electra,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Dice,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,2,17,Lyra,TRUE,FALSE,FALSE

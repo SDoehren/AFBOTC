@@ -14,7 +14,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,10,3,Bluff,Monk,,,,10,3,N2,Tim,Poisoned,,,,10,3,13,Jordan,Piranha,4,TRUE,TRUE,,10,3,2,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,10,3,Bluff,Lycanthrope,,,,10,3,N2,Lycan,Healthy,,,,10,3,14,Billy,Jon,2,FALSE,FALSE,,10,3,2,Lycan,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,N2,Tim,Innkeeper Protect,Jordan|Billy,,,10,3,15,Jordan,Jon,2,FALSE,FALSE,,10,3,2,Jon,TRUE,FALSE,FALSE
-,,,,,,,,,,,,,,10,3,N2,Weaver,Demon Kill,Jordan,,,10,3,16,Sam,Billy,2,FALSE,FALSE,,10,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,10,3,N2,Weaver,Demon Kill,Jordan,Fang Gu Jump,,10,3,16,Sam,Billy,2,FALSE,FALSE,,10,3,2,Tim,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,N2,Jordan,Role Change,Fang Gu,,,10,3,17,Flossorapture,Jordan,3,TRUE,TRUE,,10,3,2,Flossorapture,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,N2,Jordan,Alignment Change,Evil,,,10,3,18,Jon,Sam,2,FALSE,FALSE,,10,3,2,Billy,FALSE,FALSE,FALSE
 ,,,,,,,,,,,,,,10,3,N2,Billy,Flowergirl Information,Yes,,,,,,,,,,,,10,3,2,Jordan,TRUE,FALSE,FALSE

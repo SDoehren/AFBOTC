@@ -11,7 +11,7 @@ Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,R
 ,,,,,,,16,1,Weaver,Poisoner,,FALSE,,16,1,N1,Frosty,Noble Information,Sam|Permzilla|Piranha,,,16,1,10,Jordan,Dice,2,FALSE,FALSE,,16,1,1,Permzilla,TRUE,FALSE,FALSE
 ,,,,,,,16,1,Sam,Fool,,FALSE,,16,1,N1,Tim,Balloonist Information,Frosty,,,16,1,11,Piranha,Jordan,2,FALSE,FALSE,,16,1,1,Weaver,FALSE,FALSE,FALSE
 ,,,,,,,16,1,Jordan,Mezepheles,,FALSE,,16,1,N1,Permzilla,Mathematician Number,1,,,16,1,12,Jordan,Tanfana,4,TRUE,FALSE,,16,1,1,Sam,TRUE,FALSE,FALSE
-,,,,,,,16,1,Electra,Innkeeper,,FALSE,,16,1,D1,Tanfana,Forms a Cult,T|F|F|F|T|F|F|F|F|F|T|T,,,16,1,13,Lyra,Lyra,5,TRUE,TRUE,,16,1,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,16,1,Electra,Innkeeper,,FALSE,,16,1,D1,Tanfana,Forms a Cult (Miscount),Failed,,,16,1,13,Lyra,Lyra,5,TRUE,TRUE,,16,1,1,Jordan,FALSE,FALSE,FALSE
 ,,,,,,,16,1,Tanfana,Cult Leader,,TRUE,,16,1,D1,Weaver,Nomination,Jordan,V1,,16,1,14,Jordan,Dice,12,TRUE,TRUE,,16,1,2,Sam,TRUE,FALSE,FALSE
 ,,,,,,,16,1,Dice,Voudon,Evil,FALSE,,16,1,D1,Jordan,Nomination,Weaver,V2,,16,1,15,Jordan,Tanfana,3,TRUE,TRUE,,16,1,2,Jordan,TRUE,FALSE,FALSE
 ,,,,,,,16,1,Bluff,Sailor,,,,16,1,D1,Tim,Nomination,Piranha,V3,,16,1,16,Piranha,Piranha,1,FALSE,FALSE,,16,1,2,Electra,TRUE,FALSE,FALSE

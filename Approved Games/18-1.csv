@@ -1,0 +1,121 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+26/06/2022,18,1,"Hello, Zepp",Good,12,,18,1,Alejo,ST,,,,18,1,N1,Lycan,Minion Information,Standard,,,18,1,1,Permzilla,Tim,5,TRUE,TRUE,,18,1,1,Stephen,TRUE,FALSE,FALSE
+,,,,,,,18,1,Dice,Judge,Good,FALSE,,18,1,N1,Weaver,Minion Information,Standard,,,18,1,2,Jordan,Weaver,3,FALSE,FALSE,,18,1,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,18,1,Frosty,Harlot,Good,FALSE,,18,1,N1,Jordan,Demon Information,Standard,,,18,1,3,Weaver,Jordan,3,FALSE,FALSE,,18,1,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,18,1,Permzilla,Flowergirl,,FALSE,,18,1,N1,Lyra,Pixie Information,Oracle,,,18,1,4,Tanfana,Billy,5,FALSE,FALSE,,18,1,1,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,18,1,Billy,Slayer,,FALSE,,18,1,D1,Permzilla,Nomination,Tim,V1,,18,1,5,Jordan,Tanfana,2,FALSE,FALSE,,18,1,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,18,1,Tim,Mutant,,FALSE,,18,1,D1,Jordan,Nomination,Weaver,V2,,18,1,6,Jordan,Weaver,0,FALSE,FALSE,,18,1,1,Lyra,FALSE,FALSE,FALSE
+,,,,,,,18,1,Stephen,Cannibal,,FALSE,,18,1,D1,Weaver,Nomination,Jordan,V3,,18,1,7,Lyra,Tanfana,2,FALSE,FALSE,,18,1,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,18,1,Sam,Klutz,,FALSE,,18,1,D1,Tim,Executed,,,,18,1,8,Tanfana,Jordan,4,TRUE,TRUE,,18,1,1,Dice,FALSE,FALSE,FALSE
+,,,,,,,18,1,Weaver,Goblin,,FALSE,,18,1,N2,Jordan,Al-Hadikhia Selection,Permzilla,,,18,1,9,Weaver,Lyra,2,FALSE,FALSE,,18,1,1,Frosty,FALSE,FALSE,FALSE
+,,,,,,,18,1,Tanfana,Oracle,,FALSE,,18,1,N2,Jordan,Al-Hadikhia Selection,Sam,,,18,1,10,Dice,Stephen,2,FALSE,FALSE,,18,1,1,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,18,1,Lycan,Baron,,FALSE,,18,1,N2,Jordan,Al-Hadikhia Selection,Weaver,,,,,,,,,,,,18,1,1,Billy,FALSE,FALSE,FALSE
+,,,,,,,18,1,Lyra,Pixie,,FALSE,,18,1,N2,Permzilla,Al-Hadikhia Decision,Live,,,,,,,,,,,,18,1,1,Tim,FALSE,FALSE,FALSE
+,,,,,,,18,1,Jordan,Al-Hadikhia,,FALSE,,18,1,N2,Sam,Al-Hadikhia Decision,Die,,,,,,,,,,,,18,1,2,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,18,1,Bluff,General,,,,18,1,N2,Weaver,Al-Hadikhia Decision,Live,,,,,,,,,,,,18,1,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,18,1,Bluff,Snake Charmer,,,,18,1,N2,Jordan,Demon Kill,Sam,,,,,,,,,,,,18,1,2,Lyra,FALSE,FALSE,FALSE
+,,,,,,,18,1,Bluff,Sweetheart,,,,18,1,N2,Permzilla,Flowergirl Information,Yes,,,,,,,,,,,,18,1,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N2,Tanfana,Oracle Number,0,,,,,,,,,,,,18,1,2,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D2,Sam,Klutz Pick,Permzilla,,,,,,,,,,,,18,1,2,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D2,Billy,Slayer Shot,Weaver,Miss,,,,,,,,,,,18,1,2,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D2,Tanfana,Nomination,Billy,V4,,,,,,,,,,,18,1,2,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D2,Jordan,Nomination,Tanfana,V5,,,,,,,,,,,18,1,2,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D2,Billy,Executed,,,,,,,,,,,,,18,1,2,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Frosty,Harlot Pick,Tanfana,,,,,,,,,,,,18,1,2,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Tanfana,Harlot Choice,Yes,,,,,,,,,,,,18,1,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Frosty,Harlot Information,Oracle,,,,,,,,,,,,18,1,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Jordan,Al-Hadikhia Selection,Lycan,,,,,,,,,,,,18,1,3,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Jordan,Al-Hadikhia Selection,Jordan,,,,,,,,,,,,18,1,3,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Jordan,Al-Hadikhia Selection,Stephen,,,,,,,,,,,,18,1,3,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Lycan,Al-Hadikhia Decision,Die,,,,,,,,,,,,18,1,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Jordan,Al-Hadikhia Decision,Live,,,,,,,,,,,,18,1,3,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Stephen,Al-Hadikhia Decision,Live,,,,,,,,,,,,18,1,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Jordan,Demon Kill,Lycan,,,,,,,,,,,,18,1,3,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Permzilla,Flowergirl Information,Yes,,,,,,,,,,,,18,1,3,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Tanfana,Oracle Number,1,,,,,,,,,,,,18,1,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,N3,Stephen,Cannibal Ability,Slayer,,,,,,,,,,,,18,1,3,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D3,Stephen,Slayer Shot,Permzilla,Miss,,,,,,,,,,,18,1,3,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D3,Jordan,Nomination,Weaver,V6,,,,,,,,,,,18,1,4,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,18,1,D3,Lyra,Nomination,Tanfana,V7,,,,,,,,,,,18,1,4,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D3,Tanfana,Nomination,Jordan,V8,,,,,,,,,,,18,1,4,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,18,1,D3,Weaver,Nomination,Lyra,V9,,,,,,,,,,,18,1,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D3,Dice,Nomination,Stephen,V10,,,,,,,,,,,18,1,4,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D3,Jordan,Executed,,,,,,,,,,,,,18,1,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,1,D3,,Game End,,Demon Executed,,,,,,,,,,,18,1,4,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,4,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,4,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,4,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,4,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,4,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,5,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,7,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,8,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,9,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Sam,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Billy,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,1,10,Stephen,FALSE,FALSE,FALSE

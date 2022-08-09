@@ -1,0 +1,24 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+26/06/2022,18,4,Trouble Brewing,Evil,7,,18,4,Alejo,ST,,,,18,4,N1,Lyra,Minion Information,Standard,,,18,4,1,Jordan,Lycan,3,TRUE,TRUE,,18,4,1,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,18,4,Lyphoon,Virgin,,FALSE,,18,4,N1,Lyra,Poisoner Pick,Jon,,,18,4,2,Lycan,Jordan,2,FALSE,FALSE,,18,4,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,18,4,Lyra,Poisoner,,FALSE,,18,4,N1,Jon,Poisoned,,,,,,,,,,,,,18,4,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,18,4,Lycan,Undertaker,,FALSE,,18,4,N1,Jordan,Demon Information,Standard,,,,,,,,,,,,18,4,1,Jon,FALSE,TRUE,FALSE
+,,,,,,,18,4,Tanfana,Ravenkeeper,,FALSE,,18,4,N1,Jon,Washerwoman Information,Monk|Jordan|Lyra,,,,,,,,,,,,18,4,1,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,18,4,Tim,Chef,,FALSE,,18,4,N1,Tim,Chef Number,0,,,,,,,,,,,,18,4,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,18,4,Jordan,Imp,,FALSE,,18,4,D1,Jon,Nomination,Lyphoon,No Vote,,,,,,,,,,,18,4,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,18,4,Jon,Washerwoman,,FALSE,,18,4,D1,Lyphoon,Virgin Kill,Jon,,,,,,,,,,,,18,4,2,Jon,FALSE,TRUE,FALSE
+,,,,,,,18,4,Bluff,Investigator,,,,18,4,N2,Lyra,Poisoner Pick,Tanfana,,,,,,,,,,,,18,4,2,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,18,4,Bluff,Monk,,,,18,4,N2,Jordan,Demon Kill,Tanfana,,,,,,,,,,,,18,4,2,Lyra,FALSE,FALSE,FALSE
+,,,,,,,18,4,Bluff,Mayor,,,,18,4,N2,Tanfana,Poisoned,,,,,,,,,,,,,18,4,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,4,N2,Jon,Healthy,,,,,,,,,,,,,18,4,2,Tanfana,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,18,4,N2,Tanfana,Ravenkeeper Information,Lyra|Empath,,,,,,,,,,,,18,4,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,18,4,N2,Lycan,Undertaker Information,Washerwoman,,,,,,,,,,,,18,4,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,18,4,D2,Jordan,Nomination,Lycan,V1,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,D2,Lycan,Nomination,Jordan,V2,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,D2,Lycan,Executed,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,N3,Jordan,Demon Kill,Lyphoon,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,N3,Lyra,Poisoner Pick,Tim,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,N3,Tanfana,Healthy,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,N3,Tim,Poisoned,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,N4,Jordan,Demon Kill,Tim,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,18,4,D4,,Game End,,Two Living Players,,,,,,,,,,,,,,,,,

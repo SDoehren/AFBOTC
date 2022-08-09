@@ -1,0 +1,19 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+10/07/2022,20,4,Race to the Bottom,Evil,6,,20,4,Alejo,ST,,,,20,4,N1,Lyphoon,Demon Information,None,,,20,4,1,Tanfana,Lycan,0,FALSE,FALSE,,20,4,1,Jordan,FALSE,TRUE,FALSE
+,,,,,,,20,4,Tanfana,Mayor,,FALSE,,20,4,N1,Lycan,Minion Information,None,,,20,4,2,KK,Lyphoon,2,TRUE,FALSE,,20,4,1,Weaver,FALSE,TRUE,FALSE
+,,,,,,,20,4,Lycan,Scarlet Woman,,FALSE,,20,4,N1,Weaver,Dreamer Check,Jordan|Clockmaker|Scarlet Woman,,,20,4,3,Lycan,KK,3,TRUE,TRUE,,20,4,1,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,20,4,Jordan,Slayer,,FALSE,,20,4,D1,KK,Doomsay,,,,,,,,,,,,,20,4,1,KK,FALSE,FALSE,FALSE
+,,,,,,,20,4,Weaver,Dreamer,,FALSE,,20,4,D1,Weaver,Killed,,Doomsay,,,,,,,,,,,20,4,1,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,20,4,Lyphoon,Vortox,,FALSE,,20,4,D1,Jordan,Slayer Shot,Lycan,Miss,,,,,,,,,,,20,4,1,Lycan,FALSE,FALSE,FALSE
+,,,,,,,20,4,KK,Lunatic,,FALSE,,20,4,D1,Tanfana,Doomsay,,,,,,,,,,,,,20,4,2,KK,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,20,4,D1,Jordan,Killed,,Doomsay,,,,,,,,,,,20,4,2,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,20,4,D1,Tanfana,Nomination,Lycan,V1,,,,,,,,,,,20,4,2,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,20,4,D1,KK,Nomination,Lyphoon,V2,,,,,,,,,,,20,4,2,Jordan,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,20,4,D1,Lycan,Nomination,KK,V3,,,,,,,,,,,20,4,2,Weaver,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,20,4,D1,KK,Executed,,,,,,,,,,,,,20,4,2,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,20,4,D1,,Game End,,Two Living Players,,,,,,,,,,,20,4,3,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,4,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,4,3,Jordan,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,4,3,Weaver,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,4,3,Lyphoon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,4,3,KK,FALSE,FALSE,FALSE

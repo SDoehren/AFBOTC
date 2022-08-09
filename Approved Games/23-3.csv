@@ -1,0 +1,91 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+31/07/2022,23,3,Bad Moon Rising,Good,9,,23,3,Tanfana,ST,,,,23,3,N1,Tim,Minion Information,Standard,,,23,3,1,Tim,Lyphoon,4,FALSE,FALSE,,23,3,1,Stephen,FALSE,FALSE,FALSE
+,,,,,,,23,3,Alejo,ST,,FALSE,,23,3,N1,KK,Demon Information,Standard,,,23,3,2,Jordan,KK,2,FALSE,FALSE,,23,3,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,23,3,Lyphoon,Gossip,,FALSE,,23,3,N1,Weaver,Grandmother Information,Lyra|Moonchild,,,23,3,3,Weaver,Weaver,6,TRUE,TRUE,,23,3,1,KK,TRUE,FALSE,FALSE
+,,,,,,,23,3,Stephen,Professor,,FALSE,,23,3,N1,Jordan,Chambermaid Choice,Lyra|Lycan|0,,,23,3,4,Piranha,KK,4,FALSE,FALSE,,23,3,1,Lyra,TRUE,FALSE,FALSE
+,,,,,,,23,3,Lycan,Tinker,,FALSE,,23,3,D1,Lyphoon,Gossip,The demon is a Shabaloth or a Po,,,23,3,5,Jordan,Tim,2,FALSE,FALSE,,23,3,1,Piranha,FALSE,FALSE,FALSE
+,,,,,,,23,3,KK,Shabaloth,,FALSE,,23,3,D1,Tim,Nomination,Lyphoon,V1,,23,3,6,Tim,Weaver,1,FALSE,FALSE,,23,3,1,Jordan,FALSE,FALSE,FALSE
+,,,,,,,23,3,Lyra,Moonchild,,FALSE,,23,3,D1,Jordan,Nomination,KK,V2,,23,3,7,KK,Lycan,5,TRUE,TRUE,,23,3,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,23,3,Piranha,Innkeeper,,FALSE,,23,3,D1,Weaver,Nomination,Weaver,V3,,23,3,8,Lycan,Stephen,2,FALSE,FALSE,,23,3,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,23,3,Jordan,Chambermaid,,FALSE,,23,3,D1,Weaver,Executed,,,,23,3,9,Jordan,KK,5,TRUE,TRUE,,23,3,1,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,23,3,Weaver,Grandmother,,FALSE,,23,3,N2,Piranha,Innkeeper Protect,Lycan|Tim,,,23,3,10,Tim,Jordan,2,FALSE,FALSE,,23,3,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,23,3,Tim,Assassin,,FALSE,,23,3,N2,Lycan,Innkeeper Drunk,,,,,,,,,,,,,23,3,2,Piranha,FALSE,FALSE,FALSE
+,,,,,,,23,3,Bluff,Exorcist,,,,23,3,N2,KK,Demon Kill,Weaver,,,,,,,,,,,,23,3,2,Jordan,FALSE,FALSE,FALSE
+,,,,,,,23,3,Bluff,Gambler,,,,23,3,N2,KK,Demon Kill,Lycan,Innkeeper Protect,,,,,,,,,,,23,3,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,23,3,Bluff,Courtier,,,,23,3,N2,Stephen,Professor Choice,Weaver,,,,,,,,,,,,23,3,2,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N2,Weaver,Grandmother Information,Lyra|Moonchild,,,,,,,,,,,,23,3,2,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N2,Lyphoon,Gossip Kill,Lyphoon,,,,,,,,,,,,23,3,2,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N2,Jordan,Chambermaid Choice,KK|Piranha|2,,,,,,,,,,,,23,3,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D2,Piranha,Nomination,KK,V4,,,,,,,,,,,23,3,2,KK,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D2,Jordan,Nomination,Tim,V5,,,,,,,,,,,23,3,3,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D2,Tim,Nomination,Weaver,V6,,,,,,,,,,,23,3,3,Lyphoon,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D2,KK,Nomination,Lycan,V7,,,,,,,,,,,23,3,3,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D2,Lycan,Nomination,Stephen,V8,,,,,,,,,,,23,3,3,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D2,Lycan,Executed,,,,,,,,,,,,,23,3,3,KK,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N3,Piranha,Innkeeper Protect,Stephen|Weaver,,,,,,,,,,,,23,3,3,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N3,Lycan,Healthy,,,,,,,,,,,,,23,3,3,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N3,Weaver,Innkeeper Drunk,,,,,,,,,,,,,23,3,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N3,KK,Demon Kill,Lyphoon,,,,,,,,,,,,23,3,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N3,KK,Demon Kill,Lycan,,,,,,,,,,,,23,3,4,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N3,Tim,Assassin Kill,Piranha,,,,,,,,,,,,23,3,4,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,N3,Jordan,Chambermaid Choice,Stephen|KK|1,,,,,,,,,,,,23,3,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D3,Jordan,Nomination,KK,V9,,,,,,,,,,,23,3,4,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D3,Tim,Nomination,Jordan,V10,,,,,,,,,,,23,3,4,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,23,3,D3,KK,Executed,,,,,,,,,,,,,23,3,4,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,23,3,D3,,Game End,,Demon Executed,,,,,,,,,,,23,3,4,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,4,KK,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,KK,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,KK,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,KK,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,7,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,KK,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,8,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,9,KK,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,KK,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Piranha,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,3,10,Jordan,FALSE,FALSE,FALSE

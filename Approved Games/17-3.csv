@@ -1,5 +1,5 @@
 Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
-19/06/2022,17,3,Sects & Violets,Good,10,,17,3,Alejo,ST,,,,17,3,N1,Tanfana,Philosopher Switch,Snake Charmer,,,17,3,1,Jordan,Dice,10,TRUE,TRUE,,17,3,1,Stephen,TRUE,FALSE,FALSE
+19/06/2022,17,3,Sects and Violets,Good,10,,17,3,Alejo,ST,,,,17,3,N1,Tanfana,Philosopher Switch,Snake Charmer,,,17,3,1,Jordan,Dice,10,TRUE,TRUE,,17,3,1,Stephen,TRUE,FALSE,FALSE
 ,,,,,,,17,3,Piranha,Seamstress,,FALSE,,17,3,N1,Stephen,Minion Information,Standard,,,17,3,2,Lyra,Jordan,2,FALSE,FALSE,,17,3,1,Jon,TRUE,FALSE,FALSE
 ,,,,,,,17,3,Jordan,Mathematician,,FALSE,,17,3,N1,Weaver,Demon Information,Standard,,,17,3,3,Jordan,Tanfana,2,FALSE,FALSE,,17,3,1,Kani,TRUE,FALSE,FALSE
 ,,,,,,,17,3,Tanfana,Philosopher,,TRUE,,17,3,N1,Tanfana,Snake Charmer Pick,Jordan,,,17,3,4,Weaver,Lyra,4,FALSE,FALSE,,17,3,1,Lyra,TRUE,FALSE,FALSE

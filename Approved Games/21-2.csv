@@ -1,0 +1,230 @@
+Date,Session,Game Number,Script,Result,PlayerCount,,Session,Game Number,Player,Role,Notes,Alignment Switch,,Session,Game Number,Phase,Player,Action,Target,Note,,Session,Game Number,Vote Number,Player,Target,Total Votes,On the Block,Executed,,Session,Game Number,Vote Number,Player,Voted,Dead,Dead Vote Used
+17/07/2022,21,2,"Knowing Me, Knowing You",Good,14,,21,2,Alejo,ST,,,,21,2,N1,Frosty,Revolutionary Pair Information,Lyphoon,,,21,2,1,Jordan,Kani,9,TRUE,TRUE,,21,2,1,Stephen,TRUE,FALSE,FALSE
+,,,,,,,21,2,Navean,ST,,,,21,2,N1,Tim,Revolutionary Pair Information,Sam,,,21,2,2,Jordan,Frosty,8,TRUE,TRUE,,21,2,1,Permzilla,TRUE,FALSE,FALSE
+,,,,,,,21,2,Frosty,Amnesiac,,FALSE,,21,2,N1,Lycan,Revolutionary Pair Information,Weaver,,,21,2,3,Weaver,Lycan,3,FALSE,FALSE,,21,2,1,Jordan,TRUE,FALSE,FALSE
+,,,,,,,21,2,Lyphoon,Bounty Hunter,,FALSE,,21,2,N1,Lyra,Revolutionary Pair Information,Dice,,,21,2,4,Lycan,Weaver,7,TRUE,TRUE,,21,2,1,Piranha,TRUE,FALSE,FALSE
+,,,,,,,21,2,Tim,Fortune Teller,,FALSE,,21,2,N1,Tanfana,Revolutionary Pair Information,Kani,,,21,2,5,Sam,Lycan,2,FALSE,FALSE,,21,2,1,Frosty,FALSE,FALSE,FALSE
+,,,,,,,21,2,Sam,Drunk,Seamstress,FALSE,,21,2,N1,Stephen,Revolutionary Pair Information,Permzilla,,,21,2,6,Piranha,Stephen,0,FALSE,FALSE,,21,2,1,Lyphoon,FALSE,FALSE,FALSE
+,,,,,,,21,2,Lycan,No Dashii,,TRUE,,21,2,N1,Jordan,Revolutionary Pair Information,Piranha,,,21,2,7,Lycan,Lycan,4,FALSE,FALSE,,21,2,1,Tim,TRUE,FALSE,FALSE
+,,,,,,,21,2,Weaver,Poisoner,,FALSE,,21,2,N1,Frosty,Amnesiac Ability,"Each night, choose a player; they are sober and healthy till dusk",,,21,2,8,Piranha,Stephen,2,FALSE,FALSE,,21,2,1,Sam,TRUE,FALSE,FALSE
+,,,,,,,21,2,Lyra,Dreamer,,FALSE,,21,2,N1,Lycan,No Dashii Poison,Lyra|Tim,,,21,2,9,Jordan,Stephen,5,TRUE,TRUE,,21,2,1,Lycan,TRUE,FALSE,FALSE
+,,,,,,,21,2,Dice,Ravenkeeper,,FALSE,,21,2,N1,Lyra,Poisoned,,,,21,2,10,Stephen,Jordan,2,FALSE,FALSE,,21,2,1,Weaver,FALSE,FALSE,FALSE
+,,,,,,,21,2,Tanfana,Artist,,TRUE,,21,2,N1,Tim,Poisoned,,,,,,,,,,,,,21,2,1,Lyra,FALSE,FALSE,FALSE
+,,,,,,,21,2,Kani,Scarlet Woman,,FALSE,,21,2,N1,Permzilla,Minion Information,Standard,,,,,,,,,,,,21,2,1,Dice,TRUE,FALSE,FALSE
+,,,,,,,21,2,Stephen,Snake Charmer,,TRUE,,21,2,N1,Weaver,Minion Information,Standard,,,,,,,,,,,,21,2,1,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,21,2,Permzilla,Spy,,FALSE,,21,2,N1,Kani,Minion Information,Standard,,,,,,,,,,,,21,2,1,Kani,FALSE,FALSE,FALSE
+,,,,,,,21,2,Jordan,Washerwoman,,FALSE,,21,2,N1,Lycan,Demon Information,Standard,,,,,,,,,,,,21,2,2,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,21,2,Piranha,Librarian,,FALSE,,21,2,N1,Frosty,Amnesiac Action - Select 1 player,Jordan,,,,,,,,,,,,21,2,2,Tim,TRUE,FALSE,FALSE
+,,,,,,,21,2,Bluff,Oracle,,,,21,2,N1,Weaver,Poisoner Pick,Tanfana,,,,,,,,,,,,21,2,2,Sam,TRUE,FALSE,FALSE
+,,,,,,,21,2,Bluff,Fisherman,,,,21,2,N1,Tanfana,Poisoned,,,,,,,,,,,,,21,2,2,Lycan,TRUE,FALSE,FALSE
+,,,,,,,21,2,Bluff,Recluse,,,,21,2,N1,Stephen,Snake Charmer Pick,Lycan,,,,,,,,,,,,21,2,2,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Stephen,Role Change,No Dashii,,,,,,,,,,,,21,2,2,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Stephen,Alignment Change,Evil,,,,,,,,,,,,21,2,2,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Lycan,Role Change,Snake Charmer,,,,,,,,,,,,21,2,2,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Lycan,Alignment Change,Good,,,,,,,,,,,,21,2,2,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Lycan,Snake Charm Poison,,,,,,,,,,,,,21,2,2,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Stephen,No Dashii Poison,Jordan|Tanfana,,,,,,,,,,,,21,2,2,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Tim,Healthy,,,,,,,,,,,,,21,2,2,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Lyra,Healthy,,,,,,,,,,,,,21,2,2,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Jordan,Poisoned,,,,,,,,,,,,,21,2,2,Frosty,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Jordan,Washerwoman Information,Seamstress|Permzilla|Sam,,,,,,,,,,,,21,2,3,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Piranha,Librarian Information,Drunk|Permzilla|Sam,,,,,,,,,,,,21,2,3,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Tim,Fortune Teller Information,Lyra|Dice|No,,,,,,,,,,,,21,2,3,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Sam,Seamstress Pick,Frosty|Piranha|No,,,,,,,,,,,,21,2,3,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Lyra,Dreamer Check,Piranha|Librarian|Imp,,,,,,,,,,,,21,2,3,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Lyphoon,Bounty Hunter Information,Lycan,Revolutionary,,,,,,,,,,,21,2,3,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N1,Frosty,Amnesiac Question,Does my ability negatively affect the person I select?,Cold,,,,,,,,,,,21,2,3,Permzilla,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D1,Jordan,Nomination,Kani,V1,,,,,,,,,,,21,2,3,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D1,Kani,Executed,,,,,,,,,,,,,21,2,3,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N2,Frosty,Amnesiac Action - Select 1 player,Lyphoon,,,,,,,,,,,,21,2,3,Frosty,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N2,Weaver,Poisoner Pick,Dice,,,,,,,,,,,,21,2,3,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,N2,Dice,Poisoned,,,,,,,,,,,,,21,2,3,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N2,Lycan,Snake Charmer Pick,Lycan,,,,,,,,,,,,21,2,3,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N2,Stephen,Demon Kill,Lyphoon,,,,,,,,,,,,21,2,3,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N2,Tim,Fortune Teller Information,Lyra|Dice|No,,,,,,,,,,,,21,2,4,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N2,Lyra,Dreamer Check,Stephen|Barber|No Dashii,,,,,,,,,,,,21,2,4,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D2,Frosty,Amnesiac Question,Do I give the player I select sober information?,Bingo,,,,,,,,,,,21,2,4,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D2,Jordan,Nomination,Frosty,V2,,,,,,,,,,,21,2,4,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,D2,Weaver,Nomination,Lycan,V3,,,,,,,,,,,21,2,4,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D2,Frosty,Executed,,,,,,,,,,,,,21,2,4,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,N3,Weaver,Poisoner Pick,Jordan,,,,,,,,,,,,21,2,4,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N3,Dice,Healthy,,,,,,,,,,,,,21,2,4,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N3,Lycan,Snake Charmer Pick,Lycan,,,,,,,,,,,,21,2,4,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,N3,Stephen,Demon Kill,Permzilla,,,,,,,,,,,,21,2,4,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,N3,Tim,Fortune Teller Information,Jordan|Tanfana|No,,,,,,,,,,,,21,2,4,Tim,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N3,Lyra,Dreamer Check,Tim|Fortune Teller|No Dashii,,,,,,,,,,,,21,2,4,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D3,Lycan,Nomination,Weaver,V4,,,,,,,,,,,21,2,4,Lycan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D3,Sam,Nomination,Lycan,V5,,,,,,,,,,,21,2,4,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D3,Piranha,Nomination,Stephen,V6,,,,,,,,,,,21,2,5,Weaver,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D3,Weaver,Executed,,,,,,,,,,,,,21,2,5,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N4,Lycan,Snake Charmer Pick,Lycan,,,,,,,,,,,,21,2,5,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N4,Stephen,Demon Kill,Tim,,,,,,,,,,,,21,2,5,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N4,Lyra,Dreamer Check,Sam|Drunk|Poisoner,,,,,,,,,,,,21,2,5,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,D4,Lycan,Nomination,Lycan,V7,,,,,,,,,,,21,2,5,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D4,Piranha,Nomination,Stephen,V8,,,,,,,,,,,21,2,5,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,D4,Lycan,Executed,,,,,,,,,,,,,21,2,5,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N5,Stephen,Demon Kill,Piranha,,,,,,,,,,,,21,2,5,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,N5,Lyra,Dreamer Check,Dice|Ravenkeeper|No Dashii,,,,,,,,,,,,21,2,5,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,D5,Jordan,Nomination,Stephen,V9,,,,,,,,,,,21,2,5,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,21,2,D5,Stephen,Nomination,Jordan,V10,,,,,,,,,,,21,2,5,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D5,Stephen,Executed,,,,,,,,,,,,,21,2,5,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,21,2,D5,,Game End,,Demon Executed,,,,,,,,,,,21,2,5,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Piranha,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Tim,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Weaver,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,6,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,7,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Piranha,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Lycan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,8,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Jordan,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Piranha,TRUE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Sam,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Lyra,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Dice,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Tanfana,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,9,Stephen,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Piranha,FALSE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Frosty,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Lyphoon,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Tim,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Sam,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Lycan,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Weaver,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Lyra,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Dice,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Tanfana,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Kani,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Stephen,TRUE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Permzilla,FALSE,TRUE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,10,Jordan,FALSE,FALSE,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,11,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,13,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,15,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,17,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,17,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,17,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,17,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,2,17,,,,
